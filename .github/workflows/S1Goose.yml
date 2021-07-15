@@ -25,7 +25,7 @@ jobs:
       env:
         S1_COOKIE: ${{ secrets.S1_COOKIE }}
       run: |
-        python s1.py
+        python S1GooseGet.py
     - name: commit
       env:
         TZ: 'CST-8'
