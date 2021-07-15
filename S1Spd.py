@@ -32,8 +32,12 @@ def get_postlist(link):
         nxt = "https://bbs.saraba1st.com/2b/"+nxt[0]["href"]
     else:
         nxt = -1
-    soup = soup.body.find_all("div", id='ct')[0].find_all("div", id="postlist")[0]
-    postlist = soup.find_all("div", id=re.compile("post_[0-9]+"))
+    try:
+        soup = soup.body.find_all("div", id='ct')[0].find_all("div", id="postlist")[0]
+        postlist = soup.find_all("div", id=re.compile("post_[0-9]+"))
+    except Exception:
+        pass
+        postlist = []
     return postlist,nxt
 
 #返回一个post的楼层数 int
@@ -56,16 +60,17 @@ def get_goosedict(post):
     gooselist = requests.get(gooselink)
     gooselist = bs(gooselist.text,"lxml")
     gooselist = gooselist.find_all("div", class_="c floatwrap")[0].find_all("tr")[1:]
-
     res = {}
     for goose in gooselist:
         attr = goose.find_all('td')
         num = int(attr[0].string[4:-1])
         gooser = attr[1].string
         comment = attr[-1].string
+        '''
         if comment is None:
             comment =  ""
-        res[gooser] = (num,comment)
+        res[gooser] = (num,comment)'''
+        res[gooser] = (num)
     return res
 
 #返回评论文字内容 可控制是否包含引用
@@ -85,7 +90,7 @@ def get_comment(post,include_quote = False):
 
 if __name__ == '__main__':
 
-
+    
     ###EXAMPLE
     link = "https://bbs.saraba1st.com/2b/thread-2013586-1-1.html"
     """

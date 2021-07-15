@@ -1,6 +1,8 @@
 
 import pickle
 import S1Spd
+import json
+import os
 
 
 
@@ -67,18 +69,28 @@ if __name__ == '__main__':
                      366,370,374,376,381,382,386,388,403,442,455,461,469,470,482,487,490,494,506,511,527,528,530,532,545,549,
                      551,552,558,559,560,565,581,638,647,656,677,683,685,687,689,692,693,696,712,719,721,722,723,727,728,731,732,
                      735,738,771,777,778,798,810,862,869]"""
-
+    
     ###EXAMPLE
-    link = "https://bbs.saraba1st.com/2b/thread-2013586-1-1.html"
+    link = "https://bbs.saraba1st.com/2b/thread-2015387-1-1.html"
     posts = S1Spd.get_allpost(link=link)
     print("get post finish")
-    res = get_S1_dict(posts)
-    for k in res.keys():
-        print(res[k])
-
+    res=[]
+    for post in posts:
+        level = S1Spd.get_level(post)
+        poster = S1Spd.get_postername(post)
+        gooselist = S1Spd.get_goosedict(post)
+        if(gooselist):
+            data={}
+            data['level'] = level
+            data['id'] = poster
+            data['goose'] = gooselist
+            res.append(data)
+    if(posts):
+        with open('./data/'+str(2015501)+'.json',"w",encoding='utf-8') as f:
+                f.write(json.dumps(res,indent=2,ensure_ascii=False))
     # import sy
     # sys.setrecursionlimit(10000)
-    save_obj(res,"EXAMPLE.pkl")#这个保存方法特别费递归深度，可以用上面两行代码放开限制，或者干脆重写个正常点的
+    #save_obj(res,"EXAMPLE.pkl")#这个保存方法特别费递归深度，可以用上面两行代码放开限制，或者干脆重写个正常点的
 
 
 
