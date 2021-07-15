@@ -17,7 +17,7 @@ def getkwfile(flist, keyword):
     return res
 
 if __name__ == "__main__":
-    dirpath = '/home/riko/S1PlainTextArchive2021/'
+    dirpath = '/home/riko/S1PlainTextBackup/'
     filepaths = []                                
     all_files_path(dirpath)
     for files in filepaths:
