@@ -1,0 +1,77 @@
+[
+  {
+    "level": 1,
+    "id": "谷歌街景",
+    "goose": {
+      "老贝": 1,
+      "格雷希尔": 1,
+      "NF17": 2,
+      "heyfly": 2,
+      "蓝翔技校": 1,
+      "佛兰克": 2,
+      "fat": 2,
+      "Xerxes_2": 2,
+      "segecong": 1,
+      "mzdrgwj": 1
+    }
+  },
+  {
+    "level": 2,
+    "id": "谷歌街景",
+    "goose": {
+      "NF17": 2,
+      "毒刺水母": 1
+    }
+  },
+  {
+    "level": 36,
+    "id": "jctc",
+    "goose": {
+      "mengkane": 1
+    }
+  },
+  {
+    "level": 38,
+    "id": "谷歌街景",
+    "goose": {
+      "Corpselord": 1,
+      "yukiecho": 1,
+      "NF17": 2
+    }
+  },
+  {
+    "level": 50,
+    "id": "谷歌街景",
+    "goose": {
+      "NF17": -2
+    }
+  },
+  {
+    "level": 77,
+    "id": "谷歌街景",
+    "goose": {
+      "伏羲茶": 2
+    }
+  },
+  {
+    "level": 112,
+    "id": "谷歌街景",
+    "goose": {
+      "营业收入": 1
+    }
+  },
+  {
+    "level": 147,
+    "id": "谷歌街景",
+    "goose": {
+      "ETdiablo": 1
+    }
+  },
+  {
+    "level": 151,
+    "id": "谷歌街景",
+    "goose": {
+      "captoon": 4
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "level": 18,
+    "id": "阿米巴",
+    "goose": {
+      "勉强": 1
+    }
+  },
+  {
+    "level": 66,
+    "id": "古蕾雅",
+    "goose": {
+      "给我加个鹅吧": 1
+    }
+  },
+  {
+    "level": 72,
+    "id": "bbweiweiw",
+    "goose": {
+      "花鸡蛋蛋": 1
+    }
+  },
+  {
+    "level": 101,
+    "id": "花鸡蛋蛋",
+    "goose": {
+      "bbweiweiw": 1,
+      "holdson": 1,
+      "安姆闲人": 1
+    }
+  },
+  {
+    "level": 103,
+    "id": "supd33556",
+    "goose": {
+      "沙夜": 1,
+      "尼特子很辛苦哟": 1
+    }
+  },
+  {
+    "level": 107,
+    "id": "安姆闲人",
+    "goose": {
+      "holdson": 1
+    }
+  },
+  {
+    "level": 116,
+    "id": "supd33556",
+    "goose": {
+      "Keynes": -1,
+      "cortexiv": 1,
+      "keysword": 1,
+      "Anoneko": 1,
+      "南极磷": 1,
+      "净世红烧肉": 1,
+      "Kobayashi": 1,
+      "vcaition": 1,
+      "若荼泱": 1
+    }
+  },
+  {
+    "level": 117,
+    "id": "supd33556",
+    "goose": {
+      "Keynes": 1
+    }
+  },
+  {
+    "level": 187,
+    "id": "kiritokun",
+    "goose": {
+      "1a不解释": 1
+    }
+  }
+]

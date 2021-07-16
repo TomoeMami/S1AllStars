@@ -1,0 +1,38 @@
+[
+  {
+    "level": 18,
+    "id": "Keynes",
+    "goose": {
+      "威爾第晚禱": 1
+    }
+  },
+  {
+    "level": 20,
+    "id": "青龙圣者",
+    "goose": {
+      "MagicalMinori": 1
+    }
+  },
+  {
+    "level": 23,
+    "id": "liujx0173",
+    "goose": {
+      "aw627": 1
+    }
+  },
+  {
+    "level": 26,
+    "id": "imbazdw",
+    "goose": {
+      "lukesweet": 1
+    }
+  },
+  {
+    "level": 30,
+    "id": "十度和弦",
+    "goose": {
+      "narizen": 1,
+      "威爾第晚禱": 1
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "level": 1,
+    "id": "松川奈々",
+    "goose": {
+      "无所不黑": 1
+    }
+  },
+  {
+    "level": 132,
+    "id": "lais",
+    "goose": {
+      "helium_lee": -1,
+      "werone": -1,
+      "松川奈々": -2
+    }
+  },
+  {
+    "level": 134,
+    "id": "lais",
+    "goose": {
+      "denok": -1
+    }
+  }
+]

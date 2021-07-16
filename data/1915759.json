@@ -1,0 +1,18 @@
+[
+  {
+    "level": 1,
+    "id": "小岛武夫",
+    "goose": {
+      "TheDoctor": 1,
+      "白龙": 1,
+      "SEIREIEI": 1
+    }
+  },
+  {
+    "level": 51,
+    "id": "waterstars",
+    "goose": {
+      "掉过脑袋": 1
+    }
+  }
+]

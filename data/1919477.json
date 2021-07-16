@@ -1,0 +1,54 @@
+[
+  {
+    "level": 4,
+    "id": "Juniversal",
+    "goose": {
+      "colamitsuyo": 1,
+      "akiji": 1,
+      "尼特子很辛苦哟": 1,
+      "牛兔子": 1,
+      "吃瓜的恶魔": 1,
+      "vcaition": 1,
+      "饭来张口": -1,
+      "仙子伊布": 1,
+      "glimering": 1,
+      "dfgdg345": 1
+    }
+  },
+  {
+    "level": 10,
+    "id": "Mr.Cheung",
+    "goose": {
+      "irinwind": 1
+    }
+  },
+  {
+    "level": 59,
+    "id": "eidos",
+    "goose": {
+      "伊良部一郎": 1
+    }
+  },
+  {
+    "level": 61,
+    "id": "PENTAX-DA",
+    "goose": {
+      "lacusforever": 1,
+      "バカ": 1
+    }
+  },
+  {
+    "level": 77,
+    "id": "lacusforever",
+    "goose": {
+      "eidos": -2
+    }
+  },
+  {
+    "level": 127,
+    "id": "lacusforever",
+    "goose": {
+      "eidos": -2
+    }
+  }
+]

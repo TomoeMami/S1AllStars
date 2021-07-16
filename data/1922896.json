@@ -1,0 +1,46 @@
+[
+  {
+    "level": 2,
+    "id": "坦克",
+    "goose": {
+      "喝红茶的杨": 1,
+      "kabunsan": 1
+    }
+  },
+  {
+    "level": 9,
+    "id": "redfea",
+    "goose": {
+      "denok": 1
+    }
+  },
+  {
+    "level": 10,
+    "id": "leolodge",
+    "goose": {
+      "利物浦": 1,
+      "曹操的槊": 1
+    }
+  },
+  {
+    "level": 13,
+    "id": "demokrit",
+    "goose": {
+      "抹布味道好": 1
+    }
+  },
+  {
+    "level": 62,
+    "id": "叹希奇",
+    "goose": {
+      "小肠溃疡": 1
+    }
+  },
+  {
+    "level": 151,
+    "id": "白昼梦",
+    "goose": {
+      "枯树大贤者": 2
+    }
+  }
+]

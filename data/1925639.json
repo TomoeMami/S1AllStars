@@ -1,0 +1,48 @@
+[
+  {
+    "level": 17,
+    "id": "龙星丸",
+    "goose": {
+      "wap": 1,
+      "flyfish": 1,
+      "绫崎飒": 1,
+      "Sangria": -1
+    }
+  },
+  {
+    "level": 63,
+    "id": "deathomega",
+    "goose": {
+      "youlen": 1
+    }
+  },
+  {
+    "level": 67,
+    "id": "H5N1",
+    "goose": {
+      "BRRM": 1,
+      "雨樊133122": -1
+    }
+  },
+  {
+    "level": 76,
+    "id": "天妇罗盖饭",
+    "goose": {
+      "youlen": 1
+    }
+  },
+  {
+    "level": 116,
+    "id": "柒月律",
+    "goose": {
+      "白面清纯宁采臣": 1
+    }
+  },
+  {
+    "level": 200,
+    "id": "这个鱼塘承包你",
+    "goose": {
+      "youlen": 1
+    }
+  }
+]

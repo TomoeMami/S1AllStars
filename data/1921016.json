@@ -1,0 +1,32 @@
+[
+  {
+    "level": 3,
+    "id": "飞哥厨",
+    "goose": {
+      "粪海肥蛆": 1
+    }
+  },
+  {
+    "level": 12,
+    "id": "deadog",
+    "goose": {
+      "groovyoung": 1,
+      "薛素姐": 1,
+      "yxch": 1
+    }
+  },
+  {
+    "level": 22,
+    "id": "wave14",
+    "goose": {
+      "Rincewind": 1
+    }
+  },
+  {
+    "level": 71,
+    "id": "yuriyang",
+    "goose": {
+      "利物浦": 1
+    }
+  }
+]

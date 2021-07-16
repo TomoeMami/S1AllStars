@@ -1,0 +1,36 @@
+[
+  {
+    "level": 6,
+    "id": "近月",
+    "goose": {
+      "KaneL": 1,
+      "ArowRocher": 2,
+      "马甲号2": -1,
+      "爱尔米娜": -1
+    }
+  },
+  {
+    "level": 14,
+    "id": "REST",
+    "goose": {
+      "绿茶与猫": 1
+    }
+  },
+  {
+    "level": 18,
+    "id": "落日六号_",
+    "goose": {
+      "不和谐音": 1,
+      "visualcc": 1,
+      "白水金匀": 1,
+      "MagicalMinori": 1
+    }
+  },
+  {
+    "level": 120,
+    "id": "v_lancelot",
+    "goose": {
+      "KaneL": 1
+    }
+  }
+]

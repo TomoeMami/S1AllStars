@@ -1,0 +1,16 @@
+[
+  {
+    "level": 32,
+    "id": "deutsche",
+    "goose": {
+      "Faerire": 1
+    }
+  },
+  {
+    "level": 37,
+    "id": "Roeland",
+    "goose": {
+      "nanonya": 1
+    }
+  }
+]
