@@ -1,0 +1,153 @@
+[
+  {
+    "id": "lancasterliang",
+    "level": "3130",
+    "goose": {
+      "Ember": "1"
+    }
+  },
+  {
+    "id": "枫紫",
+    "level": "3131",
+    "goose": {
+      "Ember": "1"
+    }
+  },
+  {
+    "id": "hinarin",
+    "level": "3147",
+    "goose": {
+      "Ember": "1"
+    }
+  },
+  {
+    "id": "daqi",
+    "level": "3201",
+    "goose": {
+      "Ember": "1"
+    }
+  },
+  {
+    "id": "shadowof",
+    "level": "3207",
+    "goose": {
+      "dorasir": "1"
+    }
+  },
+  {
+    "id": "oaf90ju",
+    "level": "3208",
+    "goose": {
+      "dorasir": "1"
+    }
+  },
+  {
+    "id": "shadowof",
+    "level": "3278",
+    "goose": {
+      "supergilaboy": "1"
+    }
+  },
+  {
+    "id": "supergilaboy",
+    "level": "3375",
+    "goose": {
+      "吉诺爱比利": "1"
+    }
+  },
+  {
+    "id": "supergilaboy",
+    "level": "3423",
+    "goose": {
+      "lancasterliang": "1"
+    }
+  },
+  {
+    "id": "shadowof",
+    "level": "3858",
+    "goose": {
+      "烈之斩": "2"
+    }
+  },
+  {
+    "id": "charlygaol",
+    "level": "3864",
+    "goose": {
+      "supergilaboy": "1",
+      "千本blur": "1"
+    }
+  },
+  {
+    "id": "任天索尼子",
+    "level": "3879",
+    "goose": {
+      "shadowof": "1"
+    }
+  },
+  {
+    "id": "fw441",
+    "level": "3995",
+    "goose": {
+      "烈之斩": "1"
+    }
+  },
+  {
+    "id": "烈之斩",
+    "level": "4004",
+    "goose": {
+      "tbchyu001": "1",
+      "没落の翼": "2"
+    }
+  },
+  {
+    "id": "烈之斩",
+    "level": "4021",
+    "goose": {
+      "hinangel": "1",
+      "tbchyu001": "1",
+      "hypnossz86": "1"
+    }
+  },
+  {
+    "id": "shadowof",
+    "level": "4055",
+    "goose": {
+      "烈之斩": "1"
+    }
+  },
+  {
+    "id": "",
+    "level": "4071",
+    "goose": {
+      "gaomao": "1"
+    }
+  },
+  {
+    "id": "hypnossz86",
+    "level": "4098",
+    "goose": {
+      "gaomao": "1"
+    }
+  },
+  {
+    "id": "gaomao",
+    "level": "4111",
+    "goose": {
+      "hypnossz86": "1"
+    }
+  },
+  {
+    "id": "qw945",
+    "level": "4229",
+    "goose": {
+      "烈之斩": "1"
+    }
+  },
+  {
+    "id": "hypnossz86",
+    "level": "4421",
+    "goose": {
+      "DEMOxN": "1"
+    }
+  }
+]

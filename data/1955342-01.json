@@ -1,0 +1,30 @@
+[
+  {
+    "id": "紫苑寺友子MKII",
+    "level": "3",
+    "goose": {
+      "shabee001": "1"
+    }
+  },
+  {
+    "id": "朝日Asahi",
+    "level": "11",
+    "goose": {
+      "shabee001": "1"
+    }
+  },
+  {
+    "id": "v22325",
+    "level": "16",
+    "goose": {
+      "shabee001": "1"
+    }
+  },
+  {
+    "id": "强尼高达",
+    "level": "82",
+    "goose": {
+      "朝日Asahi": "1"
+    }
+  }
+]

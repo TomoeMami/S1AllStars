@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Mitiru",
+    "level": "15",
+    "goose": {
+      "kwin_": "1"
+    }
+  },
+  {
+    "id": "后入芙蓉王",
+    "level": "21",
+    "goose": {
+      "kwin_": "1"
+    }
+  },
+  {
+    "id": "Waldeinsamkeit",
+    "level": "46",
+    "goose": {
+      "八月琉璃": "1",
+      "kwin_": "1"
+    }
+  },
+  {
+    "id": "eulereld",
+    "level": "49",
+    "goose": {
+      "kwin_": "1"
+    }
+  },
+  {
+    "id": "云隐",
+    "level": "77",
+    "goose": {
+      "kwin_": "1"
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "xxad",
+    "level": "12",
+    "goose": {
+      "moonchild": "1"
+    }
+  },
+  {
+    "id": "革萌",
+    "level": "35",
+    "goose": {
+      "青窃苍谋": "1",
+      "ドロロ": "1"
+    }
+  },
+  {
+    "id": "missingedge",
+    "level": "102",
+    "goose": {
+      "xxad": "-2"
+    }
+  },
+  {
+    "id": "missingedge",
+    "level": "125",
+    "goose": {
+      "xxad": "-2"
+    }
+  }
+]

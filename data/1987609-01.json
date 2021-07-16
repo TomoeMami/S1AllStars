@@ -1,0 +1,38 @@
+[
+  {
+    "id": "赚钱娶老婆",
+    "level": "17",
+    "goose": {
+      "我来找我媳妇": "1"
+    }
+  },
+  {
+    "id": "borderlands",
+    "level": "49",
+    "goose": {
+      "Ungeziefer": "-1"
+    }
+  },
+  {
+    "id": "王一唯不傲娇",
+    "level": "162",
+    "goose": {
+      "Existinghomes": "2"
+    }
+  },
+  {
+    "id": "LennyWallUp",
+    "level": "169",
+    "goose": {
+      "Existinghomes": "2",
+      "Heliko": "1"
+    }
+  },
+  {
+    "id": "一色彩羽的家人",
+    "level": "185",
+    "goose": {
+      "LennyWallUp": "1"
+    }
+  }
+]

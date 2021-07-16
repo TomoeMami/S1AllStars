@@ -1,0 +1,35 @@
+[
+  {
+    "id": "邪恶山羊",
+    "level": "11",
+    "goose": {
+      "荷叶饭": "1",
+      "stmule": "1"
+    }
+  },
+  {
+    "id": "newise",
+    "level": "20",
+    "goose": {
+      "ouyangyuanxun": "1"
+    }
+  },
+  {
+    "id": "nylonchina1",
+    "level": "21",
+    "goose": {
+      "射惠曲轴": "-1",
+      "晨星的夜": "-1",
+      "stormeyes": "1",
+      "TRACESPY": "-1"
+    }
+  },
+  {
+    "id": "不爱讨论的萌豚",
+    "level": "100",
+    "goose": {
+      "ouyangyuanxun": "1",
+      "vale_hana": "-1"
+    }
+  }
+]

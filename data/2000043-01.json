@@ -1,0 +1,42 @@
+[
+  {
+    "id": "zashou",
+    "level": "1",
+    "goose": {
+      "马甲号2": "1",
+      "hxw1000": "-1",
+      "廖天一阁主": "1"
+    }
+  },
+  {
+    "id": "hyola",
+    "level": "3",
+    "goose": {
+      "StrangerJ": "-1"
+    }
+  },
+  {
+    "id": "hyola",
+    "level": "29",
+    "goose": {
+      "三季人": "1",
+      "Amadeuszhao": "1"
+    }
+  },
+  {
+    "id": "εRemastered",
+    "level": "35",
+    "goose": {
+      "celadon": "-2",
+      "Amadeuszhao": "1",
+      "丹德里恩": "-1"
+    }
+  },
+  {
+    "id": "千里夜雨",
+    "level": "80",
+    "goose": {
+      "翡冷翠渡鸦": "-1"
+    }
+  }
+]

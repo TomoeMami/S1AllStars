@@ -1,0 +1,111 @@
+[
+  {
+    "id": "阿米巴",
+    "level": "18",
+    "goose": {
+      "勉强": "1"
+    }
+  },
+  {
+    "id": "古蕾雅",
+    "level": "66",
+    "goose": {
+      "给我加个鹅吧": "1"
+    }
+  },
+  {
+    "id": "bbweiweiw",
+    "level": "72",
+    "goose": {
+      "花鸡蛋蛋": "1"
+    }
+  },
+  {
+    "id": "花鸡蛋蛋",
+    "level": "101",
+    "goose": {
+      "bbweiweiw": "1",
+      "holdson": "1",
+      "安姆闲人": "1"
+    }
+  },
+  {
+    "id": "supd33556",
+    "level": "103",
+    "goose": {
+      "沙夜": "1",
+      "尼特子很辛苦哟": "1"
+    }
+  },
+  {
+    "id": "安姆闲人",
+    "level": "107",
+    "goose": {
+      "holdson": "1"
+    }
+  },
+  {
+    "id": "supd33556",
+    "level": "116",
+    "goose": {
+      "Keynes": "-1",
+      "cortexiv": "1",
+      "keysword": "1",
+      "Anoneko": "1",
+      "南极磷": "1",
+      "净世红烧肉": "1",
+      "Kobayashi": "1",
+      "vcaition": "1",
+      "若荼泱": "1"
+    }
+  },
+  {
+    "id": "supd33556",
+    "level": "117",
+    "goose": {
+      "Keynes": "1"
+    }
+  },
+  {
+    "id": "lynnebb",
+    "level": "132",
+    "goose": {
+      "__爱撕衣": "-1"
+    }
+  },
+  {
+    "id": "lynnebb",
+    "level": "142",
+    "goose": {
+      "__爱撕衣": "-1"
+    }
+  },
+  {
+    "id": "lynnebb",
+    "level": "143",
+    "goose": {
+      "__爱撕衣": "-1"
+    }
+  },
+  {
+    "id": "lynnebb",
+    "level": "144",
+    "goose": {
+      "__爱撕衣": "-1"
+    }
+  },
+  {
+    "id": "lynnebb",
+    "level": "145",
+    "goose": {
+      "__爱撕衣": "-1"
+    }
+  },
+  {
+    "id": "kiritokun",
+    "level": "187",
+    "goose": {
+      "1a不解释": "1"
+    }
+  }
+]

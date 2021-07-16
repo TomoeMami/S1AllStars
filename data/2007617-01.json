@@ -1,0 +1,24 @@
+[
+  {
+    "id": "林然若水",
+    "level": "45",
+    "goose": {
+      "莉拉厨": "1"
+    }
+  },
+  {
+    "id": "drilleye",
+    "level": "66",
+    "goose": {
+      "风夏": "-1",
+      "Renkonsai": "1"
+    }
+  },
+  {
+    "id": "Renkonsai",
+    "level": "73",
+    "goose": {
+      "footmanpon": "1"
+    }
+  }
+]

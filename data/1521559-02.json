@@ -1,0 +1,125 @@
+[
+  {
+    "id": "幽灵部长助理",
+    "level": "2075",
+    "goose": {
+      "ECly": "1",
+      "downforce": "1"
+    }
+  },
+  {
+    "id": "幽灵部长助理",
+    "level": "2199",
+    "goose": {
+      "magus": "1",
+      "Akanecode": "1",
+      "Sanguine": "1",
+      "科学铃科百合子": "1",
+      "ECly": "2",
+      "kenqqex": "2"
+    }
+  },
+  {
+    "id": "longrider",
+    "level": "2284",
+    "goose": {
+      "幽灵部长助理": "1"
+    }
+  },
+  {
+    "id": "101stroad",
+    "level": "2559",
+    "goose": {
+      "魂淡放我出去": "1"
+    }
+  },
+  {
+    "id": "Lethe_Field",
+    "level": "2608",
+    "goose": {
+      "Ruby的披风": "1"
+    }
+  },
+  {
+    "id": "longrider",
+    "level": "2612",
+    "goose": {
+      "Anaraky": "1",
+      "luguoyun": "2",
+      "nebulanoby": "1"
+    }
+  },
+  {
+    "id": "longrider",
+    "level": "2774",
+    "goose": {
+      "nebulanoby": "1"
+    }
+  },
+  {
+    "id": "帕林马哲理",
+    "level": "2791",
+    "goose": {
+      "Ruby的披风": "1"
+    }
+  },
+  {
+    "id": "firedrop",
+    "level": "2792",
+    "goose": {
+      "nebulanoby": "1"
+    }
+  },
+  {
+    "id": "自宅警备员",
+    "level": "2809",
+    "goose": {
+      "ECly": "2"
+    }
+  },
+  {
+    "id": "月夜凝雪",
+    "level": "2876",
+    "goose": {
+      "07579394": "1"
+    }
+  },
+  {
+    "id": "stevenzero",
+    "level": "2938",
+    "goose": {
+      "就烦起名字": "1"
+    }
+  },
+  {
+    "id": "Piano-Forest",
+    "level": "2948",
+    "goose": {
+      "nebulanoby": "1"
+    }
+  },
+  {
+    "id": "帕林马哲理",
+    "level": "2955",
+    "goose": {
+      "nebulanoby": "1"
+    }
+  },
+  {
+    "id": "野上由加奈",
+    "level": "2971",
+    "goose": {
+      "星の守": "1",
+      "HKGC296": "1",
+      "nebulanoby": "1"
+    }
+  },
+  {
+    "id": "wuliaozheX",
+    "level": "2976",
+    "goose": {
+      "myarms": "1",
+      "nebulanoby": "1"
+    }
+  }
+]

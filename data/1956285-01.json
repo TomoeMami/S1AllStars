@@ -1,0 +1,42 @@
+[
+  {
+    "id": "MagicalMinori",
+    "level": "5",
+    "goose": {
+      "JaseaLiang": "1"
+    }
+  },
+  {
+    "id": "矢吹奈子",
+    "level": "31",
+    "goose": {
+      "TOWA": "1",
+      "HIKIZZZ": "1",
+      "酒瓶止迁": "1"
+    }
+  },
+  {
+    "id": "宅男的爱",
+    "level": "39",
+    "goose": {
+      "cfeng123": "1",
+      "濡鸦之羽_": "1"
+    }
+  },
+  {
+    "id": "黑骑士雷泽",
+    "level": "49",
+    "goose": {
+      "MagicalMinori": "-1"
+    }
+  },
+  {
+    "id": "雷诺4000",
+    "level": "60",
+    "goose": {
+      "LilMemo": "1",
+      "你听得到": "1",
+      "lagarto": "1"
+    }
+  }
+]

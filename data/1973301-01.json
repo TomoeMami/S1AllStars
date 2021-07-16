@@ -1,0 +1,40 @@
+[
+  {
+    "id": "深蓝巫妖",
+    "level": "16",
+    "goose": {
+      "天鹰之戒": "1",
+      "kenney": "-1"
+    }
+  },
+  {
+    "id": "Centrum",
+    "level": "30",
+    "goose": {
+      "JimmyZ": "1"
+    }
+  },
+  {
+    "id": "LSDN",
+    "level": "58",
+    "goose": {
+      "哈利洛维奇": "1"
+    }
+  },
+  {
+    "id": "toph123",
+    "level": "64",
+    "goose": {
+      "天鹰之戒": "1",
+      "neucom": "2",
+      "凛雪鸦": "-1"
+    }
+  },
+  {
+    "id": "darkchoco",
+    "level": "110",
+    "goose": {
+      "sakura79": "1"
+    }
+  }
+]

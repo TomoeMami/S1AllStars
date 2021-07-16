@@ -1,0 +1,24 @@
+[
+  {
+    "id": "SteinSlayer",
+    "level": "1",
+    "goose": {
+      "炽羽星痕": "1",
+      "禽兽公爵": "1"
+    }
+  },
+  {
+    "id": "martinium",
+    "level": "50",
+    "goose": {
+      "holdson": "1"
+    }
+  },
+  {
+    "id": "Tequila_R",
+    "level": "62",
+    "goose": {
+      "禽兽公爵": "1"
+    }
+  }
+]

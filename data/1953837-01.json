@@ -1,0 +1,37 @@
+[
+  {
+    "id": "洛拉斯",
+    "level": "2",
+    "goose": {
+      "luice": "1"
+    }
+  },
+  {
+    "id": "bioglond",
+    "level": "5",
+    "goose": {
+      "破罐子": "1"
+    }
+  },
+  {
+    "id": "bluesss",
+    "level": "8",
+    "goose": {
+      "rar1536770": "1"
+    }
+  },
+  {
+    "id": "hcf220",
+    "level": "15",
+    "goose": {
+      "mimighost": "1"
+    }
+  },
+  {
+    "id": "Unlight",
+    "level": "38",
+    "goose": {
+      "SuperAlucard": "1"
+    }
+  }
+]

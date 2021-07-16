@@ -1,0 +1,23 @@
+[
+  {
+    "id": "UncleDracula",
+    "level": "12",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "kina",
+    "level": "81",
+    "goose": {
+      "water": "1"
+    }
+  },
+  {
+    "id": "yxds",
+    "level": "90",
+    "goose": {
+      "光的彼端": "1"
+    }
+  }
+]

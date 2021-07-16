@@ -1,0 +1,30 @@
+[
+  {
+    "id": "天悬星河",
+    "level": "135",
+    "goose": {
+      "MisForTunez": "1"
+    }
+  },
+  {
+    "id": "lsa",
+    "level": "141",
+    "goose": {
+      "MisForTunez": "2"
+    }
+  },
+  {
+    "id": "vorastrix",
+    "level": "151",
+    "goose": {
+      "MisForTunez": "1"
+    }
+  },
+  {
+    "id": "lsa",
+    "level": "152",
+    "goose": {
+      "MisForTunez": "1"
+    }
+  }
+]

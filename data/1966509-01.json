@@ -1,0 +1,65 @@
+[
+  {
+    "id": "Joeyak",
+    "level": "1",
+    "goose": {
+      "翾鹊": "1",
+      "kiritokun": "1",
+      "ESAKA!!!!": "1"
+    }
+  },
+  {
+    "id": "泥鳅化石",
+    "level": "4",
+    "goose": {
+      "yuialon": "1"
+    }
+  },
+  {
+    "id": "Liberation",
+    "level": "15",
+    "goose": {
+      "青窃苍谋": "2",
+      "翾鹊": "1",
+      "xsl1099": "1",
+      "chaoliu": "1",
+      "stick": "1",
+      "akaibell": "1",
+      "evangelion_one": "1",
+      "nebulanoby": "1",
+      "七音骨笛": "1"
+    }
+  },
+  {
+    "id": "kula01",
+    "level": "56",
+    "goose": {
+      "xsl1099": "1"
+    }
+  },
+  {
+    "id": "手撕寿司",
+    "level": "70",
+    "goose": {
+      "懒残和尚": "1"
+    }
+  },
+  {
+    "id": "懒残和尚",
+    "level": "82",
+    "goose": {
+      "xsl1099": "-1"
+    }
+  },
+  {
+    "id": "时火",
+    "level": "86",
+    "goose": {
+      "ady272": "1",
+      "lixianfyss": "-1",
+      "ruojichong": "1",
+      "Faerire": "-1",
+      "懒残和尚": "1"
+    }
+  }
+]

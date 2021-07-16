@@ -1,0 +1,68 @@
+[
+  {
+    "id": "sakamoko",
+    "level": "1",
+    "goose": {
+      "无所不黑": "1"
+    }
+  },
+  {
+    "id": "爱与和平的道化者",
+    "level": "3",
+    "goose": {
+      "聚散浮云": "1"
+    }
+  },
+  {
+    "id": "الطائر",
+    "level": "20",
+    "goose": {
+      "sakamoko": "1"
+    }
+  },
+  {
+    "id": "الطائر",
+    "level": "21",
+    "goose": {
+      "sakamoko": "1"
+    }
+  },
+  {
+    "id": "爱与和平的道化者",
+    "level": "45",
+    "goose": {
+      "水稳": "1",
+      "sakamoko": "1",
+      "lemon鱿鱼": "1"
+    }
+  },
+  {
+    "id": "timepro",
+    "level": "64",
+    "goose": {
+      "MARBLE": "1"
+    }
+  },
+  {
+    "id": "长日留痕",
+    "level": "70",
+    "goose": {
+      "sakamoko": "1"
+    }
+  },
+  {
+    "id": "蓝蓝蓝路",
+    "level": "72",
+    "goose": {
+      "sakamoko": "1"
+    }
+  },
+  {
+    "id": "fksoul",
+    "level": "105",
+    "goose": {
+      "MARBLE": "1",
+      "sakamoko": "1"
+    }
+  }
+]

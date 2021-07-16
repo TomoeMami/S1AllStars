@@ -1,0 +1,32 @@
+[
+  {
+    "id": "GeraltzRivii",
+    "level": "1",
+    "goose": {
+      "thisisaspider": "1",
+      "onlv星骸": "2"
+    }
+  },
+  {
+    "id": "儒门正御应无骞",
+    "level": "10",
+    "goose": {
+      "thisisaspider": "1"
+    }
+  },
+  {
+    "id": "Leutnant某囧",
+    "level": "13",
+    "goose": {
+      "追风小星星": "1",
+      "GeraltzRivii": "1"
+    }
+  },
+  {
+    "id": "3353764798",
+    "level": "15",
+    "goose": {
+      "米酒马路": "1"
+    }
+  }
+]

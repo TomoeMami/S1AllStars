@@ -1,0 +1,58 @@
+[
+  {
+    "id": "",
+    "level": "",
+    "goose": {
+      "择日传奇": "1",
+      "macross": "1",
+      "塞利斯": "1"
+    }
+  },
+  {
+    "id": "择日传奇",
+    "level": "65",
+    "goose": {
+      "wwddrte": "1",
+      "direnlost": "1",
+      "某某某人": "2"
+    }
+  },
+  {
+    "id": "longlysdg",
+    "level": "66",
+    "goose": {
+      "direnlost": "1",
+      "cloudskate": "2",
+      "择日传奇": "2"
+    }
+  },
+  {
+    "id": "spiritlancer",
+    "level": "86",
+    "goose": {
+      "逆羽结业": "2"
+    }
+  },
+  {
+    "id": "wuwo2",
+    "level": "200",
+    "goose": {
+      "0330": "-1",
+      "千魄万斩": "1"
+    }
+  },
+  {
+    "id": "v22325",
+    "level": "276",
+    "goose": {
+      "千魄万斩": "1"
+    }
+  },
+  {
+    "id": "工具人",
+    "level": "309",
+    "goose": {
+      "Corpselord": "1"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "westgun",
+    "level": "1",
+    "goose": {
+      "000000": "1"
+    }
+  },
+  {
+    "id": "wlee",
+    "level": "9",
+    "goose": {
+      "xingling00": "1"
+    }
+  }
+]

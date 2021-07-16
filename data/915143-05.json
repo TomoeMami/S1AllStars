@@ -1,0 +1,59 @@
+[
+  {
+    "id": "thoutzan",
+    "level": "6201",
+    "goose": {
+      "zx2kks": "1"
+    }
+  },
+  {
+    "id": "helmwige",
+    "level": "6253",
+    "goose": {
+      "beer": "1"
+    }
+  },
+  {
+    "id": "桌椅板凳酱",
+    "level": "6402",
+    "goose": {
+      "beer": "1"
+    }
+  },
+  {
+    "id": "萝卜酥饼",
+    "level": "6563",
+    "goose": {
+      "thoutzan": "1"
+    }
+  },
+  {
+    "id": "SHIRT",
+    "level": "7014",
+    "goose": {
+      "thoutzan": "1",
+      "萝卜酥饼": "1"
+    }
+  },
+  {
+    "id": "advancedigger",
+    "level": "7088",
+    "goose": {
+      "fang帅": "1"
+    }
+  },
+  {
+    "id": "千秋",
+    "level": "7308",
+    "goose": {
+      "zx2kks": "1"
+    }
+  },
+  {
+    "id": "amulelernen",
+    "level": "7395",
+    "goose": {
+      "Manchesterby": "1"
+    }
+  }
+]

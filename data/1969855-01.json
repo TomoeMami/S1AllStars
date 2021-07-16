@@ -1,0 +1,57 @@
+[
+  {
+    "id": "星野莉莉",
+    "level": "23",
+    "goose": {
+      "人生啊": "1",
+      "otakuzhou": "2",
+      "souji": "1",
+      "StaticAnalysis": "-1",
+      "stick": "1",
+      "你倒是潮": "1",
+      "maidmiku": "1",
+      "假面骑士decade": "1",
+      "小火车托马斯": "2",
+      "catkineko": "1",
+      "大凹凸002020": "1",
+      "PNK": "1",
+      "帕拉斯雅典娜": "1",
+      "nukejoker": "-2"
+    }
+  },
+  {
+    "id": "白水金匀",
+    "level": "38",
+    "goose": {
+      "ices": "1"
+    }
+  },
+  {
+    "id": "nukejoker",
+    "level": "63",
+    "goose": {
+      "StaticAnalysis": "1"
+    }
+  },
+  {
+    "id": "电话微波炉",
+    "level": "68",
+    "goose": {
+      "nukejoker": "1"
+    }
+  },
+  {
+    "id": "solidlee",
+    "level": "71",
+    "goose": {
+      "鲞焐肉": "1"
+    }
+  },
+  {
+    "id": "vviosonia",
+    "level": "85",
+    "goose": {
+      "sprittee": "1"
+    }
+  }
+]

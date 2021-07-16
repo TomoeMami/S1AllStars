@@ -1,0 +1,47 @@
+[
+  {
+    "id": "吃货红毛",
+    "level": "4",
+    "goose": {
+      "Stellar_Frost": "1"
+    }
+  },
+  {
+    "id": "Chia",
+    "level": "10",
+    "goose": {
+      "天衣いちご": "1",
+      "蔷薇下": "1"
+    }
+  },
+  {
+    "id": "医生狼多",
+    "level": "59",
+    "goose": {
+      "我是地雷我自豪": "1"
+    }
+  },
+  {
+    "id": "hytg10",
+    "level": "71",
+    "goose": {
+      "OkaJu": "1"
+    }
+  },
+  {
+    "id": "drilleye",
+    "level": "76",
+    "goose": {
+      "OkaJu": "1",
+      "yla": "1",
+      "kaori☆n_tan": "1"
+    }
+  },
+  {
+    "id": "saynie",
+    "level": "105",
+    "goose": {
+      "DoomsDay": "1"
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "lersent",
+    "level": "1",
+    "goose": {
+      "Centrum": "1",
+      "东海尖头鳗": "-1"
+    }
+  },
+  {
+    "id": "蕺菜本菜",
+    "level": "2",
+    "goose": {
+      "Centrum": "1"
+    }
+  },
+  {
+    "id": "jctc",
+    "level": "17",
+    "goose": {
+      "calmer": "1"
+    }
+  },
+  {
+    "id": "蕺菜本菜",
+    "level": "18",
+    "goose": {
+      "东海尖头鳗": "-1"
+    }
+  },
+  {
+    "id": "konev",
+    "level": "38",
+    "goose": {
+      "KumaKoyou": "1",
+      "Tomorrow_D": "1",
+      "Lithiumcore": "1",
+      "yunhansb": "1",
+      "Kaltsit": "1",
+      "猫不萌": "1",
+      "各凭本事！": "1",
+      "无法计算": "1",
+      "島唄": "1",
+      "alter08": "1"
+    }
+  },
+  {
+    "id": "Rubbersoul11",
+    "level": "43",
+    "goose": {
+      "11116等": "1",
+      "cloudian": "1"
+    }
+  },
+  {
+    "id": "魔铁潜水艇",
+    "level": "60",
+    "goose": {
+      "罗马还能再战": "1",
+      "csodaszarvas": "1"
+    }
+  },
+  {
+    "id": "nekoeco",
+    "level": "73",
+    "goose": {
+      "lipo": "1",
+      "11116等": "1"
+    }
+  },
+  {
+    "id": "HGCG",
+    "level": "75",
+    "goose": {
+      "罗马还能再战": "1"
+    }
+  },
+  {
+    "id": "beanbeam",
+    "level": "113",
+    "goose": {
+      "玬翼": "1"
+    }
+  },
+  {
+    "id": "Centrum",
+    "level": "125",
+    "goose": {
+      "captoon": "-2"
+    }
+  },
+  {
+    "id": "mintslime",
+    "level": "183",
+    "goose": {
+      "Sza": "1"
+    }
+  },
+  {
+    "id": "homesickness",
+    "level": "195",
+    "goose": {
+      "给我加个鹅吧": "1"
+    }
+  }
+]

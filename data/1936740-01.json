@@ -1,0 +1,35 @@
+[
+  {
+    "id": "chaoliu",
+    "level": "5",
+    "goose": {
+      "SAIEZ8": "1"
+    }
+  },
+  {
+    "id": "Karajan",
+    "level": "17",
+    "goose": {
+      "МаксФёд": "1"
+    }
+  },
+  {
+    "id": "МаксФёд",
+    "level": "45",
+    "goose": {
+      "ace7ace": "1",
+      "月明かりの雲": "-1",
+      "MaxFOrder": "1",
+      "redblueman": "-2",
+      "saberserker": "1",
+      "FurryBall": "-1"
+    }
+  },
+  {
+    "id": "zerona",
+    "level": "72",
+    "goose": {
+      "МаксФёд": "1"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "雪菜碧池",
+    "level": "42",
+    "goose": {
+      "Hanzong": "-1"
+    }
+  },
+  {
+    "id": "雪菜碧池",
+    "level": "64",
+    "goose": {
+      "dna20000": "-1",
+      "朝日Asahi": "1",
+      "Hanzong": "-1",
+      "amber1768": "-1"
+    }
+  },
+  {
+    "id": "雪菜碧池",
+    "level": "76",
+    "goose": {
+      "Hanzong": "-1",
+      "朝日Asahi": "1",
+      "amber1768": "-1"
+    }
+  },
+  {
+    "id": "wbtsy",
+    "level": "85",
+    "goose": {
+      "arx-7": "-7",
+      "frankhzf": "1"
+    }
+  },
+  {
+    "id": "ranapocket",
+    "level": "108",
+    "goose": {
+      "arx-7": "-7"
+    }
+  },
+  {
+    "id": "雪菜碧池",
+    "level": "126",
+    "goose": {
+      "Hanzong": "-1"
+    }
+  }
+]

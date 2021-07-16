@@ -1,0 +1,34 @@
+[
+  {
+    "id": "饭来张口",
+    "level": "20",
+    "goose": {
+      "free切": "1",
+      "昂首的意志": "1"
+    }
+  },
+  {
+    "id": "Booorunestud",
+    "level": "45",
+    "goose": {
+      "arnold": "2",
+      "正义": "-2"
+    }
+  },
+  {
+    "id": "mobdom",
+    "level": "46",
+    "goose": {
+      "arnold": "1",
+      "Elvawien": "1",
+      "DeltaStriker": "1"
+    }
+  },
+  {
+    "id": "purplelake",
+    "level": "58",
+    "goose": {
+      "wzk3232": "-1"
+    }
+  }
+]

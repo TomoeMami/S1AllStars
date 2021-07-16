@@ -1,0 +1,31 @@
+[
+  {
+    "id": "装甲兔",
+    "level": "15",
+    "goose": {
+      "Stellar_Frost": "1"
+    }
+  },
+  {
+    "id": "Samvery",
+    "level": "87",
+    "goose": {
+      "NF17": "1"
+    }
+  },
+  {
+    "id": "SAIEZ8",
+    "level": "111",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "vorastrix",
+    "level": "172",
+    "goose": {
+      "dpdwx": "1",
+      "Stellar_Frost": "1"
+    }
+  }
+]

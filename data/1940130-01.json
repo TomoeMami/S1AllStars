@@ -1,0 +1,45 @@
+[
+  {
+    "id": "waterstars",
+    "level": "17",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "秀光",
+    "level": "28",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "跳楼的猫",
+    "level": "34",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "ww-stl",
+    "level": "44",
+    "goose": {
+      "不思者嗷呜": "1"
+    }
+  },
+  {
+    "id": "黄金蔷薇",
+    "level": "86",
+    "goose": {
+      "Redis": "1",
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "狂暴小二八",
+    "level": "117",
+    "goose": {
+      "nukejoker": "1"
+    }
+  }
+]

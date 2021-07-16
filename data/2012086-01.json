@@ -1,0 +1,74 @@
+[
+  {
+    "id": "红魔馆的糖",
+    "level": "4",
+    "goose": {
+      "Kenjin": "-1"
+    }
+  },
+  {
+    "id": "叶雾",
+    "level": "11",
+    "goose": {
+      "MuramasaSP": "1"
+    }
+  },
+  {
+    "id": "千千千千鸟",
+    "level": "29",
+    "goose": {
+      "violettor": "1"
+    }
+  },
+  {
+    "id": "雪菜碧池",
+    "level": "31",
+    "goose": {
+      "Q版胖子": "1",
+      "violettor": "1"
+    }
+  },
+  {
+    "id": "炎阳之谶",
+    "level": "49",
+    "goose": {
+      "慕兰": "1"
+    }
+  },
+  {
+    "id": "奈奈未喵",
+    "level": "71",
+    "goose": {
+      "Kenjin": "1"
+    }
+  },
+  {
+    "id": "kyonkoism",
+    "level": "73",
+    "goose": {
+      "mishizuo": "1"
+    }
+  },
+  {
+    "id": "18300625949",
+    "level": "97",
+    "goose": {
+      "F.R.ONY": "2"
+    }
+  },
+  {
+    "id": "TheOccuria",
+    "level": "103",
+    "goose": {
+      "Ashice": "1",
+      "18300625949": "1"
+    }
+  },
+  {
+    "id": "MuramasaSP",
+    "level": "110",
+    "goose": {
+      "F.R.ONY": "1"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "我很费纸",
+    "level": "1937",
+    "goose": {
+      "leyenda": "2"
+    }
+  },
+  {
+    "id": "Cray",
+    "level": "2081",
+    "goose": {
+      "Tochika": "1"
+    }
+  },
+  {
+    "id": "Cray",
+    "level": "2115",
+    "goose": {
+      "Milkyway": "1"
+    }
+  },
+  {
+    "id": "leystage",
+    "level": "2116",
+    "goose": {
+      "Milkyway": "1"
+    }
+  },
+  {
+    "id": "Geminize",
+    "level": "2569",
+    "goose": {
+      "yuikonnu": "1"
+    }
+  },
+  {
+    "id": "月神侠",
+    "level": "2581",
+    "goose": {
+      "yuikonnu": "1"
+    }
+  }
+]

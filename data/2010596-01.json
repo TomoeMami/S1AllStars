@@ -1,0 +1,34 @@
+[
+  {
+    "id": "忒弥斯",
+    "level": "1",
+    "goose": {
+      "我来找我媳妇": "1"
+    }
+  },
+  {
+    "id": "hunter再临",
+    "level": "57",
+    "goose": {
+      "yahuchi": "-1",
+      "hellgate22": "-1",
+      "迪米特里": "-2"
+    }
+  },
+  {
+    "id": "hunter再临",
+    "level": "60",
+    "goose": {
+      "xnlyt": "-1"
+    }
+  },
+  {
+    "id": "hunter再临",
+    "level": "63",
+    "goose": {
+      "萝卜玉米浓粥": "-1",
+      "RaidenII": "-2",
+      "hellgate22": "-1"
+    }
+  }
+]

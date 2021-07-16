@@ -1,0 +1,56 @@
+[
+  {
+    "id": "李小狼",
+    "level": "20",
+    "goose": {
+      "空枪": "1"
+    }
+  },
+  {
+    "id": "rak1",
+    "level": "37",
+    "goose": {
+      "zhuangku556": "1"
+    }
+  },
+  {
+    "id": "nukejoker",
+    "level": "60",
+    "goose": {
+      "空枪": "1"
+    }
+  },
+  {
+    "id": "李小狼",
+    "level": "65",
+    "goose": {
+      "eaclica": "1",
+      "何然": "1"
+    }
+  },
+  {
+    "id": "22174559",
+    "level": "132",
+    "goose": {
+      "空枪": "1"
+    }
+  },
+  {
+    "id": "zhuangku556",
+    "level": "154",
+    "goose": {
+      "空罐子": "-2",
+      "12502": "-2",
+      "bigheadnotbig": "-2",
+      "Kazuhira": "-1",
+      "医生狼多": "-1"
+    }
+  },
+  {
+    "id": "Tring",
+    "level": "178",
+    "goose": {
+      "liekong": "1"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "塔那",
+    "level": "47",
+    "goose": {
+      "ACFUNBILI": "1"
+    }
+  },
+  {
+    "id": "其实还好",
+    "level": "48",
+    "goose": {
+      "ACFUNBILI": "1"
+    }
+  },
+  {
+    "id": "MemoriesTears",
+    "level": "94",
+    "goose": {
+      "棒读": "1",
+      "塔那": "1"
+    }
+  }
+]

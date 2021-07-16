@@ -1,0 +1,45 @@
+[
+  {
+    "id": "J-002",
+    "level": "3532",
+    "goose": {
+      "atomicink": "1"
+    }
+  },
+  {
+    "id": "J-002",
+    "level": "3591",
+    "goose": {
+      "hylq2100": "1"
+    }
+  },
+  {
+    "id": "SAGA0Arcueid",
+    "level": "4415",
+    "goose": {
+      "tsukicn": "1"
+    }
+  },
+  {
+    "id": "一色いろは",
+    "level": "4476",
+    "goose": {
+      "junoxdd": "1"
+    }
+  },
+  {
+    "id": "圈量子",
+    "level": "4490",
+    "goose": {
+      "junoxdd": "1"
+    }
+  },
+  {
+    "id": "清凉流水",
+    "level": "4496",
+    "goose": {
+      "dawning": "2",
+      "gearbox": "1"
+    }
+  }
+]

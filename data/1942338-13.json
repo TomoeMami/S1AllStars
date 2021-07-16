@@ -1,0 +1,48 @@
+[
+  {
+    "id": "2517君改二",
+    "level": "18093",
+    "goose": {
+      "嵐ステリ": "2"
+    }
+  },
+  {
+    "id": "GJRstone",
+    "level": "18878",
+    "goose": {
+      "VivillonTundra": "1"
+    }
+  },
+  {
+    "id": "魔法少女乐府酱",
+    "level": "19052",
+    "goose": {
+      "YODOboi": "1",
+      "honeybrain": "-1",
+      "2517君改二": "-1",
+      "baizhi": "-1",
+      "一里ぼっち": "-1"
+    }
+  },
+  {
+    "id": "四口神",
+    "level": "19069",
+    "goose": {
+      "2517君改二": "1"
+    }
+  },
+  {
+    "id": "锡哒哒",
+    "level": "19277",
+    "goose": {
+      "plllllum": "1"
+    }
+  },
+  {
+    "id": "Rosefinch",
+    "level": "19314",
+    "goose": {
+      "GJRstone": "1"
+    }
+  }
+]

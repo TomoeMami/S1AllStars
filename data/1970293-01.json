@@ -1,0 +1,41 @@
+[
+  {
+    "id": "nanakufa",
+    "level": "1",
+    "goose": {
+      "Jiron.Amos": "-1",
+      "蜜瓜包": "-1",
+      "PNK": "-1",
+      "电话微波炉": "-2",
+      "爵士人生": "-2",
+      "schneehertz": "-2",
+      "Illidan": "-2"
+    }
+  },
+  {
+    "id": "梦游君",
+    "level": "39",
+    "goose": {
+      "Atcharya": "-1",
+      "望寒": "-2",
+      "心远": "-1",
+      "心随意寂": "-1",
+      "turnyyy": "-1",
+      "holdson": "1"
+    }
+  },
+  {
+    "id": "raindrop49",
+    "level": "53",
+    "goose": {
+      "calmer": "1"
+    }
+  },
+  {
+    "id": "killsx",
+    "level": "68",
+    "goose": {
+      "MagicalMinori": "1"
+    }
+  }
+]

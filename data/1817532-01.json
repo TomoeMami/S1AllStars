@@ -1,0 +1,80 @@
+[
+  {
+    "id": "千本blur",
+    "level": "114",
+    "goose": {
+      "Aspro": "1"
+    }
+  },
+  {
+    "id": "squark",
+    "level": "183",
+    "goose": {
+      "孔祈": "1"
+    }
+  },
+  {
+    "id": "skives",
+    "level": "186",
+    "goose": {
+      "squark": "1"
+    }
+  },
+  {
+    "id": "downnote",
+    "level": "365",
+    "goose": {
+      "远影": "1"
+    }
+  },
+  {
+    "id": "枫凛劫火",
+    "level": "423",
+    "goose": {
+      "luneknight": "1"
+    }
+  },
+  {
+    "id": "zxtree",
+    "level": "425",
+    "goose": {
+      "azbhg1": "1"
+    }
+  },
+  {
+    "id": "阿姆罗二世",
+    "level": "648",
+    "goose": {
+      "18991413544": "1"
+    }
+  },
+  {
+    "id": "Freakyyu",
+    "level": "649",
+    "goose": {
+      "18991413544": "1"
+    }
+  },
+  {
+    "id": "苑生百花",
+    "level": "854",
+    "goose": {
+      "751984871": "1"
+    }
+  },
+  {
+    "id": "远影",
+    "level": "969",
+    "goose": {
+      "astrayveller": "1",
+      "Ruby的披风": "1"
+    }
+  },
+  {
+    "id": "苑生百花",
+    "level": "1247",
+    "goose": {
+      "07579394": "1"
+    }
+  }
+]

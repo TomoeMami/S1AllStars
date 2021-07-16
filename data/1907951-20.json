@@ -1,0 +1,41 @@
+[
+  {
+    "id": "Franc",
+    "level": "29369",
+    "goose": {
+      "九一式": "1",
+      "maingl": "2"
+    }
+  },
+  {
+    "id": "suihgouieru",
+    "level": "29420",
+    "goose": {
+      "天子控": "1"
+    }
+  },
+  {
+    "id": "sheshiro",
+    "level": "29421",
+    "goose": {
+      "九一式": "1"
+    }
+  },
+  {
+    "id": "zerozzc",
+    "level": "29880",
+    "goose": {
+      "九一式": "1"
+    }
+  },
+  {
+    "id": "downnote",
+    "level": "29882",
+    "goose": {
+      "sheshiro": "1",
+      "九一式": "1",
+      "luoyianwu": "2",
+      "zakki": "1"
+    }
+  }
+]

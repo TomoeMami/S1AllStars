@@ -1,0 +1,24 @@
+[
+  {
+    "id": "沉默之声",
+    "level": "2",
+    "goose": {
+      "卡仑治糖": "1"
+    }
+  },
+  {
+    "id": "randomGenerator",
+    "level": "36",
+    "goose": {
+      "otsu": "1",
+      "Yohane": "-1"
+    }
+  },
+  {
+    "id": "qazesz",
+    "level": "82",
+    "goose": {
+      "牧羊": "1"
+    }
+  }
+]

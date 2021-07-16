@@ -1,0 +1,35 @@
+[
+  {
+    "id": "stillwmxz",
+    "level": "1",
+    "goose": {
+      "xxqwbjfy": "1",
+      "黑兽": "-1"
+    }
+  },
+  {
+    "id": "xxren",
+    "level": "9",
+    "goose": {
+      "Recen": "1",
+      "夏威夷之声": "1"
+    }
+  },
+  {
+    "id": "黑兽",
+    "level": "49",
+    "goose": {
+      "c20070613": "1",
+      "stillwmxz": "-1",
+      "difeltion": "1"
+    }
+  },
+  {
+    "id": "stillwmxz",
+    "level": "55",
+    "goose": {
+      "xxren": "1",
+      "黑兽": "-1"
+    }
+  }
+]

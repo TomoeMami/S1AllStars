@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Dank_Memes",
+    "level": "21",
+    "goose": {
+      "晨星的夜": "1",
+      "东海尖头鳗": "-1"
+    }
+  },
+  {
+    "id": "mamialone",
+    "level": "26",
+    "goose": {
+      "Muminim": "-1",
+      "socinius": "-2"
+    }
+  },
+  {
+    "id": "bearsnowk",
+    "level": "80",
+    "goose": {
+      "RAMDA": "1",
+      "Muminim": "1"
+    }
+  }
+]

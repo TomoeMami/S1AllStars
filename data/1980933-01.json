@@ -1,0 +1,31 @@
+[
+  {
+    "id": "yuikonnu",
+    "level": "43",
+    "goose": {
+      "phos125": "-1",
+      "pzgr43": "-2"
+    }
+  },
+  {
+    "id": "yuikonnu",
+    "level": "56",
+    "goose": {
+      "paean": "-1"
+    }
+  },
+  {
+    "id": "makar",
+    "level": "63",
+    "goose": {
+      "yuikonnu": "1"
+    }
+  },
+  {
+    "id": "astrayveller",
+    "level": "70",
+    "goose": {
+      "有口皆悲": "1"
+    }
+  }
+]

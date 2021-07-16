@@ -1,0 +1,23 @@
+[
+  {
+    "id": "feliznavidad",
+    "level": "14",
+    "goose": {
+      "Silencieuse": "1"
+    }
+  },
+  {
+    "id": "僵尸想上吊",
+    "level": "21",
+    "goose": {
+      "feliznavidad": "1"
+    }
+  },
+  {
+    "id": "胡桃丶",
+    "level": "32",
+    "goose": {
+      "feliznavidad": "1"
+    }
+  }
+]

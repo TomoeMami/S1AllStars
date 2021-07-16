@@ -1,0 +1,75 @@
+[
+  {
+    "id": "绿冰",
+    "level": "55",
+    "goose": {
+      "banrendacha": "-1"
+    }
+  },
+  {
+    "id": "绿冰",
+    "level": "91",
+    "goose": {
+      "夜留歌": "-1",
+      "banrendacha": "-1"
+    }
+  },
+  {
+    "id": "beer",
+    "level": "224",
+    "goose": {
+      "夜留歌": "1"
+    }
+  },
+  {
+    "id": "Humpy",
+    "level": "290",
+    "goose": {
+      "beer": "1",
+      "LamdaHT": "1"
+    }
+  },
+  {
+    "id": "绿冰",
+    "level": "298",
+    "goose": {
+      "LamdaHT": "-1"
+    }
+  },
+  {
+    "id": "绿冰",
+    "level": "396",
+    "goose": {
+      "LamdaHT": "-1",
+      "orangeth": "-2"
+    }
+  },
+  {
+    "id": "绿冰",
+    "level": "406",
+    "goose": {
+      "orangeth": "-2"
+    }
+  },
+  {
+    "id": "theyoung",
+    "level": "415",
+    "goose": {
+      "yuo9": "1",
+      "战斗鸡": "1",
+      "saevey": "1",
+      "新年才醒": "1",
+      "mithralmask": "2",
+      "duraa": "1",
+      "windtrack": "1"
+    }
+  },
+  {
+    "id": "nagitoY",
+    "level": "422",
+    "goose": {
+      "夜留歌": "1",
+      "yuuji": "1"
+    }
+  }
+]

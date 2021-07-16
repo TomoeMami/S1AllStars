@@ -1,0 +1,92 @@
+[
+  {
+    "id": "Waldeinsamkeit",
+    "level": "11",
+    "goose": {
+      "tlozfan": "1"
+    }
+  },
+  {
+    "id": "冷泉夜月",
+    "level": "16",
+    "goose": {
+      "tlozfan": "1"
+    }
+  },
+  {
+    "id": "小姜不辣",
+    "level": "22",
+    "goose": {
+      "tlozfan": "1"
+    }
+  },
+  {
+    "id": "whzfjk",
+    "level": "26",
+    "goose": {
+      "tlozfan": "1"
+    }
+  },
+  {
+    "id": "冷泉夜月",
+    "level": "36",
+    "goose": {
+      "tlozfan": "1"
+    }
+  },
+  {
+    "id": "冷泉夜月",
+    "level": "55",
+    "goose": {
+      "tlozfan": "1"
+    }
+  },
+  {
+    "id": "liekong",
+    "level": "59",
+    "goose": {
+      "tlozfan": "1"
+    }
+  },
+  {
+    "id": "Waldeinsamkeit",
+    "level": "67",
+    "goose": {
+      "tlozfan": "1",
+      "liekong": "1"
+    }
+  },
+  {
+    "id": "风水回廊",
+    "level": "70",
+    "goose": {
+      "tlozfan": "1",
+      "liekong": "1"
+    }
+  },
+  {
+    "id": "liekong",
+    "level": "137",
+    "goose": {
+      "xibuke": "1",
+      "老沙鳄鱼": "1",
+      "tlozfan": "1"
+    }
+  },
+  {
+    "id": "竜破斬",
+    "level": "187",
+    "goose": {
+      "Kammyo": "1"
+    }
+  },
+  {
+    "id": "Waldeinsamkeit",
+    "level": "246",
+    "goose": {
+      "liekong": "1",
+      "pRll7R": "1",
+      "tlozfan": "1"
+    }
+  }
+]

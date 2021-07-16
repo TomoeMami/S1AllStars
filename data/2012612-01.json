@@ -1,0 +1,32 @@
+[
+  {
+    "id": "祝三叶",
+    "level": "15",
+    "goose": {
+      "Radio147": "1"
+    }
+  },
+  {
+    "id": "很久就在那边l",
+    "level": "25",
+    "goose": {
+      "liekong": "1",
+      "Radio147": "1"
+    }
+  },
+  {
+    "id": "yuruki",
+    "level": "28",
+    "goose": {
+      "exiaexa": "1",
+      "Radio147": "-1"
+    }
+  },
+  {
+    "id": "JustW",
+    "level": "30",
+    "goose": {
+      "Radio147": "1"
+    }
+  }
+]

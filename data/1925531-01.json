@@ -1,0 +1,35 @@
+[
+  {
+    "id": "重巡羊舰",
+    "level": "4",
+    "goose": {
+      "anlace": "2",
+      "kokolo": "2",
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "masterffzhou",
+    "level": "5",
+    "goose": {
+      "toroes": "1",
+      "kokolo": "2",
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "真田丸",
+    "level": "54",
+    "goose": {
+      "天下至贱": "-1",
+      "PLANETDANCE": "-1",
+      "never2002": "-2",
+      "eidos": "-2",
+      "Yves-X": "-1",
+      "moekyo": "-2",
+      "wbybill2": "1",
+      "槛外空流": "-1",
+      "Each": "-1"
+    }
+  }
+]

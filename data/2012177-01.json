@@ -1,0 +1,65 @@
+[
+  {
+    "id": "好评加鹅",
+    "level": "22",
+    "goose": {
+      "Sereno": "1"
+    }
+  },
+  {
+    "id": "samesame",
+    "level": "93",
+    "goose": {
+      "Gotu": "2"
+    }
+  },
+  {
+    "id": "themonster",
+    "level": "95",
+    "goose": {
+      "西兹少爷": "-1"
+    }
+  },
+  {
+    "id": "fever41",
+    "level": "103",
+    "goose": {
+      "余海露": "1"
+    }
+  },
+  {
+    "id": "imagine168",
+    "level": "120",
+    "goose": {
+      "themonster": "-1"
+    }
+  },
+  {
+    "id": "破罐子",
+    "level": "128",
+    "goose": {
+      "余海露": "1"
+    }
+  },
+  {
+    "id": "東京地方検察庁",
+    "level": "147",
+    "goose": {
+      "余海露": "1"
+    }
+  },
+  {
+    "id": "illjay",
+    "level": "188",
+    "goose": {
+      "fenrir": "2"
+    }
+  },
+  {
+    "id": "肺炎POI",
+    "level": "191",
+    "goose": {
+      "你大爷的": "-1"
+    }
+  }
+]

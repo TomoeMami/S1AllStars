@@ -1,0 +1,32 @@
+[
+  {
+    "id": "xingenge",
+    "level": "1",
+    "goose": {
+      "妮贝雅": "1",
+      "sudasuka": "1",
+      "若荼泱": "1",
+      "白夜の火柴": "1",
+      "莉莉橙": "2"
+    }
+  },
+  {
+    "id": "haruhiの",
+    "level": "38",
+    "goose": {
+      "sudasuka": "1",
+      "fhdelibird": "1",
+      "Sanguine": "1",
+      "Ollie": "1",
+      "AkaiSuisei": "2",
+      "rasasayang": "1"
+    }
+  },
+  {
+    "id": "haruhiの",
+    "level": "63",
+    "goose": {
+      "xingenge": "2"
+    }
+  }
+]

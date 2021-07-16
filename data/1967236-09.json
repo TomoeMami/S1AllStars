@@ -1,0 +1,46 @@
+[
+  {
+    "id": "塔那",
+    "level": "12058",
+    "goose": {
+      "Izuru单推人": "1"
+    }
+  },
+  {
+    "id": "kiralzb",
+    "level": "12062",
+    "goose": {
+      "莉莉橙": "1"
+    }
+  },
+  {
+    "id": "cashhellsing",
+    "level": "12067",
+    "goose": {
+      "莉莉橙": "1"
+    }
+  },
+  {
+    "id": "mkii量产型",
+    "level": "12215",
+    "goose": {
+      "JustW": "1",
+      "Ashice": "1",
+      "枯树大贤者": "1"
+    }
+  },
+  {
+    "id": "炎阳之谶",
+    "level": "12329",
+    "goose": {
+      "Jamaisvu": "1"
+    }
+  },
+  {
+    "id": "atomicink",
+    "level": "12526",
+    "goose": {
+      "人手如云": "1"
+    }
+  }
+]

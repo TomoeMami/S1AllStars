@@ -1,0 +1,39 @@
+[
+  {
+    "id": "foreversmiles",
+    "level": "20",
+    "goose": {
+      "dreamquest": "1",
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "瓦拉几亚之夜",
+    "level": "21",
+    "goose": {
+      "幽灵部长助理": "1"
+    }
+  },
+  {
+    "id": "Diabolosis",
+    "level": "35",
+    "goose": {
+      "rslika": "1",
+      "Finsty": "1"
+    }
+  },
+  {
+    "id": "羽桐れもん",
+    "level": "40",
+    "goose": {
+      "幽灵部长助理": "1"
+    }
+  },
+  {
+    "id": "量子腰果",
+    "level": "59",
+    "goose": {
+      "holdson": "1"
+    }
+  }
+]

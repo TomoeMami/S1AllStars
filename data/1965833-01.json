@@ -1,0 +1,24 @@
+[
+  {
+    "id": "螺旋时钟",
+    "level": "8",
+    "goose": {
+      "rainwang": "1"
+    }
+  },
+  {
+    "id": "dren_zheng",
+    "level": "31",
+    "goose": {
+      "马甲号2": "1"
+    }
+  },
+  {
+    "id": "nobady",
+    "level": "108",
+    "goose": {
+      "暮鼓晨钟": "1",
+      "Centrum": "1"
+    }
+  }
+]

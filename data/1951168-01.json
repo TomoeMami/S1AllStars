@@ -1,0 +1,39 @@
+[
+  {
+    "id": "无动于衷",
+    "level": "107",
+    "goose": {
+      "89clock": "1"
+    }
+  },
+  {
+    "id": "MonicaRuan",
+    "level": "271",
+    "goose": {
+      "Chia": "1"
+    }
+  },
+  {
+    "id": "MonicaRuan",
+    "level": "282",
+    "goose": {
+      "鲞焐肉": "1"
+    }
+  },
+  {
+    "id": "kensmall",
+    "level": "309",
+    "goose": {
+      "共享栈": "-1",
+      "gogoex": "2",
+      "sssacpgdr": "-2"
+    }
+  },
+  {
+    "id": "sssacpgdr",
+    "level": "315",
+    "goose": {
+      "kensmall": "-1"
+    }
+  }
+]

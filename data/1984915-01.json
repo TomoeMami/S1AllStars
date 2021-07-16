@@ -1,0 +1,72 @@
+[
+  {
+    "id": "劳动改造归来",
+    "level": "1",
+    "goose": {
+      "躺语": "1",
+      "天地大撒野": "-1",
+      "LUNAR12": "-1",
+      "Nebo": "-1",
+      "wickedthumb": "-2",
+      "华妃": "-1",
+      "Nieriltasinwa": "-2",
+      "Ancerise": "-2",
+      "NeoCyber": "-1"
+    }
+  },
+  {
+    "id": "劳动改造归来",
+    "level": "6",
+    "goose": {
+      "cdm": "2",
+      "NeoCyber": "-1"
+    }
+  },
+  {
+    "id": "劳动改造归来",
+    "level": "13",
+    "goose": {
+      "cdm": "2",
+      "Samsong": "-1",
+      "Rincewind": "-1",
+      "Ancerise": "-2",
+      "NeoCyber": "-1"
+    }
+  },
+  {
+    "id": "劳动改造归来",
+    "level": "17",
+    "goose": {
+      "cdm": "2",
+      "Ancerise": "-2",
+      "NeoCyber": "-1"
+    }
+  },
+  {
+    "id": "zqc53",
+    "level": "21",
+    "goose": {
+      "masakahaha": "1",
+      "Kuroe": "1",
+      "饭来张口": "1",
+      "ww135o": "1",
+      "flyzzhj": "2"
+    }
+  },
+  {
+    "id": "劳动改造归来",
+    "level": "54",
+    "goose": {
+      "cdm": "2",
+      "NeoCyber": "-1"
+    }
+  },
+  {
+    "id": "劳动改造归来",
+    "level": "57",
+    "goose": {
+      "cdm": "2",
+      "NeoCyber": "-1"
+    }
+  }
+]

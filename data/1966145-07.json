@@ -1,0 +1,192 @@
+[
+  {
+    "id": "古战场亡魂",
+    "level": "9721",
+    "goose": {
+      "xnlyt": "1"
+    }
+  },
+  {
+    "id": "真田源次郎信繁",
+    "level": "9729",
+    "goose": {
+      "古战场亡魂": "1"
+    }
+  },
+  {
+    "id": "德里达幽灵",
+    "level": "9735",
+    "goose": {
+      "caupollen": "1"
+    }
+  },
+  {
+    "id": "carfisher",
+    "level": "9758",
+    "goose": {
+      "xnlyt": "1"
+    }
+  },
+  {
+    "id": "保罗赫伯特",
+    "level": "9821",
+    "goose": {
+      "czgasd": "1",
+      "pliee": "1",
+      "err": "1",
+      "avayazhg": "1",
+      "摸鱼校尉": "1"
+    }
+  },
+  {
+    "id": "caupollen",
+    "level": "9898",
+    "goose": {
+      "巫师萨满": "1"
+    }
+  },
+  {
+    "id": "caojiede001",
+    "level": "9984",
+    "goose": {
+      "苍浅°": "1"
+    }
+  },
+  {
+    "id": "yla",
+    "level": "10009",
+    "goose": {
+      "一夜四次羊": "1",
+      "执笔画虹丶": "1",
+      "苍浅°": "1"
+    }
+  },
+  {
+    "id": "一夜四次羊",
+    "level": "10010",
+    "goose": {
+      "yla": "1"
+    }
+  },
+  {
+    "id": "Geronimo",
+    "level": "10011",
+    "goose": {
+      "xnlyt": "-1"
+    }
+  },
+  {
+    "id": "Geronimo",
+    "level": "10020",
+    "goose": {
+      "xnlyt": "-1"
+    }
+  },
+  {
+    "id": "Geronimo",
+    "level": "10027",
+    "goose": {
+      "苍浅°": "1"
+    }
+  },
+  {
+    "id": "秋月艾莉",
+    "level": "10056",
+    "goose": {
+      "xnlyt": "1"
+    }
+  },
+  {
+    "id": "godonlyknows",
+    "level": "10289",
+    "goose": {
+      "xnlyt": "1"
+    }
+  },
+  {
+    "id": "狼牙月",
+    "level": "10291",
+    "goose": {
+      "ylssb10438": "1",
+      "xnlyt": "-1"
+    }
+  },
+  {
+    "id": "papapapadopoulo",
+    "level": "10293",
+    "goose": {
+      "imbawst": "1",
+      "xnlyt": "-1"
+    }
+  },
+  {
+    "id": "苍浅°",
+    "level": "10296",
+    "goose": {
+      "xnlyt": "1"
+    }
+  },
+  {
+    "id": "yla",
+    "level": "10300",
+    "goose": {
+      "caupollen": "1"
+    }
+  },
+  {
+    "id": "米水",
+    "level": "10301",
+    "goose": {
+      "xnlyt": "-1"
+    }
+  },
+  {
+    "id": "OldGlory",
+    "level": "10308",
+    "goose": {
+      "ylssb10438": "1",
+      "xnlyt": "-1"
+    }
+  },
+  {
+    "id": "caupollen",
+    "level": "10314",
+    "goose": {
+      "xnlyt": "1"
+    }
+  },
+  {
+    "id": "saintsimpler",
+    "level": "10361",
+    "goose": {
+      "YODOboi": "1",
+      "einne": "1",
+      "月夜的风": "2",
+      "ylssb10438": "1",
+      "保罗赫伯特": "1",
+      "err": "1",
+      "comeshiper": "1"
+    }
+  },
+  {
+    "id": "长笛领导吹奏部",
+    "level": "10378",
+    "goose": {
+      "黑川エレン": "1"
+    }
+  },
+  {
+    "id": "狼牙月",
+    "level": "10394",
+    "goose": {
+      "苍浅°": "1"
+    }
+  },
+  {
+    "id": "落封",
+    "level": "10395",
+    "goose": {
+      "xnlyt": "1"
+    }
+  }
+]

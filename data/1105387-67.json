@@ -1,0 +1,44 @@
+[
+  {
+    "id": "neunundneunzig",
+    "level": "99343",
+    "goose": {
+      "sAviOr": "1"
+    }
+  },
+  {
+    "id": "li__god",
+    "level": "99541",
+    "goose": {
+      "sAviOr": "1"
+    }
+  },
+  {
+    "id": "嘉兴路267号",
+    "level": "99758",
+    "goose": {
+      "rp1993": "1"
+    }
+  },
+  {
+    "id": "尹紫电",
+    "level": "99906",
+    "goose": {
+      "嘉兴路267号": "1"
+    }
+  },
+  {
+    "id": "sharhous",
+    "level": "99987",
+    "goose": {
+      "regalia": "1"
+    }
+  },
+  {
+    "id": "foxpat",
+    "level": "100358",
+    "goose": {
+      "西门无恨": "1"
+    }
+  }
+]

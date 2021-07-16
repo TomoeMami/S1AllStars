@@ -1,0 +1,79 @@
+[
+  {
+    "id": "汽车屁",
+    "level": "5",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "观自在",
+    "level": "64",
+    "goose": {
+      "装甲兔": "2"
+    }
+  },
+  {
+    "id": "PPB3008",
+    "level": "77",
+    "goose": {
+      "akaibell": "1"
+    }
+  },
+  {
+    "id": "scourge411",
+    "level": "85",
+    "goose": {
+      "梦魇": "1",
+      "Colonnello": "1",
+      "zcrptx": "1",
+      "科学铃科百合子": "1",
+      "camelia_vie": "1",
+      "月神的长弓": "1"
+    }
+  },
+  {
+    "id": "cloudian",
+    "level": "122",
+    "goose": {
+      "nowiner": "1"
+    }
+  },
+  {
+    "id": "FK2",
+    "level": "158",
+    "goose": {
+      "youlen": "-1"
+    }
+  },
+  {
+    "id": "yellow0507",
+    "level": "182",
+    "goose": {
+      "巫师萨满": "-1"
+    }
+  },
+  {
+    "id": "ftqwer1",
+    "level": "189",
+    "goose": {
+      "redivan": "1"
+    }
+  },
+  {
+    "id": "大喇叭花田",
+    "level": "208",
+    "goose": {
+      "hygtjui": "1",
+      "梦魇": "1",
+      "OZV522": "1"
+    }
+  },
+  {
+    "id": "rlim",
+    "level": "259",
+    "goose": {
+      "redivan": "2"
+    }
+  }
+]

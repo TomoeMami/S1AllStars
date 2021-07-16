@@ -1,0 +1,77 @@
+[
+  {
+    "id": "注册你妹",
+    "level": "7851",
+    "goose": {
+      "qwased": "1"
+    }
+  },
+  {
+    "id": "Harmonious",
+    "level": "7880",
+    "goose": {
+      "星の继承者": "1",
+      "hzsdr": "1",
+      "qwased": "1",
+      "mhss": "1"
+    }
+  },
+  {
+    "id": "Stuka",
+    "level": "7948",
+    "goose": {
+      "mhss": "1",
+      "captaindragoon": "1"
+    }
+  },
+  {
+    "id": "无印凉粉",
+    "level": "7977",
+    "goose": {
+      "Harmonious": "-1"
+    }
+  },
+  {
+    "id": "mhss",
+    "level": "8046",
+    "goose": {
+      "鸡蛋灌饼": "1"
+    }
+  },
+  {
+    "id": "Mi-24",
+    "level": "8133",
+    "goose": {
+      "windspearw": "1",
+      "mhss": "1"
+    }
+  },
+  {
+    "id": "Toby_dak",
+    "level": "8439",
+    "goose": {
+      "Mi-24": "-24"
+    }
+  },
+  {
+    "id": "serb",
+    "level": "8573",
+    "goose": {
+      "tk.cocacola": "-9"
+    }
+  },
+  {
+    "id": "serb",
+    "level": "8727",
+    "goose": {
+      "tk.cocacola": "-1"
+    }
+  },
+  {
+    "id": "全家",
+    "level": "8840",
+    "goose": {
+      "lain1": "1"
+    }
+  }
+]

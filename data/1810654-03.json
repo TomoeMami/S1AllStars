@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sorayang",
+    "level": "3249",
+    "goose": {
+      "thinkhome": "1"
+    }
+  },
+  {
+    "id": "hkguty",
+    "level": "3337",
+    "goose": {
+      "DawnGuardian": "1"
+    }
+  },
+  {
+    "id": "风平",
+    "level": "3680",
+    "goose": {
+      "weiweiEX": "2"
+    }
+  },
+  {
+    "id": "贝雷特",
+    "level": "3951",
+    "goose": {
+      "beer": "2"
+    }
+  },
+  {
+    "id": "Tackstone",
+    "level": "4018",
+    "goose": {
+      "beer": "1"
+    }
+  }
+]

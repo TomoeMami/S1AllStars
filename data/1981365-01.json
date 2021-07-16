@@ -1,0 +1,31 @@
+[
+  {
+    "id": "洗刷刷",
+    "level": "1",
+    "goose": {
+      "睡耘居主": "1"
+    }
+  },
+  {
+    "id": "Wanderers",
+    "level": "3",
+    "goose": {
+      "睡耘居主": "1",
+      "wjgjplearning": "1"
+    }
+  },
+  {
+    "id": "洗刷刷",
+    "level": "6",
+    "goose": {
+      "睡耘居主": "1"
+    }
+  },
+  {
+    "id": "Rorgen",
+    "level": "10",
+    "goose": {
+      "lucifer123": "1"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "夜空疾走",
+    "level": "26",
+    "goose": {
+      "illjay": "1"
+    }
+  },
+  {
+    "id": "bloodscream",
+    "level": "27",
+    "goose": {
+      "不停打滚": "-1"
+    }
+  },
+  {
+    "id": "stmule",
+    "level": "31",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "LilyWhite",
+    "level": "115",
+    "goose": {
+      "stmule": "1"
+    }
+  }
+]

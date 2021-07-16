@@ -1,0 +1,51 @@
+[
+  {
+    "id": "卡仑治糖",
+    "level": "1",
+    "goose": {
+      "螺纹": "1",
+      "benson_wind": "1",
+      "kurararara": "2",
+      "wfm": "1",
+      "gaosf": "1",
+      "雷诺4001": "1",
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "derceres",
+    "level": "2",
+    "goose": {
+      "Archaeopteryx": "-1",
+      "卡仑治糖": "1"
+    }
+  },
+  {
+    "id": "kara2000",
+    "level": "57",
+    "goose": {
+      "prprpr": "1"
+    }
+  },
+  {
+    "id": "oyss",
+    "level": "58",
+    "goose": {
+      "prprpr": "1"
+    }
+  },
+  {
+    "id": "karloku",
+    "level": "60",
+    "goose": {
+      "prprpr": "1"
+    }
+  },
+  {
+    "id": "overmindoyj",
+    "level": "110",
+    "goose": {
+      "RAMDA": "1"
+    }
+  }
+]

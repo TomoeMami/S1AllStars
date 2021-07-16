@@ -1,0 +1,45 @@
+[
+  {
+    "id": "ssnake",
+    "level": "454",
+    "goose": {
+      "astrayveller": "1"
+    }
+  },
+  {
+    "id": "病欠",
+    "level": "458",
+    "goose": {
+      "ssnake": "1",
+      "manesz": "1"
+    }
+  },
+  {
+    "id": "ssnake",
+    "level": "460",
+    "goose": {
+      "病欠": "1"
+    }
+  },
+  {
+    "id": "傲娇的章鱼",
+    "level": "530",
+    "goose": {
+      "南非大金钻": "1"
+    }
+  },
+  {
+    "id": "الطائر",
+    "level": "549",
+    "goose": {
+      "ssnake": "1"
+    }
+  },
+  {
+    "id": "ssnake",
+    "level": "602",
+    "goose": {
+      "莫里斯": "1"
+    }
+  }
+]

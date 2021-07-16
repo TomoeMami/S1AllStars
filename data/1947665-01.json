@@ -1,0 +1,54 @@
+[
+  {
+    "id": "烛堡巡礼者",
+    "level": "1",
+    "goose": {
+      "DLSDFY": "-2",
+      "lijiuli": "1",
+      "LUNAR12": "-1"
+    }
+  },
+  {
+    "id": "Bojenkins",
+    "level": "33",
+    "goose": {
+      "lrx200276": "1",
+      "Patlain": "1"
+    }
+  },
+  {
+    "id": "机动妖精",
+    "level": "78",
+    "goose": {
+      "油炸小狐狸": "1"
+    }
+  },
+  {
+    "id": "acalephs",
+    "level": "123",
+    "goose": {
+      "翼宿一": "1"
+    }
+  },
+  {
+    "id": "orangeth",
+    "level": "130",
+    "goose": {
+      "leonlink": "1"
+    }
+  },
+  {
+    "id": "orangeth",
+    "level": "132",
+    "goose": {
+      "油炸小狐狸": "1"
+    }
+  },
+  {
+    "id": "trow233",
+    "level": "168",
+    "goose": {
+      "天下至贱": "3"
+    }
+  }
+]

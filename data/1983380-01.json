@@ -1,0 +1,25 @@
+[
+  {
+    "id": "九门惠",
+    "level": "10",
+    "goose": {
+      "茛菪": "-1",
+      "空集": "1",
+      "leader01234": "1"
+    }
+  },
+  {
+    "id": "AlienFromEarth",
+    "level": "15",
+    "goose": {
+      "Burzum": "1"
+    }
+  },
+  {
+    "id": "AlienFromEarth",
+    "level": "58",
+    "goose": {
+      "spiritualis": "1"
+    }
+  }
+]

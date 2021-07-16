@@ -1,0 +1,34 @@
+[
+  {
+    "id": "МаксФёд",
+    "level": "27",
+    "goose": {
+      "unlimited_blade": "1",
+      "riczxc": "2",
+      "Kuroe": "1"
+    }
+  },
+  {
+    "id": "الطائر",
+    "level": "29",
+    "goose": {
+      "精灵ama": "1"
+    }
+  },
+  {
+    "id": "Eva",
+    "level": "41",
+    "goose": {
+      "МаксФёд": "-1"
+    }
+  },
+  {
+    "id": "yweili",
+    "level": "44",
+    "goose": {
+      "yario": "1",
+      "螺纹": "1",
+      "lysh_233": "1"
+    }
+  }
+]

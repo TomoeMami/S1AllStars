@@ -1,0 +1,23 @@
+[
+  {
+    "id": "TalkshowCenter",
+    "level": "39",
+    "goose": {
+      "zzcwx1020": "2"
+    }
+  },
+  {
+    "id": "beater",
+    "level": "55",
+    "goose": {
+      "giddenslee": "1"
+    }
+  },
+  {
+    "id": "ClampZZZ",
+    "level": "102",
+    "goose": {
+      "湿太之丸": "2"
+    }
+  }
+]

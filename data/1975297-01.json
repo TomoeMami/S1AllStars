@@ -1,0 +1,32 @@
+[
+  {
+    "id": "塌方",
+    "level": "1",
+    "goose": {
+      "睡耘居主": "1"
+    }
+  },
+  {
+    "id": "茶仙",
+    "level": "8",
+    "goose": {
+      "Silencieuse": "1"
+    }
+  },
+  {
+    "id": "atomhappy",
+    "level": "17",
+    "goose": {
+      "影子都没有了": "1",
+      "equion": "1",
+      "lokomotiv": "1"
+    }
+  },
+  {
+    "id": "lwflwf",
+    "level": "69",
+    "goose": {
+      "近月": "-1"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bigheadnotbig",
+    "level": "34",
+    "goose": {
+      "空枪": "1",
+      "PENTAX-DA": "1"
+    }
+  },
+  {
+    "id": "killcal",
+    "level": "277",
+    "goose": {
+      "mhfdt": "2",
+      "shyso": "1"
+    }
+  },
+  {
+    "id": "Limpidity",
+    "level": "434",
+    "goose": {
+      "Minolta": "1"
+    }
+  },
+  {
+    "id": "宿",
+    "level": "695",
+    "goose": {
+      "eulereld": "1"
+    }
+  }
+]

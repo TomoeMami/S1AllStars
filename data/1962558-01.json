@@ -1,0 +1,24 @@
+[
+  {
+    "id": "桐江",
+    "level": "39",
+    "goose": {
+      "camelia_vie": "-2",
+      "spiritualis": "-2"
+    }
+  },
+  {
+    "id": "长弓破风",
+    "level": "68",
+    "goose": {
+      "月神的长弓": "1"
+    }
+  },
+  {
+    "id": "我是大鲨鱼",
+    "level": "82",
+    "goose": {
+      "turnyyy": "1"
+    }
+  }
+]

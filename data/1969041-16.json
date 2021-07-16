@@ -1,0 +1,71 @@
+[
+  {
+    "id": "Eyeruby",
+    "level": "22779",
+    "goose": {
+      "saber_ly": "1"
+    }
+  },
+  {
+    "id": "linchuanwangmou",
+    "level": "22952",
+    "goose": {
+      "Eyeruby": "1"
+    }
+  },
+  {
+    "id": "夜鹿",
+    "level": "22965",
+    "goose": {
+      "名余竹": "-1"
+    }
+  },
+  {
+    "id": "TALL12",
+    "level": "23276",
+    "goose": {
+      "miiiijj": "1"
+    }
+  },
+  {
+    "id": "sakuraskill",
+    "level": "23331",
+    "goose": {
+      "焦糖巧克力": "1",
+      "fualdkal": "1",
+      "ashanddust": "1",
+      "Eyeruby": "1",
+      "YUIEWQ": "1",
+      "简巴•江斯特": "1",
+      "昂首的意志": "1"
+    }
+  },
+  {
+    "id": "ainsoph",
+    "level": "23561",
+    "goose": {
+      "Tristeee": "1"
+    }
+  },
+  {
+    "id": "hanshanwulu",
+    "level": "23715",
+    "goose": {
+      "juji": "-2"
+    }
+  },
+  {
+    "id": "ork",
+    "level": "23852",
+    "goose": {
+      "pabier": "1"
+    }
+  },
+  {
+    "id": "ainsoph",
+    "level": "23983",
+    "goose": {
+      "缺陷电气杨永信": "1"
+    }
+  }
+]

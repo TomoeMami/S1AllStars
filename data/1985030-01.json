@@ -1,0 +1,308 @@
+[
+  {
+    "id": "pansherry",
+    "level": "1",
+    "goose": {
+      "davidxxy": "1",
+      "fangjun96": "1",
+      "目力干员leison": "1",
+      "newbe63": "1",
+      "aisakahammer": "2",
+      "nowaki": "1"
+    }
+  },
+  {
+    "id": "nowaki",
+    "level": "3",
+    "goose": {
+      "pansherry": "1"
+    }
+  },
+  {
+    "id": "pansherry",
+    "level": "17",
+    "goose": {
+      "kazuma": "1"
+    }
+  },
+  {
+    "id": "pansherry",
+    "level": "20",
+    "goose": {
+      "kazuma": "1"
+    }
+  },
+  {
+    "id": "OldGlory",
+    "level": "25",
+    "goose": {
+      "kazuma": "1"
+    }
+  },
+  {
+    "id": "pansherry",
+    "level": "35",
+    "goose": {
+      "fangjun96": "1"
+    }
+  },
+  {
+    "id": "IDIDIDID",
+    "level": "44",
+    "goose": {
+      "nowaki": "-1",
+      "pansherry": "1"
+    }
+  },
+  {
+    "id": "IDIDIDID",
+    "level": "45",
+    "goose": {
+      "nowaki": "-1",
+      "pansherry": "1"
+    }
+  },
+  {
+    "id": "smy20011",
+    "level": "48",
+    "goose": {
+      "pansherry": "1"
+    }
+  },
+  {
+    "id": "admentus",
+    "level": "49",
+    "goose": {
+      "pansherry": "1"
+    }
+  },
+  {
+    "id": "pansherry",
+    "level": "52",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "pansherry",
+    "level": "99",
+    "goose": {
+      "GToojer": "1",
+      "Badwoman": "1"
+    }
+  },
+  {
+    "id": "pansherry",
+    "level": "103",
+    "goose": {
+      "nowaki": "2"
+    }
+  },
+  {
+    "id": "nowaki",
+    "level": "155",
+    "goose": {
+      "pansherry": "1"
+    }
+  },
+  {
+    "id": "pansherry",
+    "level": "169",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "admentus",
+    "level": "170",
+    "goose": {
+      "pansherry": "1"
+    }
+  },
+  {
+    "id": "yujie",
+    "level": "171",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "midearth",
+    "level": "178",
+    "goose": {
+      "pansherry": "1"
+    }
+  },
+  {
+    "id": "pansherry",
+    "level": "253",
+    "goose": {
+      "目力干员leison": "1",
+      "GToojer": "1"
+    }
+  },
+  {
+    "id": "GToojer",
+    "level": "291",
+    "goose": {
+      "pansherry": "1"
+    }
+  },
+  {
+    "id": "pansherry",
+    "level": "300",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "pansherry",
+    "level": "585",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "bluebaby",
+    "level": "590",
+    "goose": {
+      "colodes": "1"
+    }
+  },
+  {
+    "id": "a5220",
+    "level": "669",
+    "goose": {
+      "pansherry": "1"
+    }
+  },
+  {
+    "id": "admentus",
+    "level": "685",
+    "goose": {
+      "nowaki": "1",
+      "a5220": "1"
+    }
+  },
+  {
+    "id": "admentus",
+    "level": "725",
+    "goose": {
+      "nowaki": "1"
+    }
+  },
+  {
+    "id": "nowaki",
+    "level": "757",
+    "goose": {
+      "a5220": "1"
+    }
+  },
+  {
+    "id": "admentus",
+    "level": "780",
+    "goose": {
+      "nowaki": "1"
+    }
+  },
+  {
+    "id": "nowaki",
+    "level": "797",
+    "goose": {
+      "獅白ぼたん": "1"
+    }
+  },
+  {
+    "id": "丿焰丶",
+    "level": "798",
+    "goose": {
+      "a5220": "1",
+      "GToojer": "1"
+    }
+  },
+  {
+    "id": "a5220",
+    "level": "823",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "GToojer",
+    "level": "839",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "a5220",
+    "level": "943",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "a5220",
+    "level": "946",
+    "goose": {
+      "Map-2": "-2",
+      "ylssb10438": "1"
+    }
+  },
+  {
+    "id": "admentus",
+    "level": "1016",
+    "goose": {
+      "a5220": "1"
+    }
+  },
+  {
+    "id": "a5220",
+    "level": "1017",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "a5220",
+    "level": "1071",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "a5220",
+    "level": "1128",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "Map-2",
+    "level": "1240",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "midearth",
+    "level": "1310",
+    "goose": {
+      "nowaki": "1"
+    }
+  },
+  {
+    "id": "a5220",
+    "level": "1311",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "a5220",
+    "level": "1384",
+    "goose": {
+      "admentus": "1"
+    }
+  }
+]

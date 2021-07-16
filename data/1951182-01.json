@@ -1,0 +1,44 @@
+[
+  {
+    "id": "塔那",
+    "level": "8",
+    "goose": {
+      "banrendacha": "1"
+    }
+  },
+  {
+    "id": "谢云流",
+    "level": "53",
+    "goose": {
+      "RX-78-7": "2"
+    }
+  },
+  {
+    "id": "banrendacha",
+    "level": "111",
+    "goose": {
+      "zcomic": "-1"
+    }
+  },
+  {
+    "id": "spoony",
+    "level": "117",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "spoony",
+    "level": "124",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "桌椅板凳酱",
+    "level": "129",
+    "goose": {
+      "youlen": "-1"
+    }
+  }
+]

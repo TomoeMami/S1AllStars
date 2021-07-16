@@ -1,0 +1,30 @@
+[
+  {
+    "id": "tastySugar",
+    "level": "78",
+    "goose": {
+      "BT绅士": "1"
+    }
+  },
+  {
+    "id": "kwin_",
+    "level": "105",
+    "goose": {
+      "xingenge": "1"
+    }
+  },
+  {
+    "id": "xingenge",
+    "level": "106",
+    "goose": {
+      "kwin_": "1"
+    }
+  },
+  {
+    "id": "千叶铁矢",
+    "level": "161",
+    "goose": {
+      "ipcjs": "1"
+    }
+  }
+]

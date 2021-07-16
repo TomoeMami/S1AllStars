@@ -1,0 +1,31 @@
+[
+  {
+    "id": "soulburner",
+    "level": "1",
+    "goose": {
+      "我来找我媳妇": "1",
+      "超紳士": "1"
+    }
+  },
+  {
+    "id": "晩韶华",
+    "level": "9",
+    "goose": {
+      "我来找我媳妇": "1"
+    }
+  },
+  {
+    "id": "woxihuan23",
+    "level": "183",
+    "goose": {
+      "dpdwx": "1"
+    }
+  },
+  {
+    "id": "zephyrus_z",
+    "level": "186",
+    "goose": {
+      "maskinmask": "1"
+    }
+  }
+]

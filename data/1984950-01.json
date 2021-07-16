@@ -1,0 +1,23 @@
+[
+  {
+    "id": "sese199",
+    "level": "1",
+    "goose": {
+      "中出大魔王": "1"
+    }
+  },
+  {
+    "id": "windtrack",
+    "level": "30",
+    "goose": {
+      "sese199": "2"
+    }
+  },
+  {
+    "id": "奥柏伦亲王",
+    "level": "84",
+    "goose": {
+      "FangSHero": "1"
+    }
+  }
+]

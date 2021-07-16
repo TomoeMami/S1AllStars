@@ -1,0 +1,34 @@
+[
+  {
+    "id": "歇洛克波洛",
+    "level": "78",
+    "goose": {
+      "gg142857": "-2",
+      "朝日Asahi": "-1",
+      "Hanzong": "1"
+    }
+  },
+  {
+    "id": "Renkonsai",
+    "level": "80",
+    "goose": {
+      "朔方原的星": "-2",
+      "ranapocket": "1"
+    }
+  },
+  {
+    "id": "dumplingpro",
+    "level": "125",
+    "goose": {
+      "Renkonsai": "1"
+    }
+  },
+  {
+    "id": "oil",
+    "level": "142",
+    "goose": {
+      "凉宫春日的野望": "1",
+      "yuwe0714": "1"
+    }
+  }
+]

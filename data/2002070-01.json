@@ -1,0 +1,16 @@
+[
+  {
+    "id": "摸摸猫头",
+    "level": "1",
+    "goose": {
+      "sprittee": "1"
+    }
+  },
+  {
+    "id": "mintslime",
+    "level": "8",
+    "goose": {
+      "x.cat": "2"
+    }
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "id": "MANU终身为红",
+    "level": "1",
+    "goose": {
+      "无所不黑": "1"
+    }
+  },
+  {
+    "id": "北極海航路",
+    "level": "2",
+    "goose": {
+      "cxxx": "-2"
+    }
+  },
+  {
+    "id": "Kazepollar",
+    "level": "11",
+    "goose": {
+      "Delft": "1",
+      "nb33": "-1",
+      "屑猫猫": "1"
+    }
+  },
+  {
+    "id": "GarfieldX",
+    "level": "15",
+    "goose": {
+      "codedeath": "1",
+      "好德我基": "1",
+      "ybfelix": "1"
+    }
+  },
+  {
+    "id": "cxxx",
+    "level": "33",
+    "goose": {
+      "北極海航路": "-1"
+    }
+  },
+  {
+    "id": "freedom12",
+    "level": "50",
+    "goose": {
+      "慕容断月": "1"
+    }
+  },
+  {
+    "id": "woshenc",
+    "level": "51",
+    "goose": {
+      "qq525266": "1"
+    }
+  },
+  {
+    "id": "fantuanxiaoyi",
+    "level": "63",
+    "goose": {
+      "北極海航路": "-1"
+    }
+  },
+  {
+    "id": "orangeth",
+    "level": "71",
+    "goose": {
+      "nb33": "-1"
+    }
+  },
+  {
+    "id": "汪达",
+    "level": "80",
+    "goose": {
+      "宅男死胖子": "1"
+    }
+  },
+  {
+    "id": "御神水",
+    "level": "124",
+    "goose": {
+      "屑猫猫": "1",
+      "dookiee": "1"
+    }
+  },
+  {
+    "id": "屑猫猫",
+    "level": "125",
+    "goose": {
+      "御神水": "1"
+    }
+  }
+]

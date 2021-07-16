@@ -1,0 +1,33 @@
+[
+  {
+    "id": "火鸡味锅巴",
+    "level": "18",
+    "goose": {
+      "忘记了": "1"
+    }
+  },
+  {
+    "id": "不说话",
+    "level": "41",
+    "goose": {
+      "Hanzong": "-1"
+    }
+  },
+  {
+    "id": "Hanzong",
+    "level": "42",
+    "goose": {
+      "wolftooth": "-2",
+      "绵绵糕": "-1",
+      "sadllk": "-1",
+      "chilno": "-1"
+    }
+  },
+  {
+    "id": "不说话",
+    "level": "44",
+    "goose": {
+      "Hanzong": "-1"
+    }
+  }
+]

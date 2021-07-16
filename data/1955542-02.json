@@ -1,0 +1,31 @@
+[
+  {
+    "id": "大气水平运动",
+    "level": "1509",
+    "goose": {
+      "CyanCloverFern": "1"
+    }
+  },
+  {
+    "id": "msfan",
+    "level": "1532",
+    "goose": {
+      "CyanCloverFern": "1"
+    }
+  },
+  {
+    "id": "这就是奇迹",
+    "level": "1810",
+    "goose": {
+      "南去": "-1"
+    }
+  },
+  {
+    "id": "敖轩",
+    "level": "1904",
+    "goose": {
+      "adobecc": "1",
+      "_nihil": "1"
+    }
+  }
+]

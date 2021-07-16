@@ -1,0 +1,40 @@
+[
+  {
+    "id": "madnesshare",
+    "level": "7",
+    "goose": {
+      "stick": "-1",
+      "FIREHELL": "-2"
+    }
+  },
+  {
+    "id": "无攻不受鹿",
+    "level": "14",
+    "goose": {
+      "禁止发言.": "1"
+    }
+  },
+  {
+    "id": "不乖",
+    "level": "15",
+    "goose": {
+      "ej103": "1",
+      "RE-OIL_Hen!!": "-1"
+    }
+  },
+  {
+    "id": "饭来张口",
+    "level": "44",
+    "goose": {
+      "GloryXie": "-1",
+      "chautauqua": "1"
+    }
+  },
+  {
+    "id": "zn231",
+    "level": "77",
+    "goose": {
+      "GloryXie": "1"
+    }
+  }
+]

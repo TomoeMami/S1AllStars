@@ -1,0 +1,24 @@
+[
+  {
+    "id": "camio",
+    "level": "20",
+    "goose": {
+      "StaticAnalysis": "1"
+    }
+  },
+  {
+    "id": "开普勒",
+    "level": "25",
+    "goose": {
+      "StaticAnalysis": "1"
+    }
+  },
+  {
+    "id": "StaticAnalysis",
+    "level": "54",
+    "goose": {
+      "cnwind042": "1",
+      "kaolinto": "1"
+    }
+  }
+]

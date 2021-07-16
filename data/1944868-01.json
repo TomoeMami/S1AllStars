@@ -1,0 +1,38 @@
+[
+  {
+    "id": "名守居",
+    "level": "11",
+    "goose": {
+      "飞灾": "1",
+      "hshiki": "1"
+    }
+  },
+  {
+    "id": "gg142857",
+    "level": "64",
+    "goose": {
+      "魔人揪揪": "-1"
+    }
+  },
+  {
+    "id": "mashav",
+    "level": "150",
+    "goose": {
+      "Tengu": "1"
+    }
+  },
+  {
+    "id": "hshiki",
+    "level": "219",
+    "goose": {
+      "归家那单车小径": "1"
+    }
+  },
+  {
+    "id": "superlink",
+    "level": "244",
+    "goose": {
+      "youjishiwu": "1"
+    }
+  }
+]

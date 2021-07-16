@@ -1,0 +1,34 @@
+[
+  {
+    "id": "有机物看电影",
+    "level": "607",
+    "goose": {
+      "Liquid_Snake": "-1"
+    }
+  },
+  {
+    "id": "有机物看电影",
+    "level": "633",
+    "goose": {
+      "cheatdeath3": "-2",
+      "crystalmacarons": "-1",
+      "Joccy": "-1",
+      "Liquid_Snake": "-1",
+      "redsibyl": "-2"
+    }
+  },
+  {
+    "id": "Guildenstern",
+    "level": "736",
+    "goose": {
+      "鹿斗典善": "-2"
+    }
+  },
+  {
+    "id": "kilkilo",
+    "level": "1441",
+    "goose": {
+      "Pumpkin_ccc": "1"
+    }
+  }
+]

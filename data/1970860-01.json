@@ -1,0 +1,33 @@
+[
+  {
+    "id": "SICP",
+    "level": "1",
+    "goose": {
+      "Ikikju": "1",
+      "OrianaThomson": "1",
+      "stshine": "1"
+    }
+  },
+  {
+    "id": "SICP",
+    "level": "4",
+    "goose": {
+      "beer": "2"
+    }
+  },
+  {
+    "id": "十二国",
+    "level": "31",
+    "goose": {
+      "hellgate22": "-1",
+      "adobecc": "-1"
+    }
+  },
+  {
+    "id": "ffs",
+    "level": "111",
+    "goose": {
+      "精灵ama": "1"
+    }
+  }
+]

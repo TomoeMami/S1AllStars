@@ -1,0 +1,41 @@
+[
+  {
+    "id": "卡鲁修特",
+    "level": "20",
+    "goose": {
+      "梦魇": "1"
+    }
+  },
+  {
+    "id": "jctc",
+    "level": "55",
+    "goose": {
+      "lovebati": "1"
+    }
+  },
+  {
+    "id": "Vzero",
+    "level": "56",
+    "goose": {
+      "吴民是": "1"
+    }
+  },
+  {
+    "id": "dstar",
+    "level": "130",
+    "goose": {
+      "NeoCyber": "1",
+      "逍遥客7": "1",
+      "Titantime": "1",
+      "朔方原的星": "1",
+      "Eva": "1"
+    }
+  },
+  {
+    "id": "dstar",
+    "level": "169",
+    "goose": {
+      "deadpig": "1"
+    }
+  }
+]

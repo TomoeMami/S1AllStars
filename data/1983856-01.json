@@ -1,0 +1,48 @@
+[
+  {
+    "id": "aa01",
+    "level": "73",
+    "goose": {
+      "intotherain9": "2",
+      "illjay": "2",
+      "外道丸": "-2"
+    }
+  },
+  {
+    "id": "ssseeeiii",
+    "level": "110",
+    "goose": {
+      "aa01": "1"
+    }
+  },
+  {
+    "id": "Samsong",
+    "level": "132",
+    "goose": {
+      "captoon": "-8",
+      "聚散浮云": "-1"
+    }
+  },
+  {
+    "id": "yang1820",
+    "level": "158",
+    "goose": {
+      "安姆闲人": "1"
+    }
+  },
+  {
+    "id": "jpcl",
+    "level": "160",
+    "goose": {
+      "林漠俪": "1",
+      "安姆闲人": "1"
+    }
+  },
+  {
+    "id": "aa01",
+    "level": "172",
+    "goose": {
+      "Phoenix_0592": "1"
+    }
+  }
+]

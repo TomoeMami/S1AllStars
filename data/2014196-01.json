@@ -1,0 +1,87 @@
+[
+  {
+    "id": "千里夜雨",
+    "level": "2",
+    "goose": {
+      "马甲号2": "1"
+    }
+  },
+  {
+    "id": "Lyzers",
+    "level": "6",
+    "goose": {
+      "dz2017": "1",
+      "马甲号2": "-1",
+      "scream": "2",
+      "路西恩": "1"
+    }
+  },
+  {
+    "id": "活久见",
+    "level": "8",
+    "goose": {
+      "路西恩": "1",
+      "redivan": "1"
+    }
+  },
+  {
+    "id": "LBS",
+    "level": "27",
+    "goose": {
+      "Ancerise": "-2"
+    }
+  },
+  {
+    "id": "霍亨索伦亲王",
+    "level": "31",
+    "goose": {
+      "3Psm": "1"
+    }
+  },
+  {
+    "id": "LBS",
+    "level": "35",
+    "goose": {
+      "Ancerise": "-2"
+    }
+  },
+  {
+    "id": "Ancerise",
+    "level": "37",
+    "goose": {
+      "redivan": "1",
+      "LBS": "-2",
+      "qds": "1",
+      "Ditfran": "1",
+      "mmair2011": "1",
+      "Oshino29": "1",
+      "杰钢美羽": "1",
+      "少年kafka": "1",
+      "scream": "1",
+      "Lyzers": "1",
+      "商博良": "1"
+    }
+  },
+  {
+    "id": "巨灵巴谛魔",
+    "level": "54",
+    "goose": {
+      "mmair2011": "1"
+    }
+  },
+  {
+    "id": "矢吹奈子",
+    "level": "57",
+    "goose": {
+      "路西恩": "1",
+      "xy129032": "1"
+    }
+  },
+  {
+    "id": "LBS",
+    "level": "83",
+    "goose": {
+      "Ancerise": "-2"
+    }
+  }
+]

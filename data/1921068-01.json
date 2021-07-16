@@ -1,0 +1,32 @@
+[
+  {
+    "id": "莫吉",
+    "level": "1",
+    "goose": {
+      "bird-lay": "2",
+      "Keynes": "1"
+    }
+  },
+  {
+    "id": "jimclack",
+    "level": "46",
+    "goose": {
+      "油炸小狐狸": "1"
+    }
+  },
+  {
+    "id": "wesk",
+    "level": "75",
+    "goose": {
+      "杨松": "2"
+    }
+  },
+  {
+    "id": "hamartia",
+    "level": "144",
+    "goose": {
+      "sakujo": "1",
+      "飞霞精灵": "1"
+    }
+  }
+]

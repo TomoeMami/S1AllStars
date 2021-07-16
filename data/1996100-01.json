@@ -1,0 +1,23 @@
+[
+  {
+    "id": "SFLSNZYN",
+    "level": "48",
+    "goose": {
+      "spring_VOV": "1"
+    }
+  },
+  {
+    "id": "AlfredXC",
+    "level": "73",
+    "goose": {
+      "spring_VOV": "1"
+    }
+  },
+  {
+    "id": "spring_VOV",
+    "level": "91",
+    "goose": {
+      "Piano-Forest": "1"
+    }
+  }
+]

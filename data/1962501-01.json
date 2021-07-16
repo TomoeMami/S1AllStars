@@ -1,0 +1,29 @@
+[
+  {
+    "id": "why3000",
+    "level": "1",
+    "goose": {
+      "银河最大星爆": "-2",
+      "Corruptwing": "-1",
+      "地板文艺界": "-1"
+    }
+  },
+  {
+    "id": "天平",
+    "level": "11",
+    "goose": {
+      "toroes": "1"
+    }
+  },
+  {
+    "id": "henvelleng",
+    "level": "24",
+    "goose": {
+      "喵君": "1",
+      "sakamoko": "1",
+      "konev": "2",
+      "Channel": "1",
+      "ppp爱好者": "1"
+    }
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "近距离作战",
+    "level": "138",
+    "goose": {
+      "ngsd1000": "1"
+    }
+  },
+  {
+    "id": "DOACAON",
+    "level": "277",
+    "goose": {
+      "筱原重工": "1"
+    }
+  },
+  {
+    "id": "路江湖",
+    "level": "395",
+    "goose": {
+      "黑城舞夏": "1",
+      "smishe": "1"
+    }
+  },
+  {
+    "id": "xingenge",
+    "level": "902",
+    "goose": {
+      "xwr": "1"
+    }
+  },
+  {
+    "id": "病欠",
+    "level": "954",
+    "goose": {
+      "roamer": "1"
+    }
+  },
+  {
+    "id": "xingenge",
+    "level": "1043",
+    "goose": {
+      "EunYoungChoi": "1"
+    }
+  },
+  {
+    "id": "kos_mos",
+    "level": "1209",
+    "goose": {
+      "xwr": "1"
+    }
+  },
+  {
+    "id": "xingenge",
+    "level": "1257",
+    "goose": {
+      "xwr": "1"
+    }
+  },
+  {
+    "id": "chaos7",
+    "level": "1457",
+    "goose": {
+      "EunYoungChoi": "1"
+    }
+  }
+]

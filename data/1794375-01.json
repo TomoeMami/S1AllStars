@@ -1,0 +1,45 @@
+[
+  {
+    "id": "breakble",
+    "level": "163",
+    "goose": {
+      "青菜子": "1"
+    }
+  },
+  {
+    "id": "いつかの自分",
+    "level": "208",
+    "goose": {
+      "若荼泱": "1",
+      "astrayveller": "1"
+    }
+  },
+  {
+    "id": "棒读",
+    "level": "221",
+    "goose": {
+      "nemuru_baka": "1"
+    }
+  },
+  {
+    "id": "二月十日",
+    "level": "313",
+    "goose": {
+      "ssnake": "1"
+    }
+  },
+  {
+    "id": "flankoi",
+    "level": "314",
+    "goose": {
+      "ssnake": "1"
+    }
+  },
+  {
+    "id": "fengzijiang",
+    "level": "588",
+    "goose": {
+      "有口皆悲": "1"
+    }
+  }
+]

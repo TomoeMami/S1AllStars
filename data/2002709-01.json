@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ckming",
+    "level": "30",
+    "goose": {
+      "mcmurdo": "-2",
+      "文艺复兴": "1",
+      "kuleisite1992": "2",
+      "blacktea914": "1",
+      "桐名": "-1",
+      "宗汝": "1",
+      "leghorn00": "-2",
+      "白鹤没有翅膀": "1",
+      "patchper": "1",
+      "banrendacha": "-1"
+    }
+  },
+  {
+    "id": "乔1994",
+    "level": "38",
+    "goose": {
+      "blacktea914": "1",
+      "leghorn00": "1"
+    }
+  },
+  {
+    "id": "战斗红魔",
+    "level": "42",
+    "goose": {
+      "VirtualFriend": "-1"
+    }
+  },
+  {
+    "id": "枯风瘦雪",
+    "level": "123",
+    "goose": {
+      "mcmurdo": "-2"
+    }
+  },
+  {
+    "id": "VirtualFriend",
+    "level": "150",
+    "goose": {
+      "moreng": "2"
+    }
+  }
+]

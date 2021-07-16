@@ -1,0 +1,31 @@
+[
+  {
+    "id": "可防可控",
+    "level": "1",
+    "goose": {
+      "npfjcg": "1",
+      "CrayS1": "1",
+      "btnooni": "1",
+      "leachiman": "-1"
+    }
+  },
+  {
+    "id": "spoony",
+    "level": "93",
+    "goose": {
+      "13.": "1",
+      "r3ko": "-1",
+      "blackjeo1": "-1",
+      "lexi": "-1",
+      "flashenix1": "-1",
+      "dorasir": "-1"
+    }
+  },
+  {
+    "id": "mimighost",
+    "level": "101",
+    "goose": {
+      "Eva": "-1"
+    }
+  }
+]

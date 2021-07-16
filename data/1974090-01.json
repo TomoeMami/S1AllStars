@@ -1,0 +1,32 @@
+[
+  {
+    "id": "冻僵的机械",
+    "level": "7",
+    "goose": {
+      "makar0601": "1",
+      "fat": "1"
+    }
+  },
+  {
+    "id": "mustforver",
+    "level": "27",
+    "goose": {
+      "makar0601": "1"
+    }
+  },
+  {
+    "id": "horacio",
+    "level": "76",
+    "goose": {
+      "mexiku": "1",
+      "bvbrother": "1"
+    }
+  },
+  {
+    "id": "fat",
+    "level": "90",
+    "goose": {
+      "EvaBaccano": "1"
+    }
+  }
+]

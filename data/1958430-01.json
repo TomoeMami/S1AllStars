@@ -1,0 +1,25 @@
+[
+  {
+    "id": "天空飞鱼",
+    "level": "1",
+    "goose": {
+      "ayeah": "2",
+      "tiancaiyisi": "1",
+      "蛮烟瘴雨": "1"
+    }
+  },
+  {
+    "id": "北窗伏龙",
+    "level": "2",
+    "goose": {
+      "Ichthys": "1"
+    }
+  },
+  {
+    "id": "绍伊古",
+    "level": "17",
+    "goose": {
+      "freshboom": "1"
+    }
+  }
+]

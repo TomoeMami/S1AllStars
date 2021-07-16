@@ -1,0 +1,112 @@
+[
+  {
+    "id": "slend殿",
+    "level": "33",
+    "goose": {
+      "Montana": "1"
+    }
+  },
+  {
+    "id": "slend殿",
+    "level": "40",
+    "goose": {
+      "Montana": "1",
+      "franly": "1",
+      "和真克瓦尔": "1"
+    }
+  },
+  {
+    "id": "smallstep",
+    "level": "54",
+    "goose": {
+      "orangeth": "2"
+    }
+  },
+  {
+    "id": "VirMoe",
+    "level": "55",
+    "goose": {
+      "和真克瓦尔": "-1"
+    }
+  },
+  {
+    "id": "风中凌舞",
+    "level": "63",
+    "goose": {
+      "OkaJu": "1",
+      "Montana": "1"
+    }
+  },
+  {
+    "id": "风中凌舞",
+    "level": "64",
+    "goose": {
+      "孔祈": "1",
+      "Montana": "1",
+      "和真克瓦尔": "1"
+    }
+  },
+  {
+    "id": "slend殿",
+    "level": "74",
+    "goose": {
+      "lzz": "1"
+    }
+  },
+  {
+    "id": "风中凌舞",
+    "level": "78",
+    "goose": {
+      "orangeth": "1"
+    }
+  },
+  {
+    "id": "Stellar_Frost",
+    "level": "133",
+    "goose": {
+      "七海千秋酱": "1"
+    }
+  },
+  {
+    "id": "雪霜",
+    "level": "204",
+    "goose": {
+      "Peleus": "1"
+    }
+  },
+  {
+    "id": "slend殿",
+    "level": "249",
+    "goose": {
+      "plazum": "1"
+    }
+  },
+  {
+    "id": "南门二",
+    "level": "276",
+    "goose": {
+      "Silencieuse": "1"
+    }
+  },
+  {
+    "id": "呆呆兽面包",
+    "level": "307",
+    "goose": {
+      "Peleus": "1"
+    }
+  },
+  {
+    "id": "Peleus",
+    "level": "323",
+    "goose": {
+      "呆呆兽面包": "2"
+    }
+  },
+  {
+    "id": "ahoge2004",
+    "level": "435",
+    "goose": {
+      "Peleus": "1"
+    }
+  }
+]

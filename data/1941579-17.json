@@ -1,0 +1,396 @@
+[
+  {
+    "id": "屑屑代沟尼亚",
+    "level": "24001",
+    "goose": {
+      "UnhappyTails": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "24028",
+    "goose": {
+      "某穆克拉": "1"
+    }
+  },
+  {
+    "id": "空集",
+    "level": "24053",
+    "goose": {
+      "sisyphus_": "1",
+      "colodes": "2"
+    }
+  },
+  {
+    "id": "某穆克拉",
+    "level": "24110",
+    "goose": {
+      "屑屑代沟尼亚": "1"
+    }
+  },
+  {
+    "id": "渡鸦骑士",
+    "level": "24124",
+    "goose": {
+      "colodes": "0"
+    }
+  },
+  {
+    "id": "AloissiolA",
+    "level": "24151",
+    "goose": {
+      "UnhappyTails": "1"
+    }
+  },
+  {
+    "id": "暗心舞踏",
+    "level": "24172",
+    "goose": {
+      "crito": "1"
+    }
+  },
+  {
+    "id": "proxima",
+    "level": "24174",
+    "goose": {
+      "A2014720": "1",
+      "crito": "1"
+    }
+  },
+  {
+    "id": "cherryrain",
+    "level": "24278",
+    "goose": {
+      "Suny08": "1"
+    }
+  },
+  {
+    "id": "tiro_finale",
+    "level": "24280",
+    "goose": {
+      "Suny08": "1"
+    }
+  },
+  {
+    "id": "渡鸦骑士",
+    "level": "24291",
+    "goose": {
+      "Izuru单推人": "1"
+    }
+  },
+  {
+    "id": "激光2000",
+    "level": "24326",
+    "goose": {
+      "argaregeasr": "-1"
+    }
+  },
+  {
+    "id": "kanonsisya",
+    "level": "24426",
+    "goose": {
+      "lovcavil": "-2"
+    }
+  },
+  {
+    "id": "tiro_finale",
+    "level": "24442",
+    "goose": {
+      "opersuper": "1"
+    }
+  },
+  {
+    "id": "Vneet",
+    "level": "24452",
+    "goose": {
+      "中野六小龄童": "0"
+    }
+  },
+  {
+    "id": "proxima",
+    "level": "24459",
+    "goose": {
+      "墨玄i": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "24460",
+    "goose": {
+      "argaregeasr": "1",
+      "rzrbtk": "1",
+      "bluebaby": "1"
+    }
+  },
+  {
+    "id": "UnhappyTails",
+    "level": "24534",
+    "goose": {
+      "argaregeasr": "1",
+      "Dante0960": "1",
+      "SuntoryNomu": "1",
+      "好德我基": "1",
+      "Rosefinch": "1",
+      "nehon13": "1",
+      "Mr.shelter": "1",
+      "空集": "1",
+      "屑屑代沟尼亚": "1",
+      "中野六小龄童": "1"
+    }
+  },
+  {
+    "id": "Ketestrait",
+    "level": "24552",
+    "goose": {
+      "SuntoryNomu": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "24610",
+    "goose": {
+      "argaregeasr": "1",
+      "猫島かおる": "1",
+      "墨玄i": "1",
+      "Mr.shelter": "1"
+    }
+  },
+  {
+    "id": "あのん",
+    "level": "24670",
+    "goose": {
+      "魔法使い2019": "1",
+      "bluebaby": "1",
+      "屑屑代沟尼亚": "1"
+    }
+  },
+  {
+    "id": "proxima",
+    "level": "24793",
+    "goose": {
+      "argaregeasr": "1"
+    }
+  },
+  {
+    "id": "UnhappyTails",
+    "level": "24822",
+    "goose": {
+      "渡鸦骑士": "1",
+      "屑屑代沟尼亚": "2",
+      "Mr.shelter": "1"
+    }
+  },
+  {
+    "id": "UnhappyTails",
+    "level": "24855",
+    "goose": {
+      "proxima": "1"
+    }
+  },
+  {
+    "id": "SuntoryNomu",
+    "level": "24913",
+    "goose": {
+      "北山玖公": "1",
+      "墨玄i": "1"
+    }
+  },
+  {
+    "id": "admentus",
+    "level": "24948",
+    "goose": {
+      "bluebaby": "1"
+    }
+  },
+  {
+    "id": "ひびき",
+    "level": "24973",
+    "goose": {
+      "argaregeasr": "1",
+      "SuntoryNomu": "1"
+    }
+  },
+  {
+    "id": "御坂422x",
+    "level": "25029",
+    "goose": {
+      "2L模仿47哥": "1",
+      "ylssb10438": "1",
+      "asdhai": "1"
+    }
+  },
+  {
+    "id": "御坂422x",
+    "level": "25088",
+    "goose": {
+      "好德我基": "1"
+    }
+  },
+  {
+    "id": "中野六小龄童",
+    "level": "25098",
+    "goose": {
+      "star_platinum": "1"
+    }
+  },
+  {
+    "id": "IDIDIDID",
+    "level": "25136",
+    "goose": {
+      "anwen76": "1",
+      "2L模仿47哥": "-1",
+      "JhIenog": "1",
+      "UnhappyTails": "1",
+      "alcoholic1000": "-1"
+    }
+  },
+  {
+    "id": "alcoholic1000",
+    "level": "25156",
+    "goose": {
+      "IDIDIDID": "2"
+    }
+  },
+  {
+    "id": "激光2000",
+    "level": "25169",
+    "goose": {
+      "argaregeasr": "-1"
+    }
+  },
+  {
+    "id": "激光2000",
+    "level": "25177",
+    "goose": {
+      "argaregeasr": "-1"
+    }
+  },
+  {
+    "id": "激光2000",
+    "level": "25185",
+    "goose": {
+      "argaregeasr": "-1"
+    }
+  },
+  {
+    "id": "alcoholic1000",
+    "level": "25198",
+    "goose": {
+      "UnhappyTails": "1"
+    }
+  },
+  {
+    "id": "激光2000",
+    "level": "25204",
+    "goose": {
+      "argaregeasr": "-1"
+    }
+  },
+  {
+    "id": "ひびき",
+    "level": "25205",
+    "goose": {
+      "argaregeasr": "1"
+    }
+  },
+  {
+    "id": "star_platinum",
+    "level": "25207",
+    "goose": {
+      "argaregeasr": "1"
+    }
+  },
+  {
+    "id": "好德我基",
+    "level": "25221",
+    "goose": {
+      "argaregeasr": "1"
+    }
+  },
+  {
+    "id": "激光2000",
+    "level": "25250",
+    "goose": {
+      "argaregeasr": "-1"
+    }
+  },
+  {
+    "id": "御坂422x",
+    "level": "25256",
+    "goose": {
+      "argaregeasr": "1"
+    }
+  },
+  {
+    "id": "Nonamesky",
+    "level": "25265",
+    "goose": {
+      "asdhai": "1",
+      "渡鸦骑士": "1",
+      "中野六小龄童": "1"
+    }
+  },
+  {
+    "id": "rzrbtk",
+    "level": "25271",
+    "goose": {
+      "alcoholic1000": "1"
+    }
+  },
+  {
+    "id": "rzrbtk",
+    "level": "25293",
+    "goose": {
+      "cqkxywj": "1"
+    }
+  },
+  {
+    "id": "Izuru单推人",
+    "level": "25381",
+    "goose": {
+      "argaregeasr": "1"
+    }
+  },
+  {
+    "id": "墨玄i",
+    "level": "25383",
+    "goose": {
+      "Izuru单推人": "1"
+    }
+  },
+  {
+    "id": "SteinSlayer",
+    "level": "25402",
+    "goose": {
+      "空集": "-1"
+    }
+  },
+  {
+    "id": "黑之和",
+    "level": "25403",
+    "goose": {
+      "Suny08": "1"
+    }
+  },
+  {
+    "id": "泡芙好吃",
+    "level": "25424",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "proxima",
+    "level": "25434",
+    "goose": {
+      "aisakahammer": "2"
+    }
+  },
+  {
+    "id": "alcoholic1000",
+    "level": "25439",
+    "goose": {
+      "SuntoryNomu": "1"
+    }
+  }
+]

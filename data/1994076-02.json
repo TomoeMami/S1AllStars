@@ -1,0 +1,206 @@
+[
+  {
+    "id": "RainbowSealife",
+    "level": "1519",
+    "goose": {
+      "43453": "1"
+    }
+  },
+  {
+    "id": "巨馍蘸酱",
+    "level": "1520",
+    "goose": {
+      "RainbowSealife": "1"
+    }
+  },
+  {
+    "id": "diectt",
+    "level": "1640",
+    "goose": {
+      "dclara1": "1"
+    }
+  },
+  {
+    "id": "树皮83",
+    "level": "1642",
+    "goose": {
+      "diectt": "1"
+    }
+  },
+  {
+    "id": "アンチ",
+    "level": "1646",
+    "goose": {
+      "gutzz": "1"
+    }
+  },
+  {
+    "id": "kangkangsama",
+    "level": "1657",
+    "goose": {
+      "千恋万花": "1"
+    }
+  },
+  {
+    "id": "千恋万花",
+    "level": "1690",
+    "goose": {
+      "SSSS.崚": "1"
+    }
+  },
+  {
+    "id": "千恋万花",
+    "level": "1691",
+    "goose": {
+      "SSSS.崚": "1"
+    }
+  },
+  {
+    "id": "云闻先",
+    "level": "1785",
+    "goose": {
+      "黑暗剑": "1",
+      "yumemiya": "1",
+      "dclara1": "1",
+      "whzfjk": "1",
+      "downnote": "1",
+      "ultraseven": "1",
+      "1551died": "1",
+      "Kedger": "1",
+      "羊寢": "1"
+    }
+  },
+  {
+    "id": "RainbowSealife",
+    "level": "1892",
+    "goose": {
+      "masakahaha": "1",
+      "与你肩并肩": "1"
+    }
+  },
+  {
+    "id": "Sliurus",
+    "level": "1930",
+    "goose": {
+      "不思者嗷呜": "1"
+    }
+  },
+  {
+    "id": "云闻先",
+    "level": "1953",
+    "goose": {
+      "江少寒": "1"
+    }
+  },
+  {
+    "id": "新条アカネ",
+    "level": "2058",
+    "goose": {
+      "gutzz": "1"
+    }
+  },
+  {
+    "id": "暗黑能乐",
+    "level": "2065",
+    "goose": {
+      "azraelwang": "1"
+    }
+  },
+  {
+    "id": "アンチ",
+    "level": "2169",
+    "goose": {
+      "云闻先": "1"
+    }
+  },
+  {
+    "id": "新条アカネ",
+    "level": "2202",
+    "goose": {
+      "kthec": "1",
+      "仟音一心": "1",
+      "轮太": "1",
+      "lesangellos": "1",
+      "云闻先": "1"
+    }
+  },
+  {
+    "id": "アンチ",
+    "level": "2213",
+    "goose": {
+      "lesangellos": "1",
+      "kthec": "1"
+    }
+  },
+  {
+    "id": "tonberry",
+    "level": "2303",
+    "goose": {
+      "云闻先": "1"
+    }
+  },
+  {
+    "id": "云闻先",
+    "level": "2398",
+    "goose": {
+      "azraelwang": "1"
+    }
+  },
+  {
+    "id": "Ged",
+    "level": "2439",
+    "goose": {
+      "果汁机构": "1",
+      "Sloudy": "1"
+    }
+  },
+  {
+    "id": "巨馍蘸酱",
+    "level": "2515",
+    "goose": {
+      "rosennesta": "1"
+    }
+  },
+  {
+    "id": "千恋万花",
+    "level": "2517",
+    "goose": {
+      "rosennesta": "1"
+    }
+  },
+  {
+    "id": "Piano-Forest",
+    "level": "2587",
+    "goose": {
+      "57042711": "1"
+    }
+  },
+  {
+    "id": "暗黑能乐",
+    "level": "2603",
+    "goose": {
+      "我就是阿X": "1"
+    }
+  },
+  {
+    "id": "Sliurus",
+    "level": "2623",
+    "goose": {
+      "鬼畜眼镜": "1"
+    }
+  },
+  {
+    "id": "千恋万花",
+    "level": "2676",
+    "goose": {
+      "Zepp": "1"
+    }
+  },
+  {
+    "id": "RainbowSealife",
+    "level": "2766",
+    "goose": {
+      "kyonkoism": "2"
+    }
+  }
+]

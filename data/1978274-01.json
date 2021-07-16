@@ -1,0 +1,53 @@
+[
+  {
+    "id": "holyblood",
+    "level": "2",
+    "goose": {
+      "苦主": "1",
+      "reyes1004": "-1"
+    }
+  },
+  {
+    "id": "nessaj",
+    "level": "25",
+    "goose": {
+      "死の肥羊": "1",
+      "lipo": "1"
+    }
+  },
+  {
+    "id": "NPCNPC",
+    "level": "60",
+    "goose": {
+      "redblueman": "-2"
+    }
+  },
+  {
+    "id": "abaan",
+    "level": "68",
+    "goose": {
+      "躺语": "1"
+    }
+  },
+  {
+    "id": "有口皆悲",
+    "level": "154",
+    "goose": {
+      "躺语": "1"
+    }
+  },
+  {
+    "id": "南条一间",
+    "level": "164",
+    "goose": {
+      "躺语": "1"
+    }
+  },
+  {
+    "id": "gzwind",
+    "level": "218",
+    "goose": {
+      "无法计算": "-1"
+    }
+  }
+]

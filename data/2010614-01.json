@@ -1,0 +1,37 @@
+[
+  {
+    "id": "以利亚•贝莱",
+    "level": "23",
+    "goose": {
+      "redivan": "1"
+    }
+  },
+  {
+    "id": "lais",
+    "level": "90",
+    "goose": {
+      "精灵ama": "1"
+    }
+  },
+  {
+    "id": "lexi",
+    "level": "119",
+    "goose": {
+      "tillnight": "-2"
+    }
+  },
+  {
+    "id": "lexi",
+    "level": "132",
+    "goose": {
+      "tillnight": "-2"
+    }
+  },
+  {
+    "id": "tillnight",
+    "level": "143",
+    "goose": {
+      "lcn": "2"
+    }
+  }
+]

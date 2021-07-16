@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zikimi",
+    "level": "25",
+    "goose": {
+      "102mph": "1",
+      "kkren": "-1"
+    }
+  },
+  {
+    "id": "P-link",
+    "level": "55",
+    "goose": {
+      "傾慕桃子": "1"
+    }
+  },
+  {
+    "id": "bad_alloc",
+    "level": "73",
+    "goose": {
+      "daquan": "1"
+    }
+  }
+]

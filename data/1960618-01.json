@@ -1,0 +1,16 @@
+[
+  {
+    "id": "卡爹",
+    "level": "26",
+    "goose": {
+      "lokomotiv": "1"
+    }
+  },
+  {
+    "id": "poor",
+    "level": "37",
+    "goose": {
+      "byd": "1"
+    }
+  }
+]

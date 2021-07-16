@@ -1,0 +1,16 @@
+[
+  {
+    "id": "chengdidi",
+    "level": "47",
+    "goose": {
+      "Hanzong": "1"
+    }
+  },
+  {
+    "id": "Hanzong",
+    "level": "50",
+    "goose": {
+      "chengdidi": "1"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "",
+    "level": "",
+    "goose": {
+      "hentianwuya": "2",
+      "BRRM": "1",
+      "巨魔已被忠诚": "1",
+      "noneeddeath": "-1"
+    }
+  },
+  {
+    "id": "makar0601",
+    "level": "2",
+    "goose": {
+      "舌怪": "1"
+    }
+  },
+  {
+    "id": "屑猫猫",
+    "level": "39",
+    "goose": {
+      "DeltaStriker": "1"
+    }
+  },
+  {
+    "id": "fantasya",
+    "level": "70",
+    "goose": {
+      "LamdaHT": "-1"
+    }
+  },
+  {
+    "id": "深海恐惧症",
+    "level": "100",
+    "goose": {
+      "makar0601": "-1"
+    }
+  },
+  {
+    "id": "深海恐惧症",
+    "level": "108",
+    "goose": {
+      "qsedwa8487": "1"
+    }
+  }
+]

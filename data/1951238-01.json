@@ -1,0 +1,30 @@
+[
+  {
+    "id": "lakewest",
+    "level": "1",
+    "goose": {
+      "活久见": "4",
+      "Corruptwing": "-1",
+      "lixianfyss": "-1",
+      "晚韶华": "-1",
+      "makar0601": "1",
+      "vale_hana": "1",
+      "MagicalMinori": "-1"
+    }
+  },
+  {
+    "id": "rainknine",
+    "level": "28",
+    "goose": {
+      "jimmytong": "1",
+      "tamboura": "1"
+    }
+  },
+  {
+    "id": "sorroaq",
+    "level": "51",
+    "goose": {
+      "半月霜": "1"
+    }
+  }
+]

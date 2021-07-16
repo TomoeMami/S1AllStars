@@ -1,0 +1,68 @@
+[
+  {
+    "id": "数独无双",
+    "level": "22",
+    "goose": {
+      "flyzzhj": "-1"
+    }
+  },
+  {
+    "id": "fokker1027",
+    "level": "48",
+    "goose": {
+      "orangeth": "-2"
+    }
+  },
+  {
+    "id": "数独无双",
+    "level": "49",
+    "goose": {
+      "orangeth": "2",
+      "lijiuli": "-1",
+      "wolftooth": "1"
+    }
+  },
+  {
+    "id": "fokker1027",
+    "level": "52",
+    "goose": {
+      "orangeth": "-2",
+      "narutoz": "-1",
+      "guohei": "2",
+      "晚韶华": "-1",
+      "werone": "-1"
+    }
+  },
+  {
+    "id": "数独无双",
+    "level": "55",
+    "goose": {
+      "orangeth": "2",
+      "flyzzhj": "-1",
+      "wolftooth": "1"
+    }
+  },
+  {
+    "id": "fokker1027",
+    "level": "69",
+    "goose": {
+      "orangeth": "-2",
+      "wolftooth": "-2"
+    }
+  },
+  {
+    "id": "fokker1027",
+    "level": "88",
+    "goose": {
+      "satelles": "-1",
+      "orangeth": "-2"
+    }
+  },
+  {
+    "id": "fokker1027",
+    "level": "96",
+    "goose": {
+      "orangeth": "-2"
+    }
+  }
+]

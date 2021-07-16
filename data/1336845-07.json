@@ -1,0 +1,47 @@
+[
+  {
+    "id": "月色火焰",
+    "level": "9335",
+    "goose": {
+      "北条麗華": "1"
+    }
+  },
+  {
+    "id": "ShadowEye",
+    "level": "9521",
+    "goose": {
+      "origen": "1",
+      "猫执事": "2",
+      "zqh1234": "1",
+      "akiharo": "0"
+    }
+  },
+  {
+    "id": "arrowshade",
+    "level": "9600",
+    "goose": {
+      "moekyo": "1"
+    }
+  },
+  {
+    "id": "regular",
+    "level": "9741",
+    "goose": {
+      "dkkiller1": "1"
+    }
+  },
+  {
+    "id": "四点钟",
+    "level": "10138",
+    "goose": {
+      "カミーユ.ビダン": "1"
+    }
+  },
+  {
+    "id": "执信校友",
+    "level": "10229",
+    "goose": {
+      "韩子": "2"
+    }
+  }
+]

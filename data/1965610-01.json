@@ -1,0 +1,23 @@
+[
+  {
+    "id": "JHON_SMITH",
+    "level": "1",
+    "goose": {
+      "yourSwaTer": "1"
+    }
+  },
+  {
+    "id": "盐柱",
+    "level": "100",
+    "goose": {
+      "JHON_SMITH": "1"
+    }
+  },
+  {
+    "id": "盐柱",
+    "level": "106",
+    "goose": {
+      "JHON_SMITH": "1"
+    }
+  }
+]

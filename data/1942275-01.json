@@ -1,0 +1,52 @@
+[
+  {
+    "id": "活久见",
+    "level": "1",
+    "goose": {
+      "Sanguine": "1"
+    }
+  },
+  {
+    "id": "黑条",
+    "level": "220",
+    "goose": {
+      "烦死了": "1"
+    }
+  },
+  {
+    "id": "对事不对人",
+    "level": "245",
+    "goose": {
+      "bingpou": "1"
+    }
+  },
+  {
+    "id": "掌界",
+    "level": "292",
+    "goose": {
+      "fio": "2"
+    }
+  },
+  {
+    "id": "Bondrewd",
+    "level": "551",
+    "goose": {
+      "Sanguine": "1"
+    }
+  },
+  {
+    "id": "无心骑士",
+    "level": "650",
+    "goose": {
+      "pokemeow": "1"
+    }
+  },
+  {
+    "id": "charse2r",
+    "level": "746",
+    "goose": {
+      "逍遥客7": "1",
+      "洛拉斯": "1"
+    }
+  }
+]

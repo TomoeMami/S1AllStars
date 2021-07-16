@@ -1,0 +1,32 @@
+[
+  {
+    "id": "红月当空",
+    "level": "1",
+    "goose": {
+      "美国": "-2",
+      "翾鹊": "-1",
+      "luguozhe": "-2"
+    }
+  },
+  {
+    "id": "暗之精灵",
+    "level": "2",
+    "goose": {
+      "aw627": "1"
+    }
+  },
+  {
+    "id": "aegisangel",
+    "level": "87",
+    "goose": {
+      "turnyyy": "-1"
+    }
+  },
+  {
+    "id": "turnyyy",
+    "level": "89",
+    "goose": {
+      "aegisangel": "-2"
+    }
+  }
+]

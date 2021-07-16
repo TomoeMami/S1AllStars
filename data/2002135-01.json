@@ -1,0 +1,93 @@
+[
+  {
+    "id": "NTSC",
+    "level": "3",
+    "goose": {
+      "kg21xhunter": "1"
+    }
+  },
+  {
+    "id": "ペチャパイ",
+    "level": "6",
+    "goose": {
+      "望寒": "-2",
+      "lanslort": "2",
+      "主观人士": "-1",
+      "Youszsh": "-1",
+      "黒長直姫": "-2",
+      "modkingr": "1",
+      "fghvcfg": "-1",
+      "reyes1004": "-1",
+      "cashhellsing": "-2",
+      "Tiny9": "-2",
+      "结发受长生": "-1",
+      "saevey": "-1",
+      "神道设教": "1",
+      "灰尘山": "-1",
+      "TSST": "-1",
+      "chero": "1",
+      "Reimu853": "-2",
+      "鱿鲤": "-2",
+      "katern": "-1",
+      "pzk": "2"
+    }
+  },
+  {
+    "id": "竜破斬",
+    "level": "7",
+    "goose": {
+      "powerpyc": "1"
+    }
+  },
+  {
+    "id": "Tackstone",
+    "level": "35",
+    "goose": {
+      "GuardHei": "1"
+    }
+  },
+  {
+    "id": "bazingar",
+    "level": "86",
+    "goose": {
+      "arx-7": "-7",
+      "snake213": "1",
+      "不鸟一辉": "-1",
+      "luwuyue": "-1",
+      "Liquid_Snake": "-1",
+      "望寒": "-2",
+      "amber1768": "-1"
+    }
+  },
+  {
+    "id": "暗月杀人兔",
+    "level": "88",
+    "goose": {
+      "Onelooker": "1",
+      "春哥亲自": "-1"
+    }
+  },
+  {
+    "id": "bazingar",
+    "level": "90",
+    "goose": {
+      "amber1768": "-1"
+    }
+  },
+  {
+    "id": "暗月杀人兔",
+    "level": "95",
+    "goose": {
+      "arx-7": "-7",
+      "春哥亲自": "1"
+    }
+  },
+  {
+    "id": "bazingar",
+    "level": "102",
+    "goose": {
+      "望寒": "-2",
+      "不鸟一辉": "-1"
+    }
+  }
+]

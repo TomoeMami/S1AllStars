@@ -1,0 +1,39 @@
+[
+  {
+    "id": "阿奴比斯",
+    "level": "60",
+    "goose": {
+      "StrangerJ": "1",
+      "与你肩并肩": "1"
+    }
+  },
+  {
+    "id": "鹦鹉螺号捕鲸手",
+    "level": "79",
+    "goose": {
+      "stormeyes": "-1"
+    }
+  },
+  {
+    "id": "混乱中立搅屎棍",
+    "level": "82",
+    "goose": {
+      "StrangerJ": "1"
+    }
+  },
+  {
+    "id": "kazz",
+    "level": "93",
+    "goose": {
+      "stormeyes": "-1",
+      "エマシ—ン": "-2"
+    }
+  },
+  {
+    "id": "夜潇箫",
+    "level": "110",
+    "goose": {
+      "StrangerJ": "1"
+    }
+  }
+]

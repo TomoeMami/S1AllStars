@@ -1,0 +1,90 @@
+[
+  {
+    "id": "筱原重工",
+    "level": "12",
+    "goose": {
+      "Richardsw": "1"
+    }
+  },
+  {
+    "id": "petrouchka",
+    "level": "15",
+    "goose": {
+      "Richardsw": "1"
+    }
+  },
+  {
+    "id": "403权限不够",
+    "level": "18",
+    "goose": {
+      "forrea": "1",
+      "肥羊": "2",
+      "十度和弦": "-2",
+      "Eric_方歌阙": "1",
+      "wqm2008": "1",
+      "Richardsw": "-1"
+    }
+  },
+  {
+    "id": "beeandf",
+    "level": "19",
+    "goose": {
+      "403权限不够": "-1",
+      "Richardsw": "1"
+    }
+  },
+  {
+    "id": "403权限不够",
+    "level": "22",
+    "goose": {
+      "Mimic": "1"
+    }
+  },
+  {
+    "id": "Richardsw",
+    "level": "23",
+    "goose": {
+      "viperasi": "1",
+      "dragonzeal": "-1"
+    }
+  },
+  {
+    "id": "403权限不够",
+    "level": "29",
+    "goose": {
+      "肥羊": "2",
+      "shyso": "1"
+    }
+  },
+  {
+    "id": "beeandf",
+    "level": "30",
+    "goose": {
+      "viperasi": "1"
+    }
+  },
+  {
+    "id": "mowind",
+    "level": "42",
+    "goose": {
+      "林无德": "1",
+      "Richardsw": "1",
+      "403权限不够": "1",
+      "fmonion": "1"
+    }
+  },
+  {
+    "id": "佛剑分说",
+    "level": "52",
+    "goose": {
+      "Richardsw": "1"
+    }
+  },
+  {
+    "id": "十度和弦",
+    "level": "115",
+    "goose": {
+      "403权限不够": "-2"
+    }
+  }
+]

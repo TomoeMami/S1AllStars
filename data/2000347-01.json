@@ -1,0 +1,31 @@
+[
+  {
+    "id": "宫水二叶",
+    "level": "4",
+    "goose": {
+      "lakii": "1"
+    }
+  },
+  {
+    "id": "ronyar",
+    "level": "14",
+    "goose": {
+      "redivan": "2",
+      "Patlain": "2"
+    }
+  },
+  {
+    "id": "saverok",
+    "level": "27",
+    "goose": {
+      "枫桥归人": "1"
+    }
+  },
+  {
+    "id": "zlhwing",
+    "level": "57",
+    "goose": {
+      "redivan": "2"
+    }
+  }
+]

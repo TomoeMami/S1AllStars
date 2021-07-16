@@ -1,0 +1,17 @@
+[
+  {
+    "id": "天平",
+    "level": "50",
+    "goose": {
+      "RRRRRRose": "1",
+      "桐名": "1"
+    }
+  },
+  {
+    "id": "混沌大陆",
+    "level": "101",
+    "goose": {
+      "LadySaazbaum": "0"
+    }
+  }
+]

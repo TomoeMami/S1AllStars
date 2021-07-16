@@ -1,0 +1,23 @@
+[
+  {
+    "id": "Centrum",
+    "level": "6",
+    "goose": {
+      "bestwood": "1"
+    }
+  },
+  {
+    "id": "飞灾",
+    "level": "16",
+    "goose": {
+      "Centrum": "1"
+    }
+  },
+  {
+    "id": "nuclearg",
+    "level": "45",
+    "goose": {
+      "糖然君": "1"
+    }
+  }
+]
