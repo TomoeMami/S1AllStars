@@ -1,0 +1,71 @@
+[
+  {
+    "id": "多汁多水",
+    "level": "9",
+    "goose": {
+      "蒂芙尼的早餐": "1",
+      "白夜の火柴": "1"
+    }
+  },
+  {
+    "id": "MagicalMinori",
+    "level": "46",
+    "goose": {
+      "厄斯沃穆": "1",
+      "luguozhe": "-1"
+    }
+  },
+  {
+    "id": "萌臀",
+    "level": "95",
+    "goose": {
+      "dalarmar": "1",
+      "adia": "1",
+      "zeroed": "-2",
+      "limboc": "1"
+    }
+  },
+  {
+    "id": "calmer",
+    "level": "122",
+    "goose": {
+      "mocomoco": "-2",
+      "limbo.null": "-1",
+      "Aureth": "-2",
+      "integral": "-1",
+      "懒残和尚": "-1",
+      "qq525266": "-1",
+      "不爱讨论的萌豚": "1",
+      "reyes1004": "-1",
+      "kanago": "-1",
+      "尚风悦": "-2",
+      "森野大熊": "-1",
+      "半分宅": "-1",
+      "隼景": "-1",
+      "MagicalMinori": "-1"
+    }
+  },
+  {
+    "id": "朋友",
+    "level": "128",
+    "goose": {
+      "gyy819": "1"
+    }
+  },
+  {
+    "id": "tsukatsukieiko",
+    "level": "183",
+    "goose": {
+      "火烧云": "1",
+      "MagicalMinori": "1"
+    }
+  },
+  {
+    "id": "lacusforever",
+    "level": "202",
+    "goose": {
+      "BRRM": "1",
+      "MagicalMinori": "-1"
+    }
+  }
+]

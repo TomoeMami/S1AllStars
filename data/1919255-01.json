@@ -1,0 +1,45 @@
+[
+  {
+    "id": "Realplayer",
+    "level": "15",
+    "goose": {
+      "HyperBazooka": "1",
+      "cqx7133": "-1"
+    }
+  },
+  {
+    "id": "blackjeo1",
+    "level": "67",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "豪福",
+    "level": "91",
+    "goose": {
+      "望寒": "1"
+    }
+  },
+  {
+    "id": "Davernas",
+    "level": "92",
+    "goose": {
+      "hare.ray": "1",
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "exia00raiser",
+    "level": "109",
+    "goose": {
+      "Rapture1st": "1",
+      "静哮苍穹": "1",
+      "KaneL": "1",
+      "望寒": "1",
+      "lzz": "1",
+      "c月光咖啡": "1",
+      "youlen": "1"
+    }
+  }
+]

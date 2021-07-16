@@ -1,0 +1,30 @@
+[
+  {
+    "id": "悠然幻影",
+    "level": "20",
+    "goose": {
+      "izthr": "1",
+      "yukiecho": "1",
+      "The_Ether_": "1",
+      "appllee": "1",
+      "narutoz": "1",
+      "dawning": "2",
+      "食人魔法师": "1"
+    }
+  },
+  {
+    "id": "appllee",
+    "level": "40",
+    "goose": {
+      "ayair": "1",
+      "zhaijiadehuiye": "1"
+    }
+  },
+  {
+    "id": "悠然幻影",
+    "level": "62",
+    "goose": {
+      "吴民是": "1"
+    }
+  }
+]

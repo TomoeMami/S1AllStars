@@ -1,0 +1,168 @@
+[
+  {
+    "id": "电动犀牛",
+    "level": "4703",
+    "goose": {
+      "dorasir": "1"
+    }
+  },
+  {
+    "id": "shadowof",
+    "level": "4817",
+    "goose": {
+      "电动犀牛": "９"
+    }
+  },
+  {
+    "id": "しろの舞",
+    "level": "4950",
+    "goose": {
+      "キラ様": "1"
+    }
+  },
+  {
+    "id": "shadowof",
+    "level": "4999",
+    "goose": {
+      "烈之斩": "2",
+      "电动犀牛": "1"
+    }
+  },
+  {
+    "id": "supergilaboy",
+    "level": "5204",
+    "goose": {
+      "枫紫": "1"
+    }
+  },
+  {
+    "id": "Risa",
+    "level": "5264",
+    "goose": {
+      "supergilaboy": "1"
+    }
+  },
+  {
+    "id": "captoon",
+    "level": "5278",
+    "goose": {
+      "枫紫": "1",
+      "supergilaboy": "1"
+    }
+  },
+  {
+    "id": "鳄鱼头",
+    "level": "5322",
+    "goose": {
+      "朝奈": "1",
+      "キラ様": "1",
+      "希望之异热同心": "1",
+      "孫光龍": "1"
+    }
+  },
+  {
+    "id": "fhdelibird",
+    "level": "5340",
+    "goose": {
+      "电动犀牛": "1"
+    }
+  },
+  {
+    "id": "p12345s",
+    "level": "5465",
+    "goose": {
+      "Renes": "-1"
+    }
+  },
+  {
+    "id": "希望之异热同心",
+    "level": "5546",
+    "goose": {
+      "摩天城": "1"
+    }
+  },
+  {
+    "id": "没落の翼",
+    "level": "5594",
+    "goose": {
+      "キラ様": "1",
+      "しろの舞": "2",
+      "hinarin": "2",
+      "hypnossz86": "2"
+    }
+  },
+  {
+    "id": "shadowof",
+    "level": "5641",
+    "goose": {
+      "烈之斩": "2"
+    }
+  },
+  {
+    "id": "shadowof",
+    "level": "5712",
+    "goose": {
+      "枫紫": "1",
+      "しろの舞": "1",
+      "hinarin": "1",
+      "fhdelibird": "1",
+      "hypnossz86": "1"
+    }
+  },
+  {
+    "id": "烈之斩",
+    "level": "5714",
+    "goose": {
+      "枫紫": "1",
+      "supergilaboy": "1"
+    }
+  },
+  {
+    "id": "镜hinata",
+    "level": "5749",
+    "goose": {
+      "fw441": "1",
+      "希望之异热同心": "1"
+    }
+  },
+  {
+    "id": "fhdelibird",
+    "level": "5753",
+    "goose": {
+      "希望之异热同心": "1"
+    }
+  },
+  {
+    "id": "萩原组土狼p",
+    "level": "5766",
+    "goose": {
+      "nulla": "1"
+    }
+  },
+  {
+    "id": "shadowof",
+    "level": "5871",
+    "goose": {
+      "BQlin": "1",
+      "枫紫": "1"
+    }
+  },
+  {
+    "id": "wfhtony",
+    "level": "5876",
+    "goose": {
+      "supergilaboy": "1",
+      "舆水沉浮": "1",
+      "DioxinsX": "1"
+    }
+  },
+  {
+    "id": "烈之斩",
+    "level": "5880",
+    "goose": {
+      "supergilaboy": "1",
+      "hypnossz86": "2",
+      "枫紫": "1"
+    }
+  }
+]

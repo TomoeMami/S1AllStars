@@ -1,0 +1,23 @@
+[
+  {
+    "id": "月上初弦",
+    "level": "3736",
+    "goose": {
+      "supergilaboy": "1"
+    }
+  },
+  {
+    "id": "lokifreya",
+    "level": "3800",
+    "goose": {
+      "死神狙击手": "1"
+    }
+  },
+  {
+    "id": "死神狙击手",
+    "level": "3907",
+    "goose": {
+      "supergilaboy": "1"
+    }
+  }
+]

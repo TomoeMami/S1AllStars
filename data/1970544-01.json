@@ -1,0 +1,30 @@
+[
+  {
+    "id": "i0ncuBe",
+    "level": "4",
+    "goose": {
+      "pilipala": "2"
+    }
+  },
+  {
+    "id": "卡奥斯·克斯拉",
+    "level": "17",
+    "goose": {
+      "pilipala": "1"
+    }
+  },
+  {
+    "id": "路西恩",
+    "level": "18",
+    "goose": {
+      "pilipala": "2"
+    }
+  },
+  {
+    "id": "一个过路的",
+    "level": "61",
+    "goose": {
+      "路西恩": "1"
+    }
+  }
+]

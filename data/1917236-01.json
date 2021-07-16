@@ -1,0 +1,46 @@
+[
+  {
+    "id": "背后捅刀擎天柱",
+    "level": "2",
+    "goose": {
+      "希望之花": "-1",
+      "itsmyrailgun": "-1"
+    }
+  },
+  {
+    "id": "knight_rjj",
+    "level": "18",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "孤舟垂钓",
+    "level": "40",
+    "goose": {
+      "youlen": "1",
+      "余海露": "1"
+    }
+  },
+  {
+    "id": "武蔵",
+    "level": "48",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "莓香茶",
+    "level": "63",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "绯雪绯雪",
+    "level": "85",
+    "goose": {
+      "youlen": "1"
+    }
+  }
+]

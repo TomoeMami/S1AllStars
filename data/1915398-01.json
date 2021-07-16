@@ -1,0 +1,56 @@
+[
+  {
+    "id": "",
+    "level": "1",
+    "goose": {
+      "goldtide07": "-1"
+    }
+  },
+  {
+    "id": "mengsu",
+    "level": "9",
+    "goose": {
+      "Redis": "1",
+      "Faerire": "1"
+    }
+  },
+  {
+    "id": "fengzijiang",
+    "level": "24",
+    "goose": {
+      "Sanguine": "1"
+    }
+  },
+  {
+    "id": "lindley",
+    "level": "43",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "对事不对人",
+    "level": "54",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "albertuslongius",
+    "level": "61",
+    "goose": {
+      "youlen": "1",
+      "THY_HABITΑT": "-1"
+    }
+  },
+  {
+    "id": "NerfMePlz",
+    "level": "62",
+    "goose": {
+      "Faerire": "1",
+      "烤鱼饼": "1",
+      "turnyyy": "1",
+      "amazinglife": "-1"
+    }
+  }
+]

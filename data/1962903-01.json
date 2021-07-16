@@ -1,0 +1,24 @@
+[
+  {
+    "id": "比亚迪",
+    "level": "12",
+    "goose": {
+      "adobecc": "1"
+    }
+  },
+  {
+    "id": "pyx",
+    "level": "15",
+    "goose": {
+      "皇帝雅西加": "1"
+    }
+  },
+  {
+    "id": "gambleman",
+    "level": "100",
+    "goose": {
+      "matsunaga": "-2",
+      "Faerire": "1"
+    }
+  }
+]

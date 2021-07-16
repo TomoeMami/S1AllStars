@@ -1,0 +1,25 @@
+[
+  {
+    "id": "sunway",
+    "level": "2900",
+    "goose": {
+      "维克塔利昂": "1",
+      "bureaucratic": "1"
+    }
+  },
+  {
+    "id": "origen",
+    "level": "2965",
+    "goose": {
+      "逢泽りな": "1"
+    }
+  },
+  {
+    "id": "sunway",
+    "level": "2970",
+    "goose": {
+      "lesson": "2",
+      "bejweled": "1"
+    }
+  }
+]

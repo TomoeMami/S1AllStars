@@ -1,0 +1,49 @@
+[
+  {
+    "id": "Ichthys",
+    "level": "24",
+    "goose": {
+      "luguozhe": "1"
+    }
+  },
+  {
+    "id": "luowei_nowe",
+    "level": "39",
+    "goose": {
+      "reyes1004": "-1"
+    }
+  },
+  {
+    "id": "wuxan94",
+    "level": "51",
+    "goose": {
+      "光的彼端": "1"
+    }
+  },
+  {
+    "id": "loadinglab",
+    "level": "67",
+    "goose": {
+      "望寒": "-2"
+    }
+  },
+  {
+    "id": "南去",
+    "level": "84",
+    "goose": {
+      "AbyssWalker": "1",
+      "daquan": "-1",
+      "望寒": "-2",
+      "迪米特里": "-2",
+      "graves": "1"
+    }
+  },
+  {
+    "id": "Nieriltasinwa",
+    "level": "155",
+    "goose": {
+      "yenvy": "1",
+      "000000": "1"
+    }
+  }
+]

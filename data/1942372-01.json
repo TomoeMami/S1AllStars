@@ -1,0 +1,59 @@
+[
+  {
+    "id": "油炸小狐狸",
+    "level": "52",
+    "goose": {
+      "Recen": "1",
+      "cwlqxs": "1",
+      "rayaxu": "1",
+      "平昭·南宫司卿": "2",
+      "Lunamos": "2",
+      "beer": "1",
+      "SUGO": "1",
+      "Zak": "1"
+    }
+  },
+  {
+    "id": "MonicaRuan",
+    "level": "65",
+    "goose": {
+      "油炸小狐狸": "1"
+    }
+  },
+  {
+    "id": "Lunamos",
+    "level": "76",
+    "goose": {
+      "油炸小狐狸": "1"
+    }
+  },
+  {
+    "id": "Lunamos",
+    "level": "83",
+    "goose": {
+      "油炸小狐狸": "1"
+    }
+  },
+  {
+    "id": "MonicaRuan",
+    "level": "89",
+    "goose": {
+      "油炸小狐狸": "1"
+    }
+  },
+  {
+    "id": "油炸小狐狸",
+    "level": "93",
+    "goose": {
+      "altermaaya": "1"
+    }
+  },
+  {
+    "id": "Lunamos",
+    "level": "101",
+    "goose": {
+      "油炸小狐狸": "1",
+      "altermaaya": "1"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "风吹涟漪",
+    "level": "44",
+    "goose": {
+      "TBM107": "1",
+      "幽灵部长助理": "1"
+    }
+  },
+  {
+    "id": "drilleye",
+    "level": "49",
+    "goose": {
+      "七七见": "-2",
+      "白房子": "-2",
+      "kampfei": "-1",
+      "Xerxes_2": "-2"
+    }
+  },
+  {
+    "id": "永真",
+    "level": "54",
+    "goose": {
+      "LANHSI": "1"
+    }
+  },
+  {
+    "id": "秘银mithril",
+    "level": "79",
+    "goose": {
+      "艾歌echo": "1"
+    }
+  },
+  {
+    "id": "bioCory",
+    "level": "86",
+    "goose": {
+      "holdson": "1"
+    }
+  },
+  {
+    "id": "asdqwe_123",
+    "level": "90",
+    "goose": {
+      "bioCory": "1",
+      "Xerxes_2": "1"
+    }
+  },
+  {
+    "id": "yuzik1",
+    "level": "112",
+    "goose": {
+      "plazum": "1"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "id": "sangw",
+    "level": "10",
+    "goose": {
+      "晚香王": "1"
+    }
+  },
+  {
+    "id": "消防",
+    "level": "12",
+    "goose": {
+      "aw627": "1"
+    }
+  },
+  {
+    "id": "starrlit",
+    "level": "20",
+    "goose": {
+      "野兽后辈": "1",
+      "eternalwind": "-1"
+    }
+  },
+  {
+    "id": "Mostovoi",
+    "level": "22",
+    "goose": {
+      "kokolo": "1"
+    }
+  },
+  {
+    "id": "Centrum",
+    "level": "31",
+    "goose": {
+      "lijiuli": "1",
+      "flyzzhj": "1"
+    }
+  }
+]

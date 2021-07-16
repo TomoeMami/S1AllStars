@@ -1,0 +1,92 @@
+[
+  {
+    "id": "民工业",
+    "level": "6035",
+    "goose": {
+      "禹火": "1",
+      "西门无恨": "2"
+    }
+  },
+  {
+    "id": "民工业",
+    "level": "6130",
+    "goose": {
+      "魂淡放我出去": "1"
+    }
+  },
+  {
+    "id": "民工业",
+    "level": "6144",
+    "goose": {
+      "泰阿剑tan": "1",
+      "astrayveller": "1"
+    }
+  },
+  {
+    "id": "民工业",
+    "level": "6147",
+    "goose": {
+      "泰阿剑tan": "1"
+    }
+  },
+  {
+    "id": "jacket",
+    "level": "6154",
+    "goose": {
+      "民工业": "1"
+    }
+  },
+  {
+    "id": "damaskeen",
+    "level": "6156",
+    "goose": {
+      "民工业": "2"
+    }
+  },
+  {
+    "id": "民工业",
+    "level": "6157",
+    "goose": {
+      "魂淡放我出去": "1"
+    }
+  },
+  {
+    "id": "damaskeen",
+    "level": "6167",
+    "goose": {
+      "魂淡放我出去": "1",
+      "astrayveller": "1",
+      "rp-1": "1"
+    }
+  },
+  {
+    "id": "damaskeen",
+    "level": "6190",
+    "goose": {
+      "民工业": "1"
+    }
+  },
+  {
+    "id": "damaskeen",
+    "level": "6192",
+    "goose": {
+      "aptx8285144": "1"
+    }
+  },
+  {
+    "id": "damaskeen",
+    "level": "6208",
+    "goose": {
+      "与天争锋_LZ": "1",
+      "astrayveller": "1",
+      "魂淡放我出去": "1"
+    }
+  },
+  {
+    "id": "damaskeen",
+    "level": "6209",
+    "goose": {
+      "astrayveller": "1"
+    }
+  }
+]

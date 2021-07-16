@@ -1,0 +1,38 @@
+[
+  {
+    "id": "セリア=キルミン",
+    "level": "4",
+    "goose": {
+      "Silencieuse": "1"
+    }
+  },
+  {
+    "id": "Nanachi",
+    "level": "19",
+    "goose": {
+      "Kuroe": "1"
+    }
+  },
+  {
+    "id": "战狼PTSD",
+    "level": "34",
+    "goose": {
+      "Kuroe": "1",
+      "Silencieuse": "-1"
+    }
+  },
+  {
+    "id": "scpS1",
+    "level": "57",
+    "goose": {
+      "azccc52": "1"
+    }
+  },
+  {
+    "id": "安姆闲人",
+    "level": "203",
+    "goose": {
+      "lichuan325": "1"
+    }
+  }
+]

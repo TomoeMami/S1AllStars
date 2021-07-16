@@ -1,0 +1,66 @@
+[
+  {
+    "id": "Lunamos",
+    "level": "32",
+    "goose": {
+      "luxiaojiaxp": "1",
+      "平昭·南宫司卿": "1"
+    }
+  },
+  {
+    "id": "defer",
+    "level": "38",
+    "goose": {
+      "EndlessDied": "1",
+      "JimmyJoker": "-1",
+      "傲慢的空想家X": "1",
+      "Patlain": "1",
+      "Unlight": "1",
+      "warjuggler": "1",
+      "caicaistar": "-1",
+      "体质的错": "1"
+    }
+  },
+  {
+    "id": "共享栈",
+    "level": "40",
+    "goose": {
+      "cjcjason": "1"
+    }
+  },
+  {
+    "id": "黑夜守望者",
+    "level": "178",
+    "goose": {
+      "liekong": "1"
+    }
+  },
+  {
+    "id": "windtrack",
+    "level": "478",
+    "goose": {
+      "Zak": "1"
+    }
+  },
+  {
+    "id": "windtrack",
+    "level": "489",
+    "goose": {
+      "EndlessDied": "1"
+    }
+  },
+  {
+    "id": "windtrack",
+    "level": "606",
+    "goose": {
+      "EndlessDied": "1"
+    }
+  },
+  {
+    "id": "寒风",
+    "level": "612",
+    "goose": {
+      "EndlessDied": "1"
+    }
+  }
+]

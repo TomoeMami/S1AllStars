@@ -1,0 +1,46 @@
+[
+  {
+    "id": "KiraraKisaragi",
+    "level": "19",
+    "goose": {
+      "greataxe_02": "1"
+    }
+  },
+  {
+    "id": "viasnow",
+    "level": "22",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "摸鱼校尉",
+    "level": "26",
+    "goose": {
+      "厄神之息": "1"
+    }
+  },
+  {
+    "id": "机动壮士",
+    "level": "44",
+    "goose": {
+      "masakahaha": "1",
+      "猫空": "1",
+      "观自在": "1",
+      "fliszt": "1",
+      "1707k": "1",
+      "youlen": "1",
+      "FUZE": "2",
+      "mengkane": "1",
+      "厄神之息": "1",
+      "Glaceon丶": "1"
+    }
+  },
+  {
+    "id": "闲着也是贤者",
+    "level": "71",
+    "goose": {
+      "机动壮士": "-1"
+    }
+  }
+]

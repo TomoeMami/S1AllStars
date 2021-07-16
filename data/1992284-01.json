@@ -1,0 +1,30 @@
+[
+  {
+    "id": "samaleg",
+    "level": "5",
+    "goose": {
+      "云间莼鲈": "1"
+    }
+  },
+  {
+    "id": "jellyfis",
+    "level": "23",
+    "goose": {
+      "云间莼鲈": "1"
+    }
+  },
+  {
+    "id": "卢比扬卡大饭店",
+    "level": "27",
+    "goose": {
+      "云间莼鲈": "1"
+    }
+  },
+  {
+    "id": "LynchAccelerato",
+    "level": "104",
+    "goose": {
+      "stick": "-1"
+    }
+  }
+]

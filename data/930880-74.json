@@ -1,0 +1,33 @@
+[
+  {
+    "id": "梦游君",
+    "level": "110458",
+    "goose": {
+      "Stuka": "1"
+    }
+  },
+  {
+    "id": "erwin0512",
+    "level": "110615",
+    "goose": {
+      "Acheron": "1"
+    }
+  },
+  {
+    "id": "ゼカキユ",
+    "level": "110669",
+    "goose": {
+      "Acheron": "1"
+    }
+  },
+  {
+    "id": "偶像程序员POI",
+    "level": "110846",
+    "goose": {
+      "erwin0512": "1",
+      "bbyhxb": "1",
+      "Sylpheed": "1",
+      "Benighted": "1"
+    }
+  }
+]

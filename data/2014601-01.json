@@ -1,0 +1,23 @@
+[
+  {
+    "id": "打火机飞刀",
+    "level": "5",
+    "goose": {
+      "МаксФёд": "-1"
+    }
+  },
+  {
+    "id": "丢了五块钱",
+    "level": "7",
+    "goose": {
+      "iceplatinum": "1"
+    }
+  },
+  {
+    "id": "skytales1",
+    "level": "12",
+    "goose": {
+      "aceback": "-1"
+    }
+  }
+]

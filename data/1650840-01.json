@@ -1,0 +1,93 @@
+[
+  {
+    "id": "",
+    "level": "1",
+    "goose": {
+      "本多": "1",
+      "幸福在裆下": "1",
+      "目虚": "1",
+      "鲁卡提耶": "1",
+      "cortexiv": "1",
+      "RedBaby": "1",
+      "路江湖": "1",
+      "Kokichi": "1",
+      "微笑的迪妮莎": "1",
+      "ゴロー": "1",
+      "KDConan": "2",
+      "xwr": "2"
+    }
+  },
+  {
+    "id": "zmw_831110",
+    "level": "23",
+    "goose": {
+      "chaucerling": "1",
+      "Kokichi": "1"
+    }
+  },
+  {
+    "id": "北原依绪",
+    "level": "58",
+    "goose": {
+      "zmw_831110": "1"
+    }
+  },
+  {
+    "id": "圈量子",
+    "level": "61",
+    "goose": {
+      "HIDER": "1"
+    }
+  },
+  {
+    "id": "zmw_831110",
+    "level": "62",
+    "goose": {
+      "HIDER": "1"
+    }
+  },
+  {
+    "id": "zmw_831110",
+    "level": "72",
+    "goose": {
+      "moekyo": "1"
+    }
+  },
+  {
+    "id": "zmw_831110",
+    "level": "74",
+    "goose": {
+      "moekyo": "1"
+    }
+  },
+  {
+    "id": "幻月天伤",
+    "level": "80",
+    "goose": {
+      "advancedigger": "1",
+      "wddjs": "1"
+    }
+  },
+  {
+    "id": "zmw_831110",
+    "level": "101",
+    "goose": {
+      "czq1351": "1",
+      "advancedigger": "1"
+    }
+  },
+  {
+    "id": "yudms1",
+    "level": "103",
+    "goose": {
+      "czq1351": "1"
+    }
+  },
+  {
+    "id": "zmw_831110",
+    "level": "105",
+    "goose": {
+      "czq1351": "2"
+    }
+  }
+]

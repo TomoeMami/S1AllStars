@@ -1,0 +1,77 @@
+[
+  {
+    "id": "fraseal",
+    "level": "6",
+    "goose": {
+      "静夜观星": "1",
+      "rainwang": "1"
+    }
+  },
+  {
+    "id": "MortarHeadd",
+    "level": "27",
+    "goose": {
+      "文本框": "1"
+    }
+  },
+  {
+    "id": "盾墙",
+    "level": "30",
+    "goose": {
+      "ozo": "-1",
+      "坛子漆黑": "1",
+      "远处的少年": "-1"
+    }
+  },
+  {
+    "id": "東京地方検察庁",
+    "level": "31",
+    "goose": {
+      "mustforver": "1"
+    }
+  },
+  {
+    "id": "nukacolamania",
+    "level": "41",
+    "goose": {
+      "双层天椒皇堡": "1",
+      "kenfy612": "1",
+      "哈迪斯兜帽": "-1",
+      "莉莉橙": "-1"
+    }
+  },
+  {
+    "id": "takami",
+    "level": "50",
+    "goose": {
+      "pliee": "1"
+    }
+  },
+  {
+    "id": "konev",
+    "level": "94",
+    "goose": {
+      "泰非力的答复": "1",
+      "远处的少年": "-1"
+    }
+  },
+  {
+    "id": "折中旗帜鲜明",
+    "level": "111",
+    "goose": {
+      "Patlain": "1"
+    }
+  },
+  {
+    "id": "MortarHeadd",
+    "level": "121",
+    "goose": {
+      "zutama": "-1",
+      "Postal": "-1",
+      "Yalbsd": "-1",
+      "向北子": "1",
+      "isaih": "-1",
+      "rainwang": "-1"
+    }
+  }
+]

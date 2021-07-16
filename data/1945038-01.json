@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tiro_finale",
+    "level": "34",
+    "goose": {
+      "中野六小龄童": "1"
+    }
+  },
+  {
+    "id": "h1001010",
+    "level": "53",
+    "goose": {
+      "Zaphikel": "-1"
+    }
+  },
+  {
+    "id": "Zaphikel",
+    "level": "55",
+    "goose": {
+      "h1001010": "-1"
+    }
+  },
+  {
+    "id": "Map-2",
+    "level": "76",
+    "goose": {
+      "中野六小龄童": "-1"
+    }
+  },
+  {
+    "id": "UnhappyTails",
+    "level": "97",
+    "goose": {
+      "中野六小龄童": "1"
+    }
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "typelilith",
+    "level": "30",
+    "goose": {
+      "gurgu": "1",
+      "千里夜雨": "1",
+      "sakamoko": "1",
+      "camelia_vie": "1",
+      "利物浦": "1",
+      "honeybrain": "1",
+      "果壳中的松鼠": "1",
+      "莉拉厨": "1",
+      "FangSHero": "1"
+    }
+  },
+  {
+    "id": "wolftooth",
+    "level": "36",
+    "goose": {
+      "FangSHero": "1"
+    }
+  },
+  {
+    "id": "佛剑分说",
+    "level": "43",
+    "goose": {
+      "wolftooth": "1"
+    }
+  },
+  {
+    "id": "苏西踩到我了",
+    "level": "53",
+    "goose": {
+      "简巴•江斯特": "1",
+      "redivan": "1"
+    }
+  },
+  {
+    "id": "huanyanqia",
+    "level": "58",
+    "goose": {
+      "623607644": "-1",
+      "简巴•江斯特": "-1",
+      "574802531": "-1",
+      "18300625949": "2",
+      "wolftooth": "-2",
+      "lotwhite": "-1"
+    }
+  },
+  {
+    "id": "huanyanqia",
+    "level": "90",
+    "goose": {
+      "早春二月": "-1",
+      "18300625949": "1",
+      "绝望队长": "-1"
+    }
+  },
+  {
+    "id": "响鬼",
+    "level": "99",
+    "goose": {
+      "wolftooth": "2"
+    }
+  }
+]

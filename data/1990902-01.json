@@ -1,0 +1,47 @@
+[
+  {
+    "id": "fireship",
+    "level": "10",
+    "goose": {
+      "格里高里": "1"
+    }
+  },
+  {
+    "id": "soloviki",
+    "level": "20",
+    "goose": {
+      "WA1pywa": "1",
+      "hyde_caesar": "1"
+    }
+  },
+  {
+    "id": "叶子",
+    "level": "21",
+    "goose": {
+      "walfeds": "-2",
+      "lain1": "1",
+      "石化金鱼": "-1"
+    }
+  },
+  {
+    "id": "nanase",
+    "level": "36",
+    "goose": {
+      "papa": "1"
+    }
+  },
+  {
+    "id": "jellyhero",
+    "level": "79",
+    "goose": {
+      "redivan": "2"
+    }
+  },
+  {
+    "id": "ycwzq",
+    "level": "146",
+    "goose": {
+      "毋事先生": "-1"
+    }
+  }
+]

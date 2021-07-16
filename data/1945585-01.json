@@ -1,0 +1,25 @@
+[
+  {
+    "id": "IOZS",
+    "level": "33",
+    "goose": {
+      "rubyture": "1",
+      "fireship": "1",
+      "杨松": "2"
+    }
+  },
+  {
+    "id": "fat",
+    "level": "61",
+    "goose": {
+      "杨松": "2"
+    }
+  },
+  {
+    "id": "ugent",
+    "level": "68",
+    "goose": {
+      "杨松": "2"
+    }
+  }
+]

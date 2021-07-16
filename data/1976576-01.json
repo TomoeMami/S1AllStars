@@ -1,0 +1,32 @@
+[
+  {
+    "id": "flymop",
+    "level": "7",
+    "goose": {
+      "maxsch": "2"
+    }
+  },
+  {
+    "id": "Sopp",
+    "level": "22",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "天网",
+    "level": "58",
+    "goose": {
+      "equion": "1",
+      "离刃": "2",
+      "rosennesta": "1",
+      "JJmamoru": "1",
+      "yuialon": "1",
+      "雷诺4000": "1",
+      "本田翼": "1",
+      "打字机猴子": "1",
+      "huanggc": "1",
+      "SaltyGhoti": "1"
+    }
+  }
+]

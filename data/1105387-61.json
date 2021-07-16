@@ -1,0 +1,30 @@
+[
+  {
+    "id": "xz_04",
+    "level": "90357",
+    "goose": {
+      "不知": "1"
+    }
+  },
+  {
+    "id": "illusiome",
+    "level": "90608",
+    "goose": {
+      "xz_04": "1"
+    }
+  },
+  {
+    "id": "bestword",
+    "level": "91244",
+    "goose": {
+      "aelloss": "1"
+    }
+  },
+  {
+    "id": "bestword",
+    "level": "91259",
+    "goose": {
+      "aelloss": "1"
+    }
+  }
+]

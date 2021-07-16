@@ -1,0 +1,24 @@
+[
+  {
+    "id": "maybezp",
+    "level": "26",
+    "goose": {
+      "橙步堂": "1"
+    }
+  },
+  {
+    "id": "真田源次郎信繁",
+    "level": "93",
+    "goose": {
+      "maybezp": "1",
+      "lixianfyss": "-1"
+    }
+  },
+  {
+    "id": "theory0",
+    "level": "94",
+    "goose": {
+      "zmw_831110": "2"
+    }
+  }
+]

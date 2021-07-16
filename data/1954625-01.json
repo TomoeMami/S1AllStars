@@ -1,0 +1,114 @@
+[
+  {
+    "id": "JonnyGreenwood",
+    "level": "40",
+    "goose": {
+      "tillnight": "-2"
+    }
+  },
+  {
+    "id": "C男",
+    "level": "78",
+    "goose": {
+      "lesangellos": "-1"
+    }
+  },
+  {
+    "id": "TheOccuria",
+    "level": "100",
+    "goose": {
+      "JonnyGreenwood": "1"
+    }
+  },
+  {
+    "id": "leyenda",
+    "level": "118",
+    "goose": {
+      "柰子辟谷": "1"
+    }
+  },
+  {
+    "id": "ひびき",
+    "level": "120",
+    "goose": {
+      "朝槿z": "1",
+      "cqx7133": "1",
+      "GloryXie": "-1"
+    }
+  },
+  {
+    "id": "Scythe",
+    "level": "123",
+    "goose": {
+      "cqx7133": "-1",
+      "OldGlory": "-2"
+    }
+  },
+  {
+    "id": "tillnight",
+    "level": "221",
+    "goose": {
+      "Tissuesea": "-1",
+      "JonnyGreenwood": "-2"
+    }
+  },
+  {
+    "id": "林无德",
+    "level": "228",
+    "goose": {
+      "ギナ": "-2"
+    }
+  },
+  {
+    "id": "C.W.Nimitz",
+    "level": "287",
+    "goose": {
+      "看不透的人生": "1",
+      "酒瓶止迁": "2",
+      "jy000129": "1"
+    }
+  },
+  {
+    "id": "yla",
+    "level": "359",
+    "goose": {
+      "GloryXie": "1"
+    }
+  },
+  {
+    "id": "饮度",
+    "level": "368",
+    "goose": {
+      "nessaj": "1"
+    }
+  },
+  {
+    "id": "Ik4ruga",
+    "level": "401",
+    "goose": {
+      "BunnyFisher": "1"
+    }
+  },
+  {
+    "id": "zikimi",
+    "level": "423",
+    "goose": {
+      "拾与拾柒": "1"
+    }
+  },
+  {
+    "id": "wbtsy",
+    "level": "449",
+    "goose": {
+      "黑夜守望者": "1",
+      "破罐子": "1",
+      "noobtizi": "1",
+      "starrlit": "1",
+      "何然": "1",
+      "蒼穹のカルマ": "1",
+      "otakuqin": "1",
+      "Keynes": "1",
+      "mimighost": "1"
+    }
+  }
+]

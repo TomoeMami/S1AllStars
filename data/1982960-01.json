@@ -1,0 +1,40 @@
+[
+  {
+    "id": "",
+    "level": "1",
+    "goose": {
+      "Hidewhite": "1",
+      "Merdesony": "-1"
+    }
+  },
+  {
+    "id": "WINDDEVIL86",
+    "level": "2",
+    "goose": {
+      "komoechan": "1",
+      "luciffer": "-2",
+      "Merdesony": "1"
+    }
+  },
+  {
+    "id": "厨具战士",
+    "level": "51",
+    "goose": {
+      "Hidewhite": "1"
+    }
+  },
+  {
+    "id": "johnwick",
+    "level": "104",
+    "goose": {
+      "厨具战士": "1"
+    }
+  },
+  {
+    "id": "WINDDEVIL86",
+    "level": "117",
+    "goose": {
+      "luciffer": "2"
+    }
+  }
+]

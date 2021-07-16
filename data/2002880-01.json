@@ -1,0 +1,73 @@
+[
+  {
+    "id": "tk.cocacola",
+    "level": "6",
+    "goose": {
+      "yujie0709": "-1",
+      "早春二月": "-1",
+      "月夜凝雪": "2",
+      "yaole_yl": "-1",
+      "МаксФёд": "-1",
+      "神道设教": "1"
+    }
+  },
+  {
+    "id": "妄想騎士",
+    "level": "9",
+    "goose": {
+      "figure": "2",
+      "tk.cocacola": "2"
+    }
+  },
+  {
+    "id": "tk.cocacola",
+    "level": "14",
+    "goose": {
+      "chinamove": "1"
+    }
+  },
+  {
+    "id": "magicroy",
+    "level": "52",
+    "goose": {
+      "never2002": "2",
+      "柴烧咖啡": "-2"
+    }
+  },
+  {
+    "id": "magicroy",
+    "level": "54",
+    "goose": {
+      "柴烧咖啡": "-2"
+    }
+  },
+  {
+    "id": "Pingbeici",
+    "level": "55",
+    "goose": {
+      "林无德": "1"
+    }
+  },
+  {
+    "id": "illusiome",
+    "level": "56",
+    "goose": {
+      "麻生椎子": "2",
+      "ysys": "2"
+    }
+  },
+  {
+    "id": "藤井紫",
+    "level": "84",
+    "goose": {
+      "林无德": "1"
+    }
+  },
+  {
+    "id": "梁皇无忌",
+    "level": "234",
+    "goose": {
+      "骆宾王": "1"
+    }
+  }
+]

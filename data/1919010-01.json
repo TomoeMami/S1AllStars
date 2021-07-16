@@ -1,0 +1,48 @@
+[
+  {
+    "id": "csd",
+    "level": "3",
+    "goose": {
+      "keiichi": "1"
+    }
+  },
+  {
+    "id": "Asimot",
+    "level": "7",
+    "goose": {
+      "saintsun77": "1",
+      "minamichisei": "1",
+      "stmule": "1"
+    }
+  },
+  {
+    "id": "HughNoman",
+    "level": "14",
+    "goose": {
+      "saintsun77": "1",
+      "光的彼端": "1"
+    }
+  },
+  {
+    "id": "斯勒恩鬼歌",
+    "level": "58",
+    "goose": {
+      "stmule": "5"
+    }
+  },
+  {
+    "id": "saevey",
+    "level": "68",
+    "goose": {
+      "saintsun77": "1",
+      "MagicalMinori": "1"
+    }
+  },
+  {
+    "id": "inconolast",
+    "level": "79",
+    "goose": {
+      "MagicalMinori": "1"
+    }
+  }
+]

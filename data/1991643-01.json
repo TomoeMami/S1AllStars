@@ -1,0 +1,16 @@
+[
+  {
+    "id": "sjax001",
+    "level": "68",
+    "goose": {
+      "StaticAnalysis": "-1"
+    }
+  },
+  {
+    "id": "wccms",
+    "level": "78",
+    "goose": {
+      "bioCory": "1"
+    }
+  }
+]

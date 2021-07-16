@@ -1,0 +1,37 @@
+[
+  {
+    "id": "长风难度",
+    "level": "28",
+    "goose": {
+      "pbkings": "-2"
+    }
+  },
+  {
+    "id": "饭来张口",
+    "level": "65",
+    "goose": {
+      "Tengu": "1",
+      "banrendacha": "1",
+      "yinfu": "1",
+      "g.h.hardy": "2",
+      "绍伊古": "1",
+      "Lord_Voldemort": "1",
+      "moeful": "1",
+      "少年kafka": "1"
+    }
+  },
+  {
+    "id": "重巡羊舰",
+    "level": "76",
+    "goose": {
+      "captoon": "0"
+    }
+  },
+  {
+    "id": "鵝",
+    "level": "100",
+    "goose": {
+      "空枪": "1"
+    }
+  }
+]

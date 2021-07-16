@@ -1,0 +1,75 @@
+[
+  {
+    "id": "游所不为",
+    "level": "25",
+    "goose": {
+      "tlozfan": "1"
+    }
+  },
+  {
+    "id": "Swanfal",
+    "level": "30",
+    "goose": {
+      "liekong": "1"
+    }
+  },
+  {
+    "id": "liekong",
+    "level": "47",
+    "goose": {
+      "书山有路诚为径": "1",
+      "lanyu_u": "1",
+      "神道设教": "-2",
+      "tlozfan": "1"
+    }
+  },
+  {
+    "id": "liekong",
+    "level": "49",
+    "goose": {
+      "CartmanLetters": "1",
+      "书山有路诚为径": "1",
+      "lanyu_u": "1",
+      "神道设教": "-2",
+      "tlozfan": "1"
+    }
+  },
+  {
+    "id": "liekong",
+    "level": "58",
+    "goose": {
+      "书山有路诚为径": "1",
+      "lanyu_u": "1",
+      "神道设教": "-1"
+    }
+  },
+  {
+    "id": "战狼PTSD",
+    "level": "60",
+    "goose": {
+      "fallanger": "-1",
+      "mahoro99": "-1"
+    }
+  },
+  {
+    "id": "lanyu_u",
+    "level": "65",
+    "goose": {
+      "liekong": "1"
+    }
+  },
+  {
+    "id": "Geminize",
+    "level": "114",
+    "goose": {
+      "liekong": "1"
+    }
+  },
+  {
+    "id": "liekong",
+    "level": "143",
+    "goose": {
+      "GuardHei": "1"
+    }
+  }
+]

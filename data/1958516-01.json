@@ -1,0 +1,28 @@
+[
+  {
+    "id": "Jamaisvu",
+    "level": "107",
+    "goose": {
+      "JadenZ": "1",
+      "拒绝爱讨论": "1",
+      "lacusforever": "1",
+      "beanbeam": "1"
+    }
+  },
+  {
+    "id": "beanbeam",
+    "level": "115",
+    "goose": {
+      "Jamaisvu": "1"
+    }
+  },
+  {
+    "id": "beanbeam",
+    "level": "128",
+    "goose": {
+      "JadenZ": "1",
+      "Jamaisvu": "1",
+      "拒绝爱讨论": "1"
+    }
+  }
+]

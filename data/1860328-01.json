@@ -1,0 +1,45 @@
+[
+  {
+    "id": "LT_Harry",
+    "level": "510",
+    "goose": {
+      "fghvcfg": "1",
+      "BigLittle1999": "1"
+    }
+  },
+  {
+    "id": "医生狼多",
+    "level": "565",
+    "goose": {
+      "LT_Harry": "1"
+    }
+  },
+  {
+    "id": "LT_Harry",
+    "level": "1054",
+    "goose": {
+      "宛若青空": "1"
+    }
+  },
+  {
+    "id": "江口夕",
+    "level": "1055",
+    "goose": {
+      "supergamer2": "1"
+    }
+  },
+  {
+    "id": "LT_Harry",
+    "level": "1153",
+    "goose": {
+      "宛若青空": "1"
+    }
+  },
+  {
+    "id": "宛若青空",
+    "level": "1181",
+    "goose": {
+      "LT_Harry": "1"
+    }
+  }
+]

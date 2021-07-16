@@ -1,0 +1,24 @@
+[
+  {
+    "id": "doki",
+    "level": "9",
+    "goose": {
+      "卢比扬卡大饭店": "1",
+      "gaowe": "-2",
+      "littleneko": "1",
+      "tau_cross": "1",
+      "r_ex": "1",
+      "sakamichi": "1"
+    }
+  },
+  {
+    "id": "妇女解放",
+    "level": "28",
+    "goose": {
+      "空罐子": "-2",
+      "Redis": "-1",
+      "littleneko": "-1",
+      "若荼泱": "-1"
+    }
+  }
+]

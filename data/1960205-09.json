@@ -1,0 +1,37 @@
+[
+  {
+    "id": "这个鱼塘承包你",
+    "level": "12552",
+    "goose": {
+      "Sza": "1"
+    }
+  },
+  {
+    "id": "夏溪澪mio",
+    "level": "13202",
+    "goose": {
+      "Sza": "1"
+    }
+  },
+  {
+    "id": "nerugigannte",
+    "level": "13205",
+    "goose": {
+      "莉拉厨": "1"
+    }
+  },
+  {
+    "id": "DKD",
+    "level": "13316",
+    "goose": {
+      "nerugigannte": "1"
+    }
+  },
+  {
+    "id": "东英零",
+    "level": "13393",
+    "goose": {
+      "Roedeer": "1"
+    }
+  }
+]

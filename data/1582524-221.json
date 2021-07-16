@@ -1,0 +1,17 @@
+[
+  {
+    "id": "deidara",
+    "level": "6386",
+    "goose": {
+      "czm9657": "1",
+      "空空空": "1"
+    }
+  },
+  {
+    "id": "waster112",
+    "level": "6541",
+    "goose": {
+      "deidara": "1"
+    }
+  }
+]

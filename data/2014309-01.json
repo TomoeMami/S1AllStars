@@ -1,0 +1,66 @@
+[
+  {
+    "id": "一心六文",
+    "level": "1",
+    "goose": {
+      "hisousihou": "1",
+      "陶大知": "-1",
+      "物部i布都": "1",
+      "cqduoluo": "1",
+      "儛進": "1",
+      "晓寒": "-1",
+      "Dgnic_": "1",
+      "horizonwalker": "1",
+      "Kepler-22b": "2",
+      "霍亨索伦亲王": "1",
+      "ltycomputer": "1",
+      "无责任死猫": "2",
+      "古留": "-1",
+      "胧楼": "2",
+      "艾诺琳": "2",
+      "neokirin": "-2",
+      "wfv5": "1",
+      "七七见": "-2",
+      "活得很差": "2",
+      "yourSwaTer": "2"
+    }
+  },
+  {
+    "id": "Lunamos",
+    "level": "81",
+    "goose": {
+      "Dgnic_": "1"
+    }
+  },
+  {
+    "id": "太宰治.",
+    "level": "82",
+    "goose": {
+      "nightCruising": "-1",
+      "想想Ana会怎么做": "-1",
+      "乱动的大图书馆": "-1"
+    }
+  },
+  {
+    "id": "МаксФёд",
+    "level": "127",
+    "goose": {
+      "vale_hana": "-1"
+    }
+  },
+  {
+    "id": "Nanachi",
+    "level": "233",
+    "goose": {
+      "skyuni": "2",
+      "Diabolosis": "-2"
+    }
+  },
+  {
+    "id": "Diabolosis",
+    "level": "234",
+    "goose": {
+      "Nanachi": "-2"
+    }
+  }
+]

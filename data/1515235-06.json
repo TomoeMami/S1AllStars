@@ -1,0 +1,93 @@
+[
+  {
+    "id": "冬马总冠军",
+    "level": "7619",
+    "goose": {
+      "endrollex": "2"
+    }
+  },
+  {
+    "id": "雪菜碧池",
+    "level": "7658",
+    "goose": {
+      "冬马总冠军": "1"
+    }
+  },
+  {
+    "id": "天使的日曜日",
+    "level": "7712",
+    "goose": {
+      "晓寒": "1"
+    }
+  },
+  {
+    "id": "moondigi",
+    "level": "7839",
+    "goose": {
+      "晓寒": "1"
+    }
+  },
+  {
+    "id": "luoyianwu",
+    "level": "7910",
+    "goose": {
+      "晓寒": "1"
+    }
+  },
+  {
+    "id": "绫魂h",
+    "level": "7978",
+    "goose": {
+      "冬马总冠军": "1"
+    }
+  },
+  {
+    "id": "Release01",
+    "level": "8131",
+    "goose": {
+      "qsjs": "2"
+    }
+  },
+  {
+    "id": "萱时令",
+    "level": "8302",
+    "goose": {
+      "晓寒": "1"
+    }
+  },
+  {
+    "id": "muderx",
+    "level": "8392",
+    "goose": {
+      "astrayveller": "1"
+    }
+  },
+  {
+    "id": "系色可符香",
+    "level": "8717",
+    "goose": {
+      "晓寒": "1"
+    }
+  },
+  {
+    "id": "windtrack_qh",
+    "level": "8810",
+    "goose": {
+      "wornixxoo": "1"
+    }
+  },
+  {
+    "id": "luoyianwu",
+    "level": "8811",
+    "goose": {
+      "wornixxoo": "1"
+    }
+  },
+  {
+    "id": "amtcmp",
+    "level": "8812",
+    "goose": {
+      "wornixxoo": "1"
+    }
+  }
+]

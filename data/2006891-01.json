@@ -1,0 +1,30 @@
+[
+  {
+    "id": "饮度",
+    "level": "2",
+    "goose": {
+      "Merdesony": "-1"
+    }
+  },
+  {
+    "id": "LMBS",
+    "level": "12",
+    "goose": {
+      "布恩迪亚": "1"
+    }
+  },
+  {
+    "id": "bearYou",
+    "level": "80",
+    "goose": {
+      "奈叶魔王控": "-1"
+    }
+  },
+  {
+    "id": "arbilest",
+    "level": "105",
+    "goose": {
+      "liekong": "1"
+    }
+  }
+]

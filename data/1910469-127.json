@@ -1,0 +1,950 @@
+[
+  {
+    "id": "wind4rap",
+    "level": "2222",
+    "goose": {
+      "雪菜党人": "1"
+    }
+  },
+  {
+    "id": "wlhlz",
+    "level": "2293",
+    "goose": {
+      "这就是奇迹": "-1"
+    }
+  },
+  {
+    "id": "蜂蜜620",
+    "level": "2295",
+    "goose": {
+      "yuluki": "1",
+      "Ember": "2",
+      "哈迪斯兜帽": "1",
+      "这就是奇迹": "-1"
+    }
+  },
+  {
+    "id": "Diabolosis",
+    "level": "2301",
+    "goose": {
+      "visualcc": "1",
+      "这就是奇迹": "2",
+      "sy137646": "1"
+    }
+  },
+  {
+    "id": "rayforran",
+    "level": "2364",
+    "goose": {
+      "visualcc": "1"
+    }
+  },
+  {
+    "id": "灰灰灰",
+    "level": "2375",
+    "goose": {
+      "AolKleinZ": "2",
+      "桐名": "1",
+      "cen": "1",
+      "visualcc": "1"
+    }
+  },
+  {
+    "id": "恋爱高中生",
+    "level": "2386",
+    "goose": {
+      "zzzqqqrrr": "1",
+      "PRDY": "-1"
+    }
+  },
+  {
+    "id": "lindley",
+    "level": "2398",
+    "goose": {
+      "yuluki": "1"
+    }
+  },
+  {
+    "id": "无尽蔚蓝",
+    "level": "2433",
+    "goose": {
+      "西风之哀": "2",
+      "tuatha": "2",
+      "SEIREIEI": "1",
+      "化肥会挥发": "1",
+      "Sanguine": "1",
+      "7227": "3",
+      "花小楼": "1",
+      "時の華": "1",
+      "苍浅°": "1",
+      "神無月悠也": "1",
+      "ChelJW": "1",
+      "abzoon": "1",
+      "雪菜党人": "1",
+      "AolKleinZ": "2",
+      "澜沫": "1",
+      "wowheyyy": "1",
+      "折岛睦月": "1",
+      "ma05758": "1",
+      "7七麦": "1",
+      "Teiume": "1"
+    }
+  },
+  {
+    "id": "ataraxianxy",
+    "level": "2472",
+    "goose": {
+      "yxch": "1",
+      "caliburn": "1",
+      "dfbbymice": "1",
+      "noobtizi": "1",
+      "荷叶饭": "1",
+      "余海露": "1",
+      "yinfu": "1",
+      "yuluki": "1",
+      "carnelius": "2",
+      "HOLIDAY": "2",
+      "Tomorrow_D": "2"
+    }
+  },
+  {
+    "id": "ataraxianxy",
+    "level": "2480",
+    "goose": {
+      "明明有雨": "2",
+      "幽香": "2"
+    }
+  },
+  {
+    "id": "chronicle",
+    "level": "2482",
+    "goose": {
+      "astrayveller": "1",
+      "shazam": "1",
+      "xzhao": "1",
+      "poppin": "1",
+      "R.I.P": "1",
+      "泱白": "-1"
+    }
+  },
+  {
+    "id": "reedwkaka",
+    "level": "2489",
+    "goose": {
+      "桐名": "1"
+    }
+  },
+  {
+    "id": "jyky",
+    "level": "2509",
+    "goose": {
+      "surf": "1",
+      "beer": "2",
+      "这就是奇迹": "-2"
+    }
+  },
+  {
+    "id": "7七麦",
+    "level": "2515",
+    "goose": {
+      "saintsun77": "1",
+      "夜留歌": "1",
+      "这就是奇迹": "2",
+      "tillnight": "1",
+      "哈迪斯兜帽": "-2",
+      "ching921217": "1"
+    }
+  },
+  {
+    "id": "jyky",
+    "level": "2531",
+    "goose": {
+      "astrayveller": "2",
+      "surf": "1",
+      "AirstripOne": "1",
+      "beer": "2",
+      "这就是奇迹": "-2"
+    }
+  },
+  {
+    "id": "HOLIDAY",
+    "level": "2538",
+    "goose": {
+      "surf": "1"
+    }
+  },
+  {
+    "id": "Dreki",
+    "level": "2540",
+    "goose": {
+      "saintsun77": "1",
+      "这就是奇迹": "2"
+    }
+  },
+  {
+    "id": "沉默之声",
+    "level": "2541",
+    "goose": {
+      "哈迪斯兜帽": "1"
+    }
+  },
+  {
+    "id": "Dreki",
+    "level": "2562",
+    "goose": {
+      "saintsun77": "1",
+      "这就是奇迹": "2"
+    }
+  },
+  {
+    "id": "纸皮",
+    "level": "2567",
+    "goose": {
+      "ohi": "-1",
+      "miao123177": "1",
+      "wsklmm": "1",
+      "caliburn": "1",
+      "飞一般的YY": "-1",
+      "沉默之声": "-2"
+    }
+  },
+  {
+    "id": "hyola",
+    "level": "2571",
+    "goose": {
+      "二代猫耳朵": "1",
+      "surf": "1",
+      "飞一般的YY": "2",
+      "利物浦": "2",
+      "这就是奇迹": "-2"
+    }
+  },
+  {
+    "id": "purgatorio",
+    "level": "2581",
+    "goose": {
+      "神王西格玛": "1"
+    }
+  },
+  {
+    "id": "纸皮",
+    "level": "2601",
+    "goose": {
+      "沉默之声": "1"
+    }
+  },
+  {
+    "id": "EdSheeran",
+    "level": "2632",
+    "goose": {
+      "superzj87": "2",
+      "Diabolosis": "-2",
+      "7七麦": "-1",
+      "AirstripOne": "1",
+      "visualcc": "-1"
+    }
+  },
+  {
+    "id": "poppin",
+    "level": "2641",
+    "goose": {
+      "reiu": "1"
+    }
+  },
+  {
+    "id": "3500词",
+    "level": "2651",
+    "goose": {
+      "Diabolosis": "-2",
+      "shazam": "-1",
+      "廖天一阁主": "1",
+      "kingrowing": "-1",
+      "明明有雨": "-1"
+    }
+  },
+  {
+    "id": "s1s234s",
+    "level": "2659",
+    "goose": {
+      "2016123349": "1"
+    }
+  },
+  {
+    "id": "demonsoul",
+    "level": "2667",
+    "goose": {
+      "飞一般的YY": "1"
+    }
+  },
+  {
+    "id": "s1s234s",
+    "level": "2680",
+    "goose": {
+      "wsklmm": "1"
+    }
+  },
+  {
+    "id": "3500词",
+    "level": "2688",
+    "goose": {
+      "SEIREIEI": "1",
+      "pyjq": "-1",
+      "无责任死猫": "-2",
+      "帕拉米蒂斯": "-1",
+      "visualcc": "-1"
+    }
+  },
+  {
+    "id": "时火",
+    "level": "2689",
+    "goose": {
+      "2016123349": "1"
+    }
+  },
+  {
+    "id": "ataraxianxy",
+    "level": "2693",
+    "goose": {
+      "dc5281": "2",
+      "亚瑟邓特": "1",
+      "yinfu": "1"
+    }
+  },
+  {
+    "id": "3500词",
+    "level": "2707",
+    "goose": {
+      "Diabolosis": "-2",
+      "OrianaThomson": "-1",
+      "SEIREIEI": "1",
+      "拆骨羊肉2": "-1",
+      "noobtizi": "-2",
+      "gkstill": "-2",
+      "wsklmm": "-1",
+      "visualcc": "-1",
+      "DoomsDay": "-1"
+    }
+  },
+  {
+    "id": "haarp",
+    "level": "2710",
+    "goose": {
+      "飞一般的YY": "1"
+    }
+  },
+  {
+    "id": "Dreki",
+    "level": "2714",
+    "goose": {
+      "visualcc": "1"
+    }
+  },
+  {
+    "id": "caliburn",
+    "level": "2736",
+    "goose": {
+      "SEIREIEI": "1",
+      "无责任死猫": "1",
+      "龙利鱼": "1",
+      "wsklmm": "1",
+      "夜留歌": "1",
+      "7227": "1",
+      "磐越西线": "1",
+      "蓝鸥之魂": "1",
+      "沉默之声": "2",
+      "visualcc": "1"
+    }
+  },
+  {
+    "id": "Суслов",
+    "level": "2749",
+    "goose": {
+      "visualcc": "1"
+    }
+  },
+  {
+    "id": "马僧虔",
+    "level": "2751",
+    "goose": {
+      "HOLIDAY": "1"
+    }
+  },
+  {
+    "id": "ataraxianxy",
+    "level": "2784",
+    "goose": {
+      "camelia_vie": "2",
+      "SEIREIEI": "1",
+      "洛天": "2",
+      "iceplatinum": "2",
+      "广东": "2",
+      "血翼龙": "2"
+    }
+  },
+  {
+    "id": "阿泽克•阿里曼",
+    "level": "2806",
+    "goose": {
+      "visualcc": "-1",
+      "这就是奇迹": "-1"
+    }
+  },
+  {
+    "id": "阿泽克•阿里曼",
+    "level": "2807",
+    "goose": {
+      "夜之赞歌": "1",
+      "astrayveller": "1",
+      "visualcc": "-1",
+      "这就是奇迹": "-1"
+    }
+  },
+  {
+    "id": "琳芙丝",
+    "level": "2832",
+    "goose": {
+      "saintsun77": "-1",
+      "yinfu": "-1",
+      "飞一般的YY": "-2"
+    }
+  },
+  {
+    "id": "joacg",
+    "level": "2862",
+    "goose": {
+      "飞一般的YY": "-2"
+    }
+  },
+  {
+    "id": "joacg",
+    "level": "2883",
+    "goose": {
+      "jhw123": "-1",
+      "HOLIDAY": "-1",
+      "飞一般的YY": "-2"
+    }
+  },
+  {
+    "id": "joacg",
+    "level": "2886",
+    "goose": {
+      "wjhzha": "-2",
+      "龙利鱼": "-1"
+    }
+  },
+  {
+    "id": "黑岩泪香",
+    "level": "2914",
+    "goose": {
+      "杨雪崩": "1"
+    }
+  },
+  {
+    "id": "joacg",
+    "level": "2916",
+    "goose": {
+      "saintsun77": "1",
+      "Zaky": "2"
+    }
+  },
+  {
+    "id": "DeepWhite",
+    "level": "2927",
+    "goose": {
+      "青菜子": "-1"
+    }
+  },
+  {
+    "id": "天青月白",
+    "level": "2950",
+    "goose": {
+      "杨雪崩": "1"
+    }
+  },
+  {
+    "id": "共谍常凯申",
+    "level": "2953",
+    "goose": {
+      "7七麦": "-1"
+    }
+  },
+  {
+    "id": "zmxlegend",
+    "level": "2962",
+    "goose": {
+      "浅上初月": "-1"
+    }
+  },
+  {
+    "id": "西门无恨",
+    "level": "2970",
+    "goose": {
+      "bbn": "1",
+      "利物浦": "2"
+    }
+  },
+  {
+    "id": "calmer",
+    "level": "2980",
+    "goose": {
+      "ma05758": "1",
+      "bbn": "1",
+      "明月闲窗": "1",
+      "Nosta": "2",
+      "斯洛斯": "1",
+      "yinfu": "1",
+      "iceplatinum": "2",
+      "二狗还我五块钱": "1",
+      "Sanguine": "1",
+      "曾颀": "1",
+      "zmxlegend": "1",
+      "Luck": "1"
+    }
+  },
+  {
+    "id": "cdfjg",
+    "level": "2986",
+    "goose": {
+      "yinfu": "-1"
+    }
+  },
+  {
+    "id": "机丹尼尔",
+    "level": "3001",
+    "goose": {
+      "iceplatinum": "1"
+    }
+  },
+  {
+    "id": "leia_rolando",
+    "level": "3016",
+    "goose": {
+      "a9okalypse": "-1",
+      "亚瑟·摩根": "-1",
+      "秘银之厅": "-1",
+      "龙利鱼": "-1",
+      "sudo_free": "-1",
+      "晴空的彼端": "-1",
+      "Лилия": "-1",
+      "PRDY": "-1",
+      "AolKleinZ": "-2",
+      "朽木": "-2"
+    }
+  },
+  {
+    "id": "芥川卡夫卡",
+    "level": "3050",
+    "goose": {
+      "blacktea914": "1"
+    }
+  },
+  {
+    "id": "细雨湿流光",
+    "level": "3056",
+    "goose": {
+      "哈迪斯兜帽": "1",
+      "佐塚間桐": "-1"
+    }
+  },
+  {
+    "id": "L-JoeW",
+    "level": "3082",
+    "goose": {
+      "bbn": "1",
+      "saber命": "1",
+      "caliburn": "1",
+      "happy34": "1",
+      "fuehrer": "2",
+      "diyihaoshitu": "1",
+      "entstehung": "2"
+    }
+  },
+  {
+    "id": "Uaral",
+    "level": "3106",
+    "goose": {
+      "明月闲窗": "1"
+    }
+  },
+  {
+    "id": "ataraxianxy",
+    "level": "3146",
+    "goose": {
+      "hyiang98": "1",
+      "mkx": "1",
+      "桐名": "1",
+      "zh671808": "1",
+      "龙利鱼": "1",
+      "Sanguine": "1",
+      "维克塔利昂": "2",
+      "利物浦": "1",
+      "Xu_Peanut": "1",
+      "yinfu": "1",
+      "亚瑟邓特": "1",
+      "hd7856101": "2"
+    }
+  },
+  {
+    "id": "hgcg-w",
+    "level": "3156",
+    "goose": {
+      "西风之哀": "2",
+      "7227": "2",
+      "HUNIESOULS_1": "-1",
+      "无责任死猫": "2",
+      "beer": "-2",
+      "セリア=キルミン": "1",
+      "nsevit": "-2",
+      "mkx": "2",
+      "脚本水平": "-2",
+      "rurutea": "1",
+      "kirainsky": "-1",
+      "朽木": "-2"
+    }
+  },
+  {
+    "id": "7七麦",
+    "level": "3167",
+    "goose": {
+      "mkx": "2",
+      "luguozhe": "-2"
+    }
+  },
+  {
+    "id": "佐塚間桐",
+    "level": "3192",
+    "goose": {
+      "tillnight": "1",
+      "细雨湿流光": "-1"
+    }
+  },
+  {
+    "id": "野上由加奈",
+    "level": "3206",
+    "goose": {
+      "杨雪崩": "1"
+    }
+  },
+  {
+    "id": "titians",
+    "level": "3239",
+    "goose": {
+      "东非大裂谷": "1"
+    }
+  },
+  {
+    "id": "PRDY",
+    "level": "3251",
+    "goose": {
+      "Tr@nsistor": "-1",
+      "二狗还我五块钱": "-1"
+    }
+  },
+  {
+    "id": "西门无恨",
+    "level": "3252",
+    "goose": {
+      "屌拿星人": "1",
+      "Falcomfans": "1",
+      "7七麦": "1",
+      "龙利鱼": "1"
+    }
+  },
+  {
+    "id": "细雨湿流光",
+    "level": "3301",
+    "goose": {
+      "芍药": "1"
+    }
+  },
+  {
+    "id": "苑生百花",
+    "level": "3330",
+    "goose": {
+      "OrianaThomson": "1"
+    }
+  },
+  {
+    "id": "spongec",
+    "level": "3391",
+    "goose": {
+      "visualcc": "1"
+    }
+  },
+  {
+    "id": "xxq1984",
+    "level": "3404",
+    "goose": {
+      "shazam": "1",
+      "visualcc": "-1"
+    }
+  },
+  {
+    "id": "weibo.com",
+    "level": "3412",
+    "goose": {
+      "ohi": "-1",
+      "天火": "-2",
+      "Pinchbeck": "-1",
+      "Sanguine": "-1",
+      "Dank_Memes": "-1",
+      "usernm": "-2",
+      "朽木": "-2",
+      "finallysqull01": "-1",
+      "shazam": "-1"
+    }
+  },
+  {
+    "id": "PRDY",
+    "level": "3413",
+    "goose": {
+      "天火": "-2",
+      "zh671808": "-1",
+      "Pinchbeck": "-1",
+      "Sanguine": "-1",
+      "Dank_Memes": "-1",
+      "草菇L": "-1",
+      "朽木": "-2"
+    }
+  },
+  {
+    "id": "curiousnoob",
+    "level": "3420",
+    "goose": {
+      "superzj87": "2",
+      "与你肩并肩": "1",
+      "枝条": "1",
+      "朽木": "2",
+      "杨雪崩": "-1",
+      "PRDY": "-1"
+    }
+  },
+  {
+    "id": "PRDY",
+    "level": "3428",
+    "goose": {
+      "ohi": "-1",
+      "天火": "-2",
+      "superzj87": "-2",
+      "lcscv": "-1",
+      "shazam": "-1",
+      "朽木": "-2",
+      "tsukatsukieiko": "-1",
+      "curiousnoob": "-1"
+    }
+  },
+  {
+    "id": "droglo",
+    "level": "3433",
+    "goose": {
+      "shazam": "1"
+    }
+  },
+  {
+    "id": "3500词",
+    "level": "3440",
+    "goose": {
+      "ma05758": "-1",
+      "Sanguine": "-1",
+      "zypyong": "-1",
+      "夜留歌": "-1",
+      "万花谷杂役": "-1",
+      "风纪の雪": "-2",
+      "gkstill": "-2",
+      "catbone": "-2",
+      "ltay222": "-1",
+      "神王西格玛": "-1",
+      "pyjq": "-1",
+      "shazam": "-1",
+      "LEUCHTET": "-1",
+      "轻舞似水": "-1",
+      "松霖": "-2",
+      "PRDY": "-1",
+      "晴空的彼端": "-1",
+      "shirakawahotaru": "-1",
+      "kingrowing": "-1",
+      "达达葱2": "-1"
+    }
+  },
+  {
+    "id": "PRDY",
+    "level": "3444",
+    "goose": {
+      "真·小林": "-2",
+      "Pinchbeck": "-1",
+      "Dank_Memes": "-1",
+      "finallysqull01": "-1",
+      "nsevit": "-2",
+      "香月诗浓": "-1",
+      "PPStream": "-1",
+      "weibo.com": "2",
+      "shazam": "-1",
+      "朽木": "-2",
+      "curiousnoob": "-1"
+    }
+  },
+  {
+    "id": "天青月白",
+    "level": "3464",
+    "goose": {
+      "visualcc": "1"
+    }
+  },
+  {
+    "id": "笑颜百景",
+    "level": "3467",
+    "goose": {
+      "yuluki": "1"
+    }
+  },
+  {
+    "id": "PRDY",
+    "level": "3470",
+    "goose": {
+      "朽木": "-2"
+    }
+  },
+  {
+    "id": "PRDY",
+    "level": "3493",
+    "goose": {
+      "草菇L": "-1",
+      "朽木": "-2",
+      "finallysqull01": "-1"
+    }
+  },
+  {
+    "id": "PRDY",
+    "level": "3511",
+    "goose": {
+      "Kuses": "-1",
+      "steelsaki": "-2",
+      "hcf220": "-1",
+      "朽木": "-2",
+      "czgzxc": "-2",
+      "wjhzha": "-2",
+      "PPStream": "-1",
+      "finallysqull01": "-1"
+    }
+  },
+  {
+    "id": "永远的飞去来",
+    "level": "3528",
+    "goose": {
+      "飞霞精灵": "1",
+      "机丹尼尔": "1",
+      "利物浦": "1",
+      "visualcc": "-1"
+    }
+  },
+  {
+    "id": "IDIDIDID",
+    "level": "3541",
+    "goose": {
+      "明月闲窗": "1",
+      "林登·万": "1",
+      "ma05758": "1",
+      "机丹尼尔": "1",
+      "Sanguine": "1",
+      "titians": "1",
+      "哈迪斯兜帽": "1",
+      "curiousnoob": "1",
+      "yolu": "1"
+    }
+  },
+  {
+    "id": "kooler",
+    "level": "3564",
+    "goose": {
+      "西风之哀": "-2",
+      "zick001": "-1",
+      "gkstill": "1",
+      "curiousnoob": "-1"
+    }
+  },
+  {
+    "id": "胧楼",
+    "level": "3574",
+    "goose": {
+      "桐名": "1",
+      "astrayveller": "1",
+      "飞一般的YY": "1",
+      "yinfu": "1"
+    }
+  },
+  {
+    "id": "没落の翼",
+    "level": "3627",
+    "goose": {
+      "sczkler": "1",
+      "dalarmar": "1"
+    }
+  },
+  {
+    "id": "无尽蔚蓝",
+    "level": "3634",
+    "goose": {
+      "fenglingke": "1",
+      "夜之赞歌": "1",
+      "yuluki": "1",
+      "lmstt": "1",
+      "抄袭炉石的垃圾": "1",
+      "walfeds": "1",
+      "shiwenbaobao": "1",
+      "YaZ": "1",
+      "時の華": "1",
+      "deadpeople": "2",
+      "魔法使い2019": "1",
+      "zh671808": "1",
+      "FujiZ": "1",
+      "AolKleinZ": "2",
+      "bbn": "1",
+      "大厨麦当牛": "2",
+      "洛天": "2",
+      "Pinchbeck": "1",
+      "芍药": "1",
+      "水城君": "2"
+    }
+  },
+  {
+    "id": "这就是奇迹",
+    "level": "3666",
+    "goose": {
+      "yinfu": "-1"
+    }
+  },
+  {
+    "id": "archcross",
+    "level": "3715",
+    "goose": {
+      "luguozhe": "-2"
+    }
+  },
+  {
+    "id": "lilililicat",
+    "level": "3745",
+    "goose": {
+      "spongec": "1",
+      "yutian1014": "1"
+    }
+  },
+  {
+    "id": "到处溜达",
+    "level": "3753",
+    "goose": {
+      "g.s.alex": "-1",
+      "HOLIDAY": "-1",
+      "夷则": "-1",
+      "luguozhe": "-2",
+      "lilililicat": "-1"
+    }
+  },
+  {
+    "id": "秀光",
+    "level": "3783",
+    "goose": {
+      "fengzijiang": "1",
+      "lilililicat": "1"
+    }
+  }
+]

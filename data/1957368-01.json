@@ -1,0 +1,9 @@
+[
+  {
+    "id": "bad_alloc",
+    "level": "31",
+    "goose": {
+      "StaticAnalysis": "1"
+    }
+  }
+]

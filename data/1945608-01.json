@@ -1,0 +1,33 @@
+[
+  {
+    "id": "天网",
+    "level": "13",
+    "goose": {
+      "暮鼓晨钟": "1",
+      "xiaohanld": "1"
+    }
+  },
+  {
+    "id": "reagain",
+    "level": "95",
+    "goose": {
+      "吴民是": "1",
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "foreversmiles",
+    "level": "150",
+    "goose": {
+      "你知道我的": "1",
+      "Faerire": "1"
+    }
+  },
+  {
+    "id": "drodchang",
+    "level": "166",
+    "goose": {
+      "Faerire": "1"
+    }
+  }
+]

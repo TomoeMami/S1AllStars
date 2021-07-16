@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Gunter",
+    "level": "2",
+    "goose": {
+      "Amadeuszhao": "1"
+    }
+  },
+  {
+    "id": "玖羽",
+    "level": "46",
+    "goose": {
+      "katern": "1",
+      "Gunter": "1"
+    }
+  },
+  {
+    "id": "荡寇将军张嶷",
+    "level": "100",
+    "goose": {
+      "包菜": "1"
+    }
+  },
+  {
+    "id": "七七見奈波",
+    "level": "112",
+    "goose": {
+      "MONSTERS": "1"
+    }
+  },
+  {
+    "id": "海鸟封",
+    "level": "148",
+    "goose": {
+      "荡寇将军张嶷": "1"
+    }
+  }
+]

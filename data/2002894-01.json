@@ -1,0 +1,45 @@
+[
+  {
+    "id": "IHSAHN",
+    "level": "47",
+    "goose": {
+      "genki": "-1",
+      "nebulanoby": "-1",
+      "细味": "-2",
+      "Sereno": "-1",
+      "Patlain": "-2",
+      "xxren": "-1"
+    }
+  },
+  {
+    "id": "师太请更衣",
+    "level": "53",
+    "goose": {
+      "Sereno": "-1",
+      "Patlain": "-2",
+      "xxren": "-1"
+    }
+  },
+  {
+    "id": "师太请更衣",
+    "level": "62",
+    "goose": {
+      "oopsoops": "-1",
+      "最好不说": "-1",
+      "细味": "-2",
+      "clllllllun": "-1",
+      "Sereno": "-1",
+      "putoo": "-2",
+      "Patlain": "-2",
+      "xxren": "-1",
+      "城市生物": "-1"
+    }
+  },
+  {
+    "id": "IHSAHN",
+    "level": "83",
+    "goose": {
+      "Patlain": "-2"
+    }
+  }
+]

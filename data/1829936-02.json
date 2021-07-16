@@ -1,0 +1,108 @@
+[
+  {
+    "id": "mishidexieyu",
+    "level": "1511",
+    "goose": {
+      "applebloom": "1",
+      "spring_VOV": "1"
+    }
+  },
+  {
+    "id": "strayark",
+    "level": "1513",
+    "goose": {
+      "mishidexieyu": "1"
+    }
+  },
+  {
+    "id": "leghorn00",
+    "level": "1535",
+    "goose": {
+      "mishidexieyu": "1"
+    }
+  },
+  {
+    "id": "strayark",
+    "level": "1559",
+    "goose": {
+      "远影": "1"
+    }
+  },
+  {
+    "id": "nihongkai",
+    "level": "1595",
+    "goose": {
+      "落日六号_": "1"
+    }
+  },
+  {
+    "id": "xingenge",
+    "level": "1619",
+    "goose": {
+      "番茄子": "1"
+    }
+  },
+  {
+    "id": "木消灭",
+    "level": "1846",
+    "goose": {
+      "孔祈": "2",
+      "魂淡放我出去": "1",
+      "ChelJW": "1",
+      "科学铃科百合子": "1",
+      "スピードワゴン": "1"
+    }
+  },
+  {
+    "id": "Bunny_Usagi",
+    "level": "1874",
+    "goose": {
+      "rubp羧化酶": "-1"
+    }
+  },
+  {
+    "id": "Bunny_Usagi",
+    "level": "1879",
+    "goose": {
+      "Sanguine": "-2",
+      "星白閑": "-2",
+      "DioxinsX": "-2",
+      "maxwellsdemon": "-1",
+      "BattleCrevasse": "-1",
+      "来自2036年": "-1",
+      "mishidexieyu": "-1",
+      "rubp羧化酶": "-1",
+      "民工业": "-2",
+      "嘻嘻哈哈麻木": "-1",
+      "佛剑分说": "-1",
+      "可惜是个变态": "-2",
+      "如月尤菲": "-2",
+      "eden0412": "-1",
+      "最好不说": "-1",
+      "魂淡放我出去": "-1",
+      "spring_VOV": "-1"
+    }
+  },
+  {
+    "id": "mishidexieyu",
+    "level": "1911",
+    "goose": {
+      "BarryAllen": "1"
+    }
+  },
+  {
+    "id": "Bunny_Usagi",
+    "level": "1920",
+    "goose": {
+      "民工业": "-1",
+      "rubp羧化酶": "-1"
+    }
+  },
+  {
+    "id": "韩子",
+    "level": "1944",
+    "goose": {
+      "病態極端": "1"
+    }
+  }
+]

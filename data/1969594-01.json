@@ -1,0 +1,32 @@
+[
+  {
+    "id": "秋月孝三",
+    "level": "5",
+    "goose": {
+      "beer": "1"
+    }
+  },
+  {
+    "id": "codecloud",
+    "level": "54",
+    "goose": {
+      "codedeath": "1",
+      "不应": "1",
+      "吃人不吐葡萄": "1"
+    }
+  },
+  {
+    "id": "Ubique",
+    "level": "60",
+    "goose": {
+      "吃人不吐葡萄": "1"
+    }
+  },
+  {
+    "id": "deathomega",
+    "level": "113",
+    "goose": {
+      "吃人不吐葡萄": "1"
+    }
+  }
+]

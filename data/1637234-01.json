@@ -1,0 +1,24 @@
+[
+  {
+    "id": "咸鱼无双",
+    "level": "126",
+    "goose": {
+      "ASimper": "1",
+      "Manchesterby": "1"
+    }
+  },
+  {
+    "id": "ticmo",
+    "level": "391",
+    "goose": {
+      "mhss": "1"
+    }
+  },
+  {
+    "id": "keyafan",
+    "level": "537",
+    "goose": {
+      "passgan": "1"
+    }
+  }
+]

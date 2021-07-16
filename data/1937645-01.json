@@ -1,0 +1,219 @@
+[
+  {
+    "id": "蔷薇下",
+    "level": "2",
+    "goose": {
+      "p5224892": "1",
+      "Existinghomes": "2",
+      "player3960": "1",
+      "mithralmask": "2",
+      "时间守护者": "-2"
+    }
+  },
+  {
+    "id": "蔷薇下",
+    "level": "6",
+    "goose": {
+      "初音镜": "1",
+      "Existinghomes": "2",
+      "player3960": "1",
+      "mithralmask": "2",
+      "时间守护者": "-2"
+    }
+  },
+  {
+    "id": "mithralmask",
+    "level": "8",
+    "goose": {
+      "初音镜": "1",
+      "蔷薇下": "1",
+      "姆吉吉姆": "1",
+      "player3960": "1",
+      "Existinghomes": "2",
+      "suoleisita": "2",
+      "时间守护者": "-2"
+    }
+  },
+  {
+    "id": "蔷薇下",
+    "level": "12",
+    "goose": {
+      "mithralmask": "2",
+      "player3960": "1",
+      "Existinghomes": "2",
+      "suoleisita": "2",
+      "时间守护者": "-2"
+    }
+  },
+  {
+    "id": "蔷薇下",
+    "level": "24",
+    "goose": {
+      "mithralmask": "2",
+      "player3960": "1",
+      "Existinghomes": "2",
+      "花礫": "1",
+      "suoleisita": "2",
+      "时间守护者": "-2"
+    }
+  },
+  {
+    "id": "Hidewhite",
+    "level": "28",
+    "goose": {
+      "雁落北山": "1"
+    }
+  },
+  {
+    "id": "mithralmask",
+    "level": "39",
+    "goose": {
+      "player3960": "1",
+      "蔷薇下": "1",
+      "suoleisita": "2",
+      "时间守护者": "-2"
+    }
+  },
+  {
+    "id": "蔷薇下",
+    "level": "44",
+    "goose": {
+      "mithralmask": "2",
+      "suoleisita": "2",
+      "时间守护者": "-2"
+    }
+  },
+  {
+    "id": "蔷薇下",
+    "level": "51",
+    "goose": {
+      "mithralmask": "2",
+      "suoleisita": "2",
+      "时间守护者": "-2"
+    }
+  },
+  {
+    "id": "character",
+    "level": "65",
+    "goose": {
+      "tonberry": "1"
+    }
+  },
+  {
+    "id": "orangeth",
+    "level": "78",
+    "goose": {
+      "雁落北山": "1"
+    }
+  },
+  {
+    "id": "mithralmask",
+    "level": "79",
+    "goose": {
+      "player3960": "1",
+      "蔷薇下": "1",
+      "suoleisita": "2",
+      "时间守护者": "-2"
+    }
+  },
+  {
+    "id": "mithralmask",
+    "level": "92",
+    "goose": {
+      "player3960": "1",
+      "蔷薇下": "1",
+      "suoleisita": "2",
+      "时间守护者": "-2"
+    }
+  },
+  {
+    "id": "雁落北山",
+    "level": "208",
+    "goose": {
+      "风烛尘香": "1"
+    }
+  },
+  {
+    "id": "mithralmask",
+    "level": "212",
+    "goose": {
+      "初音镜": "1"
+    }
+  },
+  {
+    "id": "tonberry",
+    "level": "218",
+    "goose": {
+      "qq525266": "1",
+      "风烛尘香": "1",
+      "wpf1205": "1",
+      "Existinghomes": "1"
+    }
+  },
+  {
+    "id": "风烛尘香",
+    "level": "223",
+    "goose": {
+      "杰洛特": "1"
+    }
+  },
+  {
+    "id": "yukioryuffie",
+    "level": "230",
+    "goose": {
+      "雁落北山": "1"
+    }
+  },
+  {
+    "id": "咸鱼高达",
+    "level": "232",
+    "goose": {
+      "风烛尘香": "1"
+    }
+  },
+  {
+    "id": "风烛尘香",
+    "level": "246",
+    "goose": {
+      "雁落北山": "1"
+    }
+  },
+  {
+    "id": "雁落北山",
+    "level": "362",
+    "goose": {
+      "魂狩?月": "-2",
+      "Unlight": "1",
+      "黑化养乐多": "2",
+      "风烛尘香": "1"
+    }
+  },
+  {
+    "id": "风烛尘香",
+    "level": "378",
+    "goose": {
+      "雁落北山": "1"
+    }
+  },
+  {
+    "id": "蔷薇下",
+    "level": "412",
+    "goose": {
+      "bwsusaga": "1"
+    }
+  },
+  {
+    "id": "风烛尘香",
+    "level": "455",
+    "goose": {
+      "雁落北山": "1"
+    }
+  },
+  {
+    "id": "蔷薇下",
+    "level": "490",
+    "goose": {
+      "黑化养乐多": "-3"
+    }
+  }
+]

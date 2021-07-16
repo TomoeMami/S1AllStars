@@ -1,0 +1,47 @@
+[
+  {
+    "id": "",
+    "level": "1",
+    "goose": {
+      "onezeron": "1",
+      "赤羽镜华": "1",
+      "jctc": "1",
+      "arnold": "1",
+      "zephyrus99": "-1"
+    }
+  },
+  {
+    "id": "飞灾",
+    "level": "3",
+    "goose": {
+      "nukacolamania": "1",
+      "onezeron": "1",
+      "phantooom": "1",
+      "Yhao": "1",
+      "beanbeam": "1"
+    }
+  },
+  {
+    "id": "panzerkamf",
+    "level": "22",
+    "goose": {
+      "SUGO": "1",
+      "上上铁": "1",
+      "齐雨绮语": "2"
+    }
+  },
+  {
+    "id": "cys_pitaten",
+    "level": "41",
+    "goose": {
+      "lain1": "1"
+    }
+  },
+  {
+    "id": "梦回雨中",
+    "level": "66",
+    "goose": {
+      "金戈画角": "1"
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "V2ABGundam",
+    "level": "25",
+    "goose": {
+      "lixianfyss": "1",
+      "城市生物": "2",
+      "艾诺琳": "1"
+    }
+  },
+  {
+    "id": "pyx",
+    "level": "40",
+    "goose": {
+      "lixianfyss": "1"
+    }
+  },
+  {
+    "id": "高卷杏",
+    "level": "44",
+    "goose": {
+      "掌界": "-2",
+      "lixianfyss": "-1"
+    }
+  },
+  {
+    "id": "高卷杏",
+    "level": "69",
+    "goose": {
+      "gearh": "1",
+      "Jon_Snus": "1"
+    }
+  },
+  {
+    "id": "pyx",
+    "level": "70",
+    "goose": {
+      "scream": "-1",
+      "你知道我的": "-2"
+    }
+  },
+  {
+    "id": "pyx",
+    "level": "105",
+    "goose": {
+      "宗汝": "-1",
+      "coolmaxx": "-2"
+    }
+  },
+  {
+    "id": "霜降2233",
+    "level": "110",
+    "goose": {
+      "高卷杏": "1"
+    }
+  },
+  {
+    "id": "wcorvo",
+    "level": "111",
+    "goose": {
+      "coolmaxx": "2"
+    }
+  }
+]

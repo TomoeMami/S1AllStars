@@ -1,0 +1,49 @@
+[
+  {
+    "id": "耕者有其田",
+    "level": "47",
+    "goose": {
+      "学长失格": "1"
+    }
+  },
+  {
+    "id": "耕者有其田",
+    "level": "74",
+    "goose": {
+      "清光の学生会长": "1"
+    }
+  },
+  {
+    "id": "张元英",
+    "level": "81",
+    "goose": {
+      "学长失格": "-1",
+      "commanderyuri": "-1",
+      "鵝": "-1"
+    }
+  },
+  {
+    "id": "j.nelson",
+    "level": "94",
+    "goose": {
+      "Stellar_Frost": "1",
+      "咪该先生": "1",
+      "学长失格": "1",
+      "Coronavirus": "1"
+    }
+  },
+  {
+    "id": "毒菇",
+    "level": "112",
+    "goose": {
+      "Coronavirus": "1"
+    }
+  },
+  {
+    "id": "yuialon",
+    "level": "151",
+    "goose": {
+      "maouzhkami": "1"
+    }
+  }
+]

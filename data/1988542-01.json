@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Astraroth",
+    "level": "34",
+    "goose": {
+      "intuitus": "1",
+      "旧游时节": "2"
+    }
+  },
+  {
+    "id": "navarra",
+    "level": "44",
+    "goose": {
+      "代号锤子": "1"
+    }
+  },
+  {
+    "id": "asdhai",
+    "level": "59",
+    "goose": {
+      "luluwan": "1"
+    }
+  },
+  {
+    "id": "luluwan",
+    "level": "65",
+    "goose": {
+      "lesangellos": "-1"
+    }
+  },
+  {
+    "id": "天青色的西风",
+    "level": "68",
+    "goose": {
+      "霜刀": "2"
+    }
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": "ゴルシ",
+    "level": "21",
+    "goose": {
+      "thasten": "1"
+    }
+  },
+  {
+    "id": "lemon鱿鱼",
+    "level": "22",
+    "goose": {
+      "萝卜玉米浓粥": "1"
+    }
+  },
+  {
+    "id": "finalflying",
+    "level": "31",
+    "goose": {
+      "zijingpt": "1"
+    }
+  },
+  {
+    "id": "ouba",
+    "level": "32",
+    "goose": {
+      "白冷": "1",
+      "mingminlun": "-1",
+      "Chw6951": "-1"
+    }
+  },
+  {
+    "id": "七音骨笛",
+    "level": "61",
+    "goose": {
+      "邈无烟尘": "1"
+    }
+  },
+  {
+    "id": "KarlHeisenberg",
+    "level": "71",
+    "goose": {
+      "che": "-2",
+      "looFehT0": "-1",
+      "guiminan": "-1"
+    }
+  },
+  {
+    "id": "真田源次郎信繁",
+    "level": "146",
+    "goose": {
+      "曾博": "1"
+    }
+  }
+]

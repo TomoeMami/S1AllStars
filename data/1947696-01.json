@@ -1,0 +1,65 @@
+[
+  {
+    "id": "beer",
+    "level": "93",
+    "goose": {
+      "RUANHYC": "1"
+    }
+  },
+  {
+    "id": "nesrelax",
+    "level": "108",
+    "goose": {
+      "柰子辟谷": "1"
+    }
+  },
+  {
+    "id": "fmban",
+    "level": "112",
+    "goose": {
+      "nesrelax": "1"
+    }
+  },
+  {
+    "id": "fmban",
+    "level": "113",
+    "goose": {
+      "柰子辟谷": "1"
+    }
+  },
+  {
+    "id": "beer",
+    "level": "160",
+    "goose": {
+      "reimei": "1"
+    }
+  },
+  {
+    "id": "砂糖天妇罗",
+    "level": "196",
+    "goose": {
+      "亦饮阑珊": "2"
+    }
+  },
+  {
+    "id": "masterzx",
+    "level": "246",
+    "goose": {
+      "正直的黄瓜": "2"
+    }
+  },
+  {
+    "id": "yangchunsiyue",
+    "level": "295",
+    "goose": {
+      "tlozfan": "1"
+    }
+  },
+  {
+    "id": "HydraCat",
+    "level": "297",
+    "goose": {
+      "tlozfan": "1"
+    }
+  }
+]

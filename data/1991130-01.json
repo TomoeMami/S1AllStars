@@ -1,0 +1,54 @@
+[
+  {
+    "id": "和真克瓦尔",
+    "level": "13",
+    "goose": {
+      "皇帝雅西加": "1",
+      "泉玲奈": "1"
+    }
+  },
+  {
+    "id": "泉玲奈",
+    "level": "17",
+    "goose": {
+      "RiverOcean": "1"
+    }
+  },
+  {
+    "id": "伊良部一郎",
+    "level": "50",
+    "goose": {
+      "realramza": "1"
+    }
+  },
+  {
+    "id": "sushiya2008",
+    "level": "95",
+    "goose": {
+      "watermelon_man": "-1"
+    }
+  },
+  {
+    "id": "乐旸",
+    "level": "115",
+    "goose": {
+      "watermelon_man": "1"
+    }
+  },
+  {
+    "id": "hunterkiller",
+    "level": "123",
+    "goose": {
+      "water": "2",
+      "八月琉璃": "1",
+      "hypnossz86": "2"
+    }
+  },
+  {
+    "id": "dllplayer",
+    "level": "129",
+    "goose": {
+      "伏羲茶": "1"
+    }
+  }
+]

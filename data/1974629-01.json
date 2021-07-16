@@ -1,0 +1,24 @@
+[
+  {
+    "id": "KOPKOM",
+    "level": "40",
+    "goose": {
+      "ALENTR": "1",
+      "amber1768": "-1"
+    }
+  },
+  {
+    "id": "KOPKOM",
+    "level": "41",
+    "goose": {
+      "amber1768": "-1"
+    }
+  },
+  {
+    "id": "KOPKOM",
+    "level": "60",
+    "goose": {
+      "ALENTR": "1"
+    }
+  }
+]

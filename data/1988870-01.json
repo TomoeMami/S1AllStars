@@ -1,0 +1,16 @@
+[
+  {
+    "id": "lingocrime",
+    "level": "2",
+    "goose": {
+      "生鸡蛋": "1"
+    }
+  },
+  {
+    "id": "Headless",
+    "level": "47",
+    "goose": {
+      "Hydra": "1"
+    }
+  }
+]

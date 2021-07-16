@@ -17,16 +17,29 @@ def getkwfile(flist, keyword):
             res.append(ff)
     return res
 
-if __name__ == "__main__":
-                         
-    dirpath = '/home/riko/S1PlainTextBackup/'
+if __name__ == "__main__":    
+    dirpath = '/home/riko/S1PlainTextGeneral/'
     filepaths = []                                 # 初始化列表用来
     all_files_path(dirpath)
     filepath2 = getkwfile(filepaths, 'md')
     for filepath in filepath2:
-        with open (filepath, 'r+',encoding='UTF-8') as f:
+        with open (filepath, 'r',encoding='UTF-8') as f:
             content = f.read()
             contentstring = re.sub(r'\n-----\n','\n*****\n',str(content))
+        with open (filepath, 'w',encoding='UTF-8') as f:
             f.write(contentstring)
-            f.close()
-
+            print(filepath)
+        # with open (filepath, 'r',encoding='UTF-8') as f:
+        #     lines = f.readlines() 
+        #     a = ''
+        #     count = 0
+        #     for line in lines:
+        #         if " 1# " in line:
+        #             count = count + 1
+        #         if count == 2 :
+        #             break
+        #         a += line
+        #     contentstring = re.sub(r'\n-----\n','\n*****\n',a)
+        # with open (filepath,'w',encoding='UTF-8') as f:
+        #     f.write(a)
+        #     print(filepath)

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "livelive",
+    "level": "5",
+    "goose": {
+      "youlen": "1",
+      "fc666": "1"
+    }
+  },
+  {
+    "id": "利维亚的白狼",
+    "level": "32",
+    "goose": {
+      "SFFYLTL": "1",
+      "帕蕾莉亚": "3",
+      "trik": "1",
+      "youlen": "1",
+      "Existinghomes": "1"
+    }
+  },
+  {
+    "id": "蜃气楼",
+    "level": "43",
+    "goose": {
+      "youlen": "1",
+      "利维亚的白狼": "1"
+    }
+  }
+]

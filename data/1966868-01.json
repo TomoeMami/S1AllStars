@@ -1,0 +1,102 @@
+[
+  {
+    "id": "白色要塞",
+    "level": "3",
+    "goose": {
+      "c20070613": "1"
+    }
+  },
+  {
+    "id": "yukinosarai",
+    "level": "23",
+    "goose": {
+      "populareal": "1",
+      "eggplant": "2"
+    }
+  },
+  {
+    "id": "扭头就走",
+    "level": "66",
+    "goose": {
+      "哈司令": "1"
+    }
+  },
+  {
+    "id": "konev",
+    "level": "113",
+    "goose": {
+      "给我加个鹅吧": "-1"
+    }
+  },
+  {
+    "id": "МаксФёд",
+    "level": "120",
+    "goose": {
+      "spring_VOV": "1"
+    }
+  },
+  {
+    "id": "kanago",
+    "level": "131",
+    "goose": {
+      "ywydsd": "1"
+    }
+  },
+  {
+    "id": "MISAKA20001",
+    "level": "189",
+    "goose": {
+      "信玄誠司": "-1",
+      "abzoon": "-1",
+      "vigil": "-1",
+      "МаксФёд": "-1",
+      "xzhlj0325": "-2",
+      "zewubbfa": "-2",
+      "xxren1": "-1"
+    }
+  },
+  {
+    "id": "mrock",
+    "level": "223",
+    "goose": {
+      "东莞门传人": "-1"
+    }
+  },
+  {
+    "id": "gx19860411",
+    "level": "224",
+    "goose": {
+      "xiedua": "1"
+    }
+  },
+  {
+    "id": "setree",
+    "level": "298",
+    "goose": {
+      "最后的要塞": "1"
+    }
+  },
+  {
+    "id": "Liberation",
+    "level": "300",
+    "goose": {
+      "厄斯沃穆": "1",
+      "消防": "-1"
+    }
+  },
+  {
+    "id": "消防",
+    "level": "301",
+    "goose": {
+      "Liberation": "-1",
+      "最后的要塞": "1"
+    }
+  },
+  {
+    "id": "mowind",
+    "level": "317",
+    "goose": {
+      "aptecccd": "1"
+    }
+  }
+]

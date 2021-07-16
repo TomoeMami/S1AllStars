@@ -1,0 +1,73 @@
+[
+  {
+    "id": "Zest",
+    "level": "3093",
+    "goose": {
+      "caius": "1"
+    }
+  },
+  {
+    "id": "Zest",
+    "level": "3094",
+    "goose": {
+      "影時雨": "1"
+    }
+  },
+  {
+    "id": "genki",
+    "level": "3211",
+    "goose": {
+      "亚瑟姆·明日野": "1"
+    }
+  },
+  {
+    "id": "殊绝",
+    "level": "3238",
+    "goose": {
+      "shyso": "1"
+    }
+  },
+  {
+    "id": "nukacolamania",
+    "level": "3319",
+    "goose": {
+      "newtype9": "1"
+    }
+  },
+  {
+    "id": "Chao",
+    "level": "3332",
+    "goose": {
+      "newtype9": "1"
+    }
+  },
+  {
+    "id": "101207777",
+    "level": "3390",
+    "goose": {
+      "newtype9": "1"
+    }
+  },
+  {
+    "id": "白龙",
+    "level": "3425",
+    "goose": {
+      "newtype9": "2"
+    }
+  },
+  {
+    "id": "白龙",
+    "level": "3429",
+    "goose": {
+      "arx-7": "-7",
+      "newtype9": "2"
+    }
+  },
+  {
+    "id": "Chao",
+    "level": "3483",
+    "goose": {
+      "newtype9": "1"
+    }
+  }
+]

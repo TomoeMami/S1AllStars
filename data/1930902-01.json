@@ -1,0 +1,75 @@
+[
+  {
+    "id": "漫区专号",
+    "level": "2",
+    "goose": {
+      "小倉朝日": "-2",
+      "WA2ST": "2",
+      "angel13th": "-1",
+      "vf211": "1",
+      "SchwarzeKatze": "-2"
+    }
+  },
+  {
+    "id": "ayowala",
+    "level": "12",
+    "goose": {
+      "Faerire": "1",
+      "格里高里": "-1"
+    }
+  },
+  {
+    "id": "SchwarzeKatze",
+    "level": "48",
+    "goose": {
+      "Muminim": "1",
+      "WA2ST": "1",
+      "jiaoshahaoa": "1",
+      "RiverOcean": "1",
+      "酷乐": "2",
+      "漫区专号": "-2"
+    }
+  },
+  {
+    "id": "shlovekd",
+    "level": "56",
+    "goose": {
+      "WA2ST": "1"
+    }
+  },
+  {
+    "id": "漫区专号",
+    "level": "58",
+    "goose": {
+      "Muminim": "-1"
+    }
+  },
+  {
+    "id": "漫区专号",
+    "level": "62",
+    "goose": {
+      "Muminim": "-1"
+    }
+  },
+  {
+    "id": "haarp",
+    "level": "85",
+    "goose": {
+      "SchwarzeKatze": "1"
+    }
+  },
+  {
+    "id": "wadbwydb",
+    "level": "110",
+    "goose": {
+      "SchwarzeKatze": "1"
+    }
+  },
+  {
+    "id": "845272",
+    "level": "126",
+    "goose": {
+      "Faerire": "1"
+    }
+  }
+]

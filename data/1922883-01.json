@@ -1,0 +1,38 @@
+[
+  {
+    "id": "plazum",
+    "level": "195",
+    "goose": {
+      "Sanguine": "1",
+      "克罗夏": "1"
+    }
+  },
+  {
+    "id": "叛逆之双子星",
+    "level": "217",
+    "goose": {
+      "plazum": "1"
+    }
+  },
+  {
+    "id": "plazum",
+    "level": "282",
+    "goose": {
+      "Illusory": "1"
+    }
+  },
+  {
+    "id": "最强惠酱",
+    "level": "357",
+    "goose": {
+      "ipcjs": "1"
+    }
+  },
+  {
+    "id": "nerugigannte",
+    "level": "375",
+    "goose": {
+      "青春银河": "1"
+    }
+  }
+]

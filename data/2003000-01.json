@@ -1,0 +1,40 @@
+[
+  {
+    "id": "",
+    "level": "1",
+    "goose": {
+      "BRRM": "1",
+      "Yohane": "-1"
+    }
+  },
+  {
+    "id": "aisakahammer",
+    "level": "8",
+    "goose": {
+      "云间莼鲈": "1"
+    }
+  },
+  {
+    "id": "三葉Mitsuha",
+    "level": "13",
+    "goose": {
+      "aisakahammer": "2"
+    }
+  },
+  {
+    "id": "煌焰",
+    "level": "49",
+    "goose": {
+      "羊寢": "1"
+    }
+  },
+  {
+    "id": "mlfans",
+    "level": "56",
+    "goose": {
+      "borrowface": "1",
+      "spiece": "1",
+      "Kuso-no-hana": "1"
+    }
+  }
+]

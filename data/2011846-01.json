@@ -1,0 +1,65 @@
+[
+  {
+    "id": "nominication47",
+    "level": "1",
+    "goose": {
+      "开起": "1"
+    }
+  },
+  {
+    "id": "libratest",
+    "level": "5",
+    "goose": {
+      "nominication47": "1"
+    }
+  },
+  {
+    "id": "戒色中勿扰",
+    "level": "6",
+    "goose": {
+      "nominication47": "1"
+    }
+  },
+  {
+    "id": "azyn",
+    "level": "17",
+    "goose": {
+      "nebulanoby": "1"
+    }
+  },
+  {
+    "id": "frosta",
+    "level": "19",
+    "goose": {
+      "nominication47": "1"
+    }
+  },
+  {
+    "id": "霖星",
+    "level": "54",
+    "goose": {
+      "开起": "1"
+    }
+  },
+  {
+    "id": "soulogic",
+    "level": "91",
+    "goose": {
+      "nominication47": "2"
+    }
+  },
+  {
+    "id": "cj2047",
+    "level": "93",
+    "goose": {
+      "nominication47": "1"
+    }
+  },
+  {
+    "id": "帕林马哲理",
+    "level": "104",
+    "goose": {
+      "nominication47": "1"
+    }
+  }
+]

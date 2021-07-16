@@ -1,0 +1,33 @@
+[
+  {
+    "id": "",
+    "level": "1",
+    "goose": {
+      "SuperiorSiege": "1"
+    }
+  },
+  {
+    "id": "未成年面包",
+    "level": "19",
+    "goose": {
+      "bt4ever": "1",
+      "graysonqsq": "1",
+      "不鸟一辉": "-1"
+    }
+  },
+  {
+    "id": "守望深渊",
+    "level": "22",
+    "goose": {
+      "xsl1099": "1",
+      "damien": "1"
+    }
+  },
+  {
+    "id": "罗马还能再战",
+    "level": "40",
+    "goose": {
+      "redivan": "1"
+    }
+  }
+]

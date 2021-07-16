@@ -1,0 +1,39 @@
+[
+  {
+    "id": "marymax",
+    "level": "24",
+    "goose": {
+      "amanda11": "-1"
+    }
+  },
+  {
+    "id": "marymax",
+    "level": "26",
+    "goose": {
+      "lxl9505": "-1",
+      "amanda11": "1"
+    }
+  },
+  {
+    "id": "marymax",
+    "level": "76",
+    "goose": {
+      "dpdwx": "-1",
+      "flyzzhj": "1"
+    }
+  },
+  {
+    "id": "文文情报屋",
+    "level": "86",
+    "goose": {
+      "denok": "1"
+    }
+  },
+  {
+    "id": "果然",
+    "level": "101",
+    "goose": {
+      "flyzzhj": "1"
+    }
+  }
+]

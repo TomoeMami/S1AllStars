@@ -1,0 +1,876 @@
+[
+  {
+    "id": "-rm7-",
+    "level": "1511",
+    "goose": {
+      "MisForTunez": "1"
+    }
+  },
+  {
+    "id": "vgmd",
+    "level": "1547",
+    "goose": {
+      "絵生voice": "1"
+    }
+  },
+  {
+    "id": "admentus",
+    "level": "1554",
+    "goose": {
+      "vgmd": "1"
+    }
+  },
+  {
+    "id": "vgmd",
+    "level": "1576",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "OldGlory",
+    "level": "1586",
+    "goose": {
+      "絵生voice": "1"
+    }
+  },
+  {
+    "id": "vgmd",
+    "level": "1591",
+    "goose": {
+      "MisForTunez": "1"
+    }
+  },
+  {
+    "id": "vgmd",
+    "level": "1607",
+    "goose": {
+      "过不了审": "1"
+    }
+  },
+  {
+    "id": "vgmd",
+    "level": "1627",
+    "goose": {
+      "絵生voice": "1"
+    }
+  },
+  {
+    "id": "vgmd",
+    "level": "1644",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "winda",
+    "level": "1645",
+    "goose": {
+      "vgmd": "1"
+    }
+  },
+  {
+    "id": "vgmd",
+    "level": "1742",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "真飞鸟i",
+    "level": "1763",
+    "goose": {
+      "vgmd": "1"
+    }
+  },
+  {
+    "id": "絵生voice",
+    "level": "1775",
+    "goose": {
+      "渡鸦骑士": "1",
+      "过不了审": "1",
+      "某穆克拉": "1",
+      "kanonsisya": "1"
+    }
+  },
+  {
+    "id": "vgmd",
+    "level": "1829",
+    "goose": {
+      "渡鸦骑士": "1",
+      "天悬星河": "1",
+      "nehon13": "1"
+    }
+  },
+  {
+    "id": "selonng",
+    "level": "1860",
+    "goose": {
+      "vgmd": "1"
+    }
+  },
+  {
+    "id": "vgmd",
+    "level": "1883",
+    "goose": {
+      "kanonsisya": "1"
+    }
+  },
+  {
+    "id": "NBXX",
+    "level": "1938",
+    "goose": {
+      "某穆克拉": "1",
+      "渡鸦骑士": "1",
+      "过不了审": "1"
+    }
+  },
+  {
+    "id": "NBXX",
+    "level": "1942",
+    "goose": {
+      "MisForTunez": "1"
+    }
+  },
+  {
+    "id": "絵生voice",
+    "level": "1950",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "某穆克拉",
+    "level": "1958",
+    "goose": {
+      "絵生voice": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "1963",
+    "goose": {
+      "stedckk": "1",
+      "Fami水": "1",
+      "过不了审": "1",
+      "NBXX": "2"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "1966",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "1967",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "絵生voice",
+    "level": "2011",
+    "goose": {
+      "kanonsisya": "1"
+    }
+  },
+  {
+    "id": "絵生voice",
+    "level": "2015",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "味增味增",
+    "level": "2019",
+    "goose": {
+      "MisForTunez": "1"
+    }
+  },
+  {
+    "id": "winda",
+    "level": "2032",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "絵生voice",
+    "level": "2034",
+    "goose": {
+      "kanonsisya": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2037",
+    "goose": {
+      "味增味增": "1",
+      "过不了审": "1",
+      "asdhai": "2"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2042",
+    "goose": {
+      "opersuper": "1",
+      "空集": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2049",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2052",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2054",
+    "goose": {
+      "MisForTunez": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2057",
+    "goose": {
+      "屑屑代沟尼亚": "1",
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2069",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2082",
+    "goose": {
+      "渡鸦骑士": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2085",
+    "goose": {
+      "空集": "1",
+      "过不了审": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2086",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "asdhai",
+    "level": "2090",
+    "goose": {
+      "colodes": "1"
+    }
+  },
+  {
+    "id": "絵生voice",
+    "level": "2095",
+    "goose": {
+      "渡鸦骑士": "1"
+    }
+  },
+  {
+    "id": "絵生voice",
+    "level": "2097",
+    "goose": {
+      "colodes": "1"
+    }
+  },
+  {
+    "id": "某穆克拉",
+    "level": "2098",
+    "goose": {
+      "渡鸦骑士": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2106",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2118",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2119",
+    "goose": {
+      "selonng": "1"
+    }
+  },
+  {
+    "id": "渡鸦骑士",
+    "level": "2123",
+    "goose": {
+      "絵生voice": "1"
+    }
+  },
+  {
+    "id": "絵生voice",
+    "level": "2162",
+    "goose": {
+      "colodes": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2175",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2186",
+    "goose": {
+      "过不了审": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2208",
+    "goose": {
+      "渡鸦骑士": "-1",
+      "絵生voice": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2213",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "絵生voice",
+    "level": "2221",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "絵生voice",
+    "level": "2223",
+    "goose": {
+      "-rm7-": "1",
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2240",
+    "goose": {
+      "Mr.shelter": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2241",
+    "goose": {
+      "kanonsisya": "1",
+      "过不了审": "1",
+      "渡鸦骑士": "1",
+      "空集": "1",
+      "shiro7": "1",
+      "真飞鸟i": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2248",
+    "goose": {
+      "絵生voice": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2252",
+    "goose": {
+      "-rm7-": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2263",
+    "goose": {
+      "asdhai": "2"
+    }
+  },
+  {
+    "id": "vgmd",
+    "level": "2269",
+    "goose": {
+      "味增味增": "1"
+    }
+  },
+  {
+    "id": "味增味增",
+    "level": "2270",
+    "goose": {
+      "colodes": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2273",
+    "goose": {
+      "ShuTk4O": "1",
+      "kanonsisya": "1",
+      "絵生voice": "1"
+    }
+  },
+  {
+    "id": "vgmd",
+    "level": "2278",
+    "goose": {
+      "絵生voice": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2284",
+    "goose": {
+      "渡鸦骑士": "1",
+      "admentus": "1",
+      "NBXX": "1"
+    }
+  },
+  {
+    "id": "OldGlory",
+    "level": "2286",
+    "goose": {
+      "colodes": "1"
+    }
+  },
+  {
+    "id": "pansherry",
+    "level": "2290",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "渡鸦骑士",
+    "level": "2298",
+    "goose": {
+      "味增味增": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2302",
+    "goose": {
+      "渡鸦骑士": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2311",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2319",
+    "goose": {
+      "味增味增": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2320",
+    "goose": {
+      "过不了审": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2326",
+    "goose": {
+      "CheshireK": "1"
+    }
+  },
+  {
+    "id": "絵生voice",
+    "level": "2332",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2338",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2342",
+    "goose": {
+      "aptx318": "2",
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2343",
+    "goose": {
+      "kanonsisya": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2370",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2376",
+    "goose": {
+      "空集": "1",
+      "过不了审": "1"
+    }
+  },
+  {
+    "id": "Kitali",
+    "level": "2384",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "絵生voice",
+    "level": "2390",
+    "goose": {
+      "獅白ぼたん": "1"
+    }
+  },
+  {
+    "id": "絵生voice",
+    "level": "2392",
+    "goose": {
+      "过不了审": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2416",
+    "goose": {
+      "空集": "1",
+      "NBXX": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2425",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2457",
+    "goose": {
+      "絵生voice": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2471",
+    "goose": {
+      "过不了审": "1"
+    }
+  },
+  {
+    "id": "sher1ock",
+    "level": "2476",
+    "goose": {
+      "过不了审": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2480",
+    "goose": {
+      "过不了审": "1"
+    }
+  },
+  {
+    "id": "sher1ock",
+    "level": "2505",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2506",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "Kitali",
+    "level": "2514",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "味增味增",
+    "level": "2516",
+    "goose": {
+      "过不了审": "1"
+    }
+  },
+  {
+    "id": "GToojer",
+    "level": "2544",
+    "goose": {
+      "pansherry": "1"
+    }
+  },
+  {
+    "id": "泡芙好吃",
+    "level": "2556",
+    "goose": {
+      "过不了审": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2576",
+    "goose": {
+      "ShuTk4O": "1"
+    }
+  },
+  {
+    "id": "Kitali",
+    "level": "2642",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "过不了审",
+    "level": "2643",
+    "goose": {
+      "NBXX": "1"
+    }
+  },
+  {
+    "id": "adamtheo",
+    "level": "2645",
+    "goose": {
+      "过不了审": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2649",
+    "goose": {
+      "渡鸦骑士": "1"
+    }
+  },
+  {
+    "id": "holoan",
+    "level": "2650",
+    "goose": {
+      "渡鸦骑士": "1",
+      "admentus": "1",
+      "asdhai": "1",
+      "空集": "1",
+      "过不了审": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2669",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2710",
+    "goose": {
+      "过不了审": "1"
+    }
+  },
+  {
+    "id": "空集",
+    "level": "2719",
+    "goose": {
+      "絵生voice": "1"
+    }
+  },
+  {
+    "id": "holoan",
+    "level": "2752",
+    "goose": {
+      "过不了审": "1"
+    }
+  },
+  {
+    "id": "holoan",
+    "level": "2777",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2786",
+    "goose": {
+      "味增味增": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2791",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2807",
+    "goose": {
+      "渡鸦骑士": "1",
+      "admentus": "1",
+      "asdhai": "1",
+      "过不了审": "1",
+      "空集": "1",
+      "AKili": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2808",
+    "goose": {
+      "絵生voice": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2821",
+    "goose": {
+      "-rm7-": "1",
+      "ShuTk4O": "1"
+    }
+  },
+  {
+    "id": "wiig",
+    "level": "2827",
+    "goose": {
+      "空集": "1",
+      "过不了审": "1",
+      "絵生voice": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2858",
+    "goose": {
+      "渡鸦骑士": "1"
+    }
+  },
+  {
+    "id": "holoan",
+    "level": "2867",
+    "goose": {
+      "colodes": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2910",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2917",
+    "goose": {
+      "空集": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2919",
+    "goose": {
+      "MisForTunez": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2931",
+    "goose": {
+      "渡鸦骑士": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2946",
+    "goose": {
+      "Hemis": "1"
+    }
+  },
+  {
+    "id": "colodes",
+    "level": "2951",
+    "goose": {
+      "絵生voice": "1"
+    }
+  },
+  {
+    "id": "holoan",
+    "level": "2982",
+    "goose": {
+      "colodes": "1"
+    }
+  },
+  {
+    "id": "真飞鸟i",
+    "level": "2987",
+    "goose": {
+      "过不了审": "1"
+    }
+  }
+]

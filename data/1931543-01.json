@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MARBLE",
+    "level": "5",
+    "goose": {
+      "Faerire": "1"
+    }
+  },
+  {
+    "id": "leiwind",
+    "level": "10",
+    "goose": {
+      "十年八月": "1",
+      "eagersam": "-1",
+      "Faerire": "-1",
+      "食人魔法师": "1"
+    }
+  },
+  {
+    "id": "foreversmiles",
+    "level": "16",
+    "goose": {
+      "苍瞳凯": "1",
+      "narutoz": "1",
+      "Faerire": "1"
+    }
+  },
+  {
+    "id": "淡蓝色幽灵",
+    "level": "23",
+    "goose": {
+      "narutoz": "1",
+      "downnote": "2",
+      "Alufer": "1",
+      "lysh_233": "2"
+    }
+  },
+  {
+    "id": "aiplus",
+    "level": "26",
+    "goose": {
+      "xxren1": "1",
+      "Faerire": "1"
+    }
+  },
+  {
+    "id": "ady272",
+    "level": "38",
+    "goose": {
+      "Niceday": "-1"
+    }
+  },
+  {
+    "id": "骚喜龟",
+    "level": "63",
+    "goose": {
+      "disrupt": "-1"
+    }
+  },
+  {
+    "id": "ceekayzsorrow",
+    "level": "81",
+    "goose": {
+      "Faerire": "2"
+    }
+  },
+  {
+    "id": "s0534146",
+    "level": "87",
+    "goose": {
+      "Faerire": "2"
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "Totokei",
+    "level": "164",
+    "goose": {
+      "没钱买手办": "2"
+    }
+  },
+  {
+    "id": "杂色k",
+    "level": "165",
+    "goose": {
+      "没钱买手办": "2"
+    }
+  },
+  {
+    "id": "Totokei",
+    "level": "222",
+    "goose": {
+      "BankA": "1"
+    }
+  },
+  {
+    "id": "人型战舰",
+    "level": "267",
+    "goose": {
+      "kirainsky": "1",
+      "hikari": "1",
+      "forgotten": "2",
+      "000000": "1"
+    }
+  },
+  {
+    "id": "hikari",
+    "level": "269",
+    "goose": {
+      "000000": "1"
+    }
+  }
+]

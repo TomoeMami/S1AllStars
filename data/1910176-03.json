@@ -1,0 +1,39 @@
+[
+  {
+    "id": "pharos",
+    "level": "3101",
+    "goose": {
+      "SSSS.崚": "1"
+    }
+  },
+  {
+    "id": "beer",
+    "level": "3102",
+    "goose": {
+      "SSSS.崚": "1"
+    }
+  },
+  {
+    "id": "紫苑寺友子MKIII",
+    "level": "3208",
+    "goose": {
+      "简巴•江斯特": "1"
+    }
+  },
+  {
+    "id": "SSSS.崚",
+    "level": "3245",
+    "goose": {
+      "kthec": "1",
+      "beer": "1",
+      "cqc1021": "1"
+    }
+  },
+  {
+    "id": "beer",
+    "level": "3262",
+    "goose": {
+      "SSSS.崚": "3"
+    }
+  }
+]

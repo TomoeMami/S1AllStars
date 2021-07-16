@@ -1,0 +1,70 @@
+[
+  {
+    "id": "Trompete",
+    "level": "6",
+    "goose": {
+      "tlozfan": "1"
+    }
+  },
+  {
+    "id": "ziyer",
+    "level": "12",
+    "goose": {
+      "tlozfan": "1"
+    }
+  },
+  {
+    "id": "怀特赛兹",
+    "level": "16",
+    "goose": {
+      "tlozfan": "-1"
+    }
+  },
+  {
+    "id": "怀特赛兹",
+    "level": "20",
+    "goose": {
+      "tlozfan": "-1"
+    }
+  },
+  {
+    "id": "superlink",
+    "level": "31",
+    "goose": {
+      "tlozfan": "1"
+    }
+  },
+  {
+    "id": "放大镜",
+    "level": "37",
+    "goose": {
+      "swanon": "1",
+      "Swanfal": "1"
+    }
+  },
+  {
+    "id": "怀特赛兹",
+    "level": "40",
+    "goose": {
+      "difeltion": "-2"
+    }
+  },
+  {
+    "id": "Swanfal",
+    "level": "62",
+    "goose": {
+      "mlfans": "1",
+      "swanon": "1"
+    }
+  },
+  {
+    "id": "江口夕",
+    "level": "93",
+    "goose": {
+      "oil": "1",
+      "芷雅居": "1",
+      "九十九忍": "1",
+      "tlozfan": "-1"
+    }
+  }
+]

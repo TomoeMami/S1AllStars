@@ -1,0 +1,16 @@
+[
+  {
+    "id": "高分高能EPYC",
+    "level": "89",
+    "goose": {
+      "Centrum": "1"
+    }
+  },
+  {
+    "id": "hael",
+    "level": "95",
+    "goose": {
+      "RAMDA": "1"
+    }
+  }
+]

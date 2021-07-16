@@ -1,0 +1,33 @@
+[
+  {
+    "id": "三得利乌龙茶",
+    "level": "2",
+    "goose": {
+      "光的彼端": "1"
+    }
+  },
+  {
+    "id": "solora",
+    "level": "14",
+    "goose": {
+      "zutama": "1",
+      "光的彼端": "1"
+    }
+  },
+  {
+    "id": "yxch",
+    "level": "25",
+    "goose": {
+      "佐塚間桐": "1",
+      "lixianfyss": "-1"
+    }
+  },
+  {
+    "id": "转生的上将",
+    "level": "49",
+    "goose": {
+      "Colonnello": "1",
+      "lixianfyss": "1"
+    }
+  }
+]

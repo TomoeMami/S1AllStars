@@ -1,0 +1,50 @@
+[
+  {
+    "id": "xwr",
+    "level": "7690",
+    "goose": {
+      "YESIARE": "1"
+    }
+  },
+  {
+    "id": "IWS2000",
+    "level": "7749",
+    "goose": {
+      "xwr": "1"
+    }
+  },
+  {
+    "id": "龙之峰",
+    "level": "7750",
+    "goose": {
+      "2tch": "1",
+      "dc5281": "1",
+      "depthlee": "1",
+      "xmcp": "1",
+      "YESIARE": "1",
+      "wuliaozheX": "1"
+    }
+  },
+  {
+    "id": "xingenge",
+    "level": "7807",
+    "goose": {
+      "xwr": "1"
+    }
+  },
+  {
+    "id": "zxc4563982",
+    "level": "8108",
+    "goose": {
+      "curiousnoob": "1"
+    }
+  },
+  {
+    "id": "第五秋",
+    "level": "8125",
+    "goose": {
+      "堆雪若叶": "1",
+      "龙之峰": "1"
+    }
+  }
+]

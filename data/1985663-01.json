@@ -1,0 +1,24 @@
+[
+  {
+    "id": "契卡",
+    "level": "13",
+    "goose": {
+      "acgcon": "1",
+      "9号单开道岔": "1"
+    }
+  },
+  {
+    "id": "hunterkiller",
+    "level": "16",
+    "goose": {
+      "eveningag": "1"
+    }
+  },
+  {
+    "id": "ww-stl",
+    "level": "59",
+    "goose": {
+      "给我加个鹅吧": "-1"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "",
+    "level": "1",
+    "goose": {
+      "棒读": "1",
+      "巫师萨满": "1",
+      "Sza": "1",
+      "yaole_yl": "-1"
+    }
+  },
+  {
+    "id": "Sza",
+    "level": "6",
+    "goose": {
+      "silentprayer": "2"
+    }
+  },
+  {
+    "id": "keamedes",
+    "level": "7",
+    "goose": {
+      "exgolddizzy": "1"
+    }
+  }
+]

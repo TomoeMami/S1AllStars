@@ -1,0 +1,32 @@
+[
+  {
+    "id": "九一式",
+    "level": "1698",
+    "goose": {
+      "1q11": "1",
+      "Sliurus": "1",
+      "maoyou": "1"
+    }
+  },
+  {
+    "id": "九一式",
+    "level": "1798",
+    "goose": {
+      "suihgouieru": "1"
+    }
+  },
+  {
+    "id": "Franc",
+    "level": "1814",
+    "goose": {
+      "maoyou": "1"
+    }
+  },
+  {
+    "id": "suihgouieru",
+    "level": "2692",
+    "goose": {
+      "zakki": "1"
+    }
+  }
+]

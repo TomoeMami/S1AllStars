@@ -1,0 +1,59 @@
+[
+  {
+    "id": "淡蓝色幽灵",
+    "level": "7",
+    "goose": {
+      "破罐子": "1"
+    }
+  },
+  {
+    "id": "ualiant",
+    "level": "9",
+    "goose": {
+      "幽灵部长助理": "1",
+      "_nihil": "1",
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "真田丸",
+    "level": "14",
+    "goose": {
+      "xinfengj": "1",
+      "秋月长风": "1",
+      "lixianfyss": "-2"
+    }
+  },
+  {
+    "id": "嘟帝",
+    "level": "18",
+    "goose": {
+      "giddenslee": "1",
+      "lixianfyss": "1"
+    }
+  },
+  {
+    "id": "淡蓝色幽灵",
+    "level": "60",
+    "goose": {
+      "iceplatinum": "1",
+      "Mafise": "2",
+      "聚散浮云": "1"
+    }
+  },
+  {
+    "id": "daikejay",
+    "level": "72",
+    "goose": {
+      "xinfengj": "1",
+      "聚散浮云": "-1"
+    }
+  },
+  {
+    "id": "淡蓝色幽灵",
+    "level": "117",
+    "goose": {
+      "嘟帝": "1"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "harry3",
+    "level": "3",
+    "goose": {
+      "DK_DARKmatter": "-1"
+    }
+  },
+  {
+    "id": "Neozero",
+    "level": "336",
+    "goose": {
+      "ギナ": "2"
+    }
+  },
+  {
+    "id": "螺纹",
+    "level": "440",
+    "goose": {
+      "Neozero": "1"
+    }
+  },
+  {
+    "id": "honeybrain",
+    "level": "512",
+    "goose": {
+      "Neozero": "-1"
+    }
+  },
+  {
+    "id": "逻辑自闭症",
+    "level": "521",
+    "goose": {
+      "Neozero": "-1"
+    }
+  },
+  {
+    "id": "逻辑自闭症",
+    "level": "527",
+    "goose": {
+      "Neozero": "-1"
+    }
+  }
+]

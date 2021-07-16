@@ -1,0 +1,36 @@
+[
+  {
+    "id": "Bernoulli",
+    "level": "40",
+    "goose": {
+      "不和谐音": "-1",
+      "闻道沐心": "-1",
+      "gunbird": "-1",
+      "黄土豆": "1",
+      "霧亥": "2",
+      "Grenadier": "-2"
+    }
+  },
+  {
+    "id": "lexi",
+    "level": "106",
+    "goose": {
+      "Thursday": "-1"
+    }
+  },
+  {
+    "id": "03e7",
+    "level": "136",
+    "goose": {
+      "invotto": "-1"
+    }
+  },
+  {
+    "id": "lexi",
+    "level": "144",
+    "goose": {
+      "cwjstat": "-1",
+      "Thursday": "-1"
+    }
+  }
+]

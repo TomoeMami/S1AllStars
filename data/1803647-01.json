@@ -1,0 +1,42 @@
+[
+  {
+    "id": "KOPKOM",
+    "level": "295",
+    "goose": {
+      "真实之影": "2",
+      "Stellar_Frost": "1"
+    }
+  },
+  {
+    "id": "xingenge",
+    "level": "374",
+    "goose": {
+      "Stellar_Frost": "1"
+    }
+  },
+  {
+    "id": "ティグル",
+    "level": "390",
+    "goose": {
+      "萨尤克": "1",
+      "cxasuka": "2",
+      "runningcost": "1",
+      "JimmyJoker": "1",
+      "Stellar_Frost": "1"
+    }
+  },
+  {
+    "id": "zhangruiy",
+    "level": "435",
+    "goose": {
+      "imbadza": "1"
+    }
+  },
+  {
+    "id": "小野賢章",
+    "level": "445",
+    "goose": {
+      "Stellar_Frost": "1"
+    }
+  }
+]

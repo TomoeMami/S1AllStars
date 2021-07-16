@@ -1,0 +1,30 @@
+[
+  {
+    "id": "starrlit",
+    "level": "22",
+    "goose": {
+      "StaticAnalysis": "1"
+    }
+  },
+  {
+    "id": "裏世界",
+    "level": "24",
+    "goose": {
+      "搞不好是哈士奇": "1"
+    }
+  },
+  {
+    "id": "思考者厄尼尔",
+    "level": "40",
+    "goose": {
+      "sqd": "1"
+    }
+  },
+  {
+    "id": "你又开始了？",
+    "level": "101",
+    "goose": {
+      "StaticAnalysis": "1"
+    }
+  }
+]

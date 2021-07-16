@@ -1,0 +1,17 @@
+[
+  {
+    "id": "kumquat_cc",
+    "level": "32",
+    "goose": {
+      "Kuroe": "1",
+      "lokomotiv": "1"
+    }
+  },
+  {
+    "id": "roypp",
+    "level": "64",
+    "goose": {
+      "adobecc": "1"
+    }
+  }
+]

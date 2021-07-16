@@ -1,0 +1,31 @@
+[
+  {
+    "id": "离谱兰斯基",
+    "level": "21",
+    "goose": {
+      "Chromium": "1",
+      "戏言罢了": "1"
+    }
+  },
+  {
+    "id": "VALKIRA",
+    "level": "61",
+    "goose": {
+      "SuperiorSiege": "1"
+    }
+  },
+  {
+    "id": "机动壮士",
+    "level": "94",
+    "goose": {
+      "Faerire": "1"
+    }
+  },
+  {
+    "id": "烽火连城",
+    "level": "109",
+    "goose": {
+      "dsalk": "1"
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "luowei_nowe",
+    "level": "13",
+    "goose": {
+      "装甲兔": "2"
+    }
+  },
+  {
+    "id": "毛利提督",
+    "level": "22",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "dstar",
+    "level": "28",
+    "goose": {
+      "loudly": "1"
+    }
+  },
+  {
+    "id": "beta10",
+    "level": "48",
+    "goose": {
+      "redivan": "2"
+    }
+  },
+  {
+    "id": "不见不散",
+    "level": "118",
+    "goose": {
+      "yuruki": "-1"
+    }
+  },
+  {
+    "id": "渡边君",
+    "level": "130",
+    "goose": {
+      "哈尔摩尼亚N": "1",
+      "翾鹊": "1"
+    }
+  }
+]

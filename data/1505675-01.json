@@ -1,0 +1,39 @@
+[
+  {
+    "id": "白地将军",
+    "level": "290",
+    "goose": {
+      "C男人": "1",
+      "downnote": "1"
+    }
+  },
+  {
+    "id": "zet",
+    "level": "510",
+    "goose": {
+      "powerpyc": "1"
+    }
+  },
+  {
+    "id": "downnote",
+    "level": "527",
+    "goose": {
+      "powerpyc": "1",
+      "小小黄": "1"
+    }
+  },
+  {
+    "id": "cdfjg",
+    "level": "769",
+    "goose": {
+      "hagane": "1"
+    }
+  },
+  {
+    "id": "空月の梦",
+    "level": "991",
+    "goose": {
+      "hagane": "1"
+    }
+  }
+]

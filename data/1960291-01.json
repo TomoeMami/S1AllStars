@@ -1,0 +1,54 @@
+[
+  {
+    "id": "签收通知",
+    "level": "12",
+    "goose": {
+      "redivan": "1"
+    }
+  },
+  {
+    "id": "幽远ghofar",
+    "level": "16",
+    "goose": {
+      "晚韶华": "2",
+      "闲的有聊": "1",
+      "光的彼端": "1",
+      "丢了五块钱": "1",
+      "MagicalMinori": "1",
+      "那牛喝多": "1",
+      "czs13": "2",
+      "Aomina": "1",
+      "zhangciwu": "1",
+      "starrlit": "1"
+    }
+  },
+  {
+    "id": "kelveen",
+    "level": "30",
+    "goose": {
+      "leavesf1ying": "1",
+      "鵝": "-2"
+    }
+  },
+  {
+    "id": "hubman",
+    "level": "101",
+    "goose": {
+      "杨松": "2"
+    }
+  },
+  {
+    "id": "nessaj",
+    "level": "133",
+    "goose": {
+      "cooljoe": "1"
+    }
+  },
+  {
+    "id": "巨魔已被忠诚",
+    "level": "181",
+    "goose": {
+      "鹰富士茄子": "1"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "東京地方検察庁",
+    "level": "19",
+    "goose": {
+      "雁落": "1"
+    }
+  },
+  {
+    "id": "socinius",
+    "level": "83",
+    "goose": {
+      "SwitimeKanga": "-1"
+    }
+  },
+  {
+    "id": "SwitimeKanga",
+    "level": "96",
+    "goose": {
+      "socinius": "-2"
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "id": "www151007",
+    "level": "4608",
+    "goose": {
+      "西门无恨": "2"
+    }
+  },
+  {
+    "id": "sibaibashi",
+    "level": "4708",
+    "goose": {
+      "西门无恨": "1"
+    }
+  },
+  {
+    "id": "FUZE",
+    "level": "4744",
+    "goose": {
+      "强袭目田": "1"
+    }
+  },
+  {
+    "id": "eienyami",
+    "level": "4891",
+    "goose": {
+      "西门无恨": "1"
+    }
+  },
+  {
+    "id": "平贺才人",
+    "level": "5026",
+    "goose": {
+      "ASLOP": "1",
+      "FUZE": "1"
+    }
+  },
+  {
+    "id": "waelaZed",
+    "level": "5199",
+    "goose": {
+      "nonecat": "1"
+    }
+  },
+  {
+    "id": "chrispig",
+    "level": "5512",
+    "goose": {
+      "laxect": "1"
+    }
+  },
+  {
+    "id": "acalephs",
+    "level": "5879",
+    "goose": {
+      "西门无恨": "2"
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "",
+    "level": "1",
+    "goose": {
+      "eggplant": "1"
+    }
+  },
+  {
+    "id": "反面教材",
+    "level": "5",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "一个再一个",
+    "level": "29",
+    "goose": {
+      "youlen": "1"
+    }
+  },
+  {
+    "id": "坚果大爷",
+    "level": "48",
+    "goose": {
+      "cosmoc2": "1",
+      "water": "1",
+      "cpuisme": "1",
+      "梅德韦杰娃": "1"
+    }
+  },
+  {
+    "id": "ques0712",
+    "level": "54",
+    "goose": {
+      "cosmoc2": "-1"
+    }
+  },
+  {
+    "id": "蹲墙角",
+    "level": "56",
+    "goose": {
+      "cosmoc2": "1"
+    }
+  },
+  {
+    "id": "flyzzhj",
+    "level": "358",
+    "goose": {
+      "MortarHeadd": "1"
+    }
+  }
+]

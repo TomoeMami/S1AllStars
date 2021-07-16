@@ -1,0 +1,57 @@
+[
+  {
+    "id": "",
+    "level": "1",
+    "goose": {
+      "瓜苗乐章": "1",
+      "dumplingpro": "1",
+      "Hanzong": "1"
+    }
+  },
+  {
+    "id": "Hanzong",
+    "level": "37",
+    "goose": {
+      "厨具战士": "2"
+    }
+  },
+  {
+    "id": "希德尼娅",
+    "level": "104",
+    "goose": {
+      "Elevation": "-1"
+    }
+  },
+  {
+    "id": "真田丸",
+    "level": "123",
+    "goose": {
+      "Elevation": "-2",
+      "朔方原的星": "-2",
+      "zyzy2": "-1",
+      "Existinghomes": "-1"
+    }
+  },
+  {
+    "id": "真田丸",
+    "level": "131",
+    "goose": {
+      "被子十三": "-1",
+      "faithlifer": "-1",
+      "聚散浮云": "-1",
+      "Existinghomes": "-2",
+      "Tissuesea": "-1",
+      "向上君": "-1",
+      "Elevation": "-1",
+      "zyzy2": "-1",
+      "Hanzong": "-1"
+    }
+  },
+  {
+    "id": "dumplingpro",
+    "level": "141",
+    "goose": {
+      "tsukicn": "1"
+    }
+  }
+]

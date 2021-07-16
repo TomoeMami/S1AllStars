@@ -1,0 +1,75 @@
+[
+  {
+    "id": "yukinosarai",
+    "level": "7",
+    "goose": {
+      "精灵ama": "1"
+    }
+  },
+  {
+    "id": "aiplus",
+    "level": "9",
+    "goose": {
+      "Jeminy": "1",
+      "Netheril": "1",
+      "Ikikju": "1",
+      "塞利斯": "1"
+    }
+  },
+  {
+    "id": "粉色猛男",
+    "level": "10",
+    "goose": {
+      "МаксФёд": "-1"
+    }
+  },
+  {
+    "id": "eidos",
+    "level": "11",
+    "goose": {
+      "adobecc": "1",
+      "i0ncuBe": "1"
+    }
+  },
+  {
+    "id": "十二国",
+    "level": "12",
+    "goose": {
+      "WOOW": "-1",
+      "bnr34y3": "-1",
+      "Nakano66666": "-1",
+      "酒瓶止迁": "-2",
+      "sevra": "2",
+      "МаксФёд": "-1"
+    }
+  },
+  {
+    "id": "i0ncuBe",
+    "level": "16",
+    "goose": {
+      "WOOW": "1"
+    }
+  },
+  {
+    "id": "wlgdc",
+    "level": "25",
+    "goose": {
+      "МаксФёд": "-1"
+    }
+  },
+  {
+    "id": "真红眼教授",
+    "level": "28",
+    "goose": {
+      "Suljo": "1"
+    }
+  },
+  {
+    "id": "woodey",
+    "level": "30",
+    "goose": {
+      "3Psm": "-1",
+      "yxch": "-1"
+    }
+  }
+]

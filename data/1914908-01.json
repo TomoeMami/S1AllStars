@@ -1,0 +1,66 @@
+[
+  {
+    "id": "天悬星河",
+    "level": "135",
+    "goose": {
+      "MisForTunez": "1"
+    }
+  },
+  {
+    "id": "lsa",
+    "level": "141",
+    "goose": {
+      "MisForTunez": "2"
+    }
+  },
+  {
+    "id": "vorastrix",
+    "level": "151",
+    "goose": {
+      "MisForTunez": "1"
+    }
+  },
+  {
+    "id": "lsa",
+    "level": "152",
+    "goose": {
+      "MisForTunez": "1"
+    }
+  },
+  {
+    "id": "MisForTunez",
+    "level": "172",
+    "goose": {
+      "lsa": "2"
+    }
+  },
+  {
+    "id": "lsa",
+    "level": "174",
+    "goose": {
+      "MisForTunez": "1"
+    }
+  },
+  {
+    "id": "天悬星河",
+    "level": "177",
+    "goose": {
+      "MisForTunez": "1"
+    }
+  },
+  {
+    "id": "Dokiec",
+    "level": "178",
+    "goose": {
+      "MisForTunez": "1"
+    }
+  },
+  {
+    "id": "lsa",
+    "level": "179",
+    "goose": {
+      "MisForTunez": "1",
+      "天悬星河": "1"
+    }
+  }
+]

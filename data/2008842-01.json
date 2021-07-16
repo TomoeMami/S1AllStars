@@ -1,0 +1,52 @@
+[
+  {
+    "id": "三得利乌龙茶",
+    "level": "13",
+    "goose": {
+      "randomGenerator": "1"
+    }
+  },
+  {
+    "id": "来看你",
+    "level": "19",
+    "goose": {
+      "jzz1929": "-1",
+      "不见不散": "-1"
+    }
+  },
+  {
+    "id": "鵝",
+    "level": "26",
+    "goose": {
+      "叶夜青": "1",
+      "hyde_caesar": "1",
+      "zmny": "1",
+      "pockem": "1",
+      "6847651": "1",
+      "JMFluorece": "1",
+      "ULgazer": "1"
+    }
+  },
+  {
+    "id": "lalala德玛西亚",
+    "level": "50",
+    "goose": {
+      "霧亥": "-1",
+      "scream": "1"
+    }
+  },
+  {
+    "id": "zcrptx",
+    "level": "81",
+    "goose": {
+      "翠乙鼠": "2"
+    }
+  },
+  {
+    "id": "马化云",
+    "level": "94",
+    "goose": {
+      "lalala德玛西亚": "-1"
+    }
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "id": "sy137646",
+    "level": "3034",
+    "goose": {
+      "advancedigger": "1",
+      "my707776310": "1",
+      "midearth": "1"
+    }
+  },
+  {
+    "id": "midearth",
+    "level": "3036",
+    "goose": {
+      "sy137646": "1"
+    }
+  },
+  {
+    "id": "solaasos",
+    "level": "3042",
+    "goose": {
+      "sy137646": "1"
+    }
+  },
+  {
+    "id": "sy137646",
+    "level": "3085",
+    "goose": {
+      "韶华白首": "1"
+    }
+  },
+  {
+    "id": "韶华白首",
+    "level": "3185",
+    "goose": {
+      "sy137646": "1"
+    }
+  },
+  {
+    "id": "冬夜女公爵",
+    "level": "3350",
+    "goose": {
+      "莉莉橙": "1"
+    }
+  },
+  {
+    "id": "耐赫伊勒缇",
+    "level": "3885",
+    "goose": {
+      "莉莉橙": "1"
+    }
+  },
+  {
+    "id": "skives",
+    "level": "4022",
+    "goose": {
+      "wuliaozheX": "1"
+    }
+  },
+  {
+    "id": "amulelernen",
+    "level": "4053",
+    "goose": {
+      "skives": "1"
+    }
+  },
+  {
+    "id": "azq123wsx",
+    "level": "4351",
+    "goose": {
+      "szz131061": "1",
+      "zmw_831110": "2"
+    }
+  }
+]

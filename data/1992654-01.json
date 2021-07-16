@@ -1,0 +1,66 @@
+[
+  {
+    "id": "",
+    "level": "1",
+    "goose": {
+      "布恩迪亚": "1"
+    }
+  },
+  {
+    "id": "johnwick",
+    "level": "14",
+    "goose": {
+      "齐柏林轰炸机": "1",
+      "苇原雪道": "1"
+    }
+  },
+  {
+    "id": "尘落樱飞",
+    "level": "19",
+    "goose": {
+      "齐柏林轰炸机": "-1"
+    }
+  },
+  {
+    "id": "伪天然巨魔",
+    "level": "24",
+    "goose": {
+      "altermaaya": "-2"
+    }
+  },
+  {
+    "id": "altermaaya",
+    "level": "57",
+    "goose": {
+      "伪天然巨魔": "-1"
+    }
+  },
+  {
+    "id": "Frimp",
+    "level": "81",
+    "goose": {
+      "Dgnic_": "1"
+    }
+  },
+  {
+    "id": "fdodo",
+    "level": "99",
+    "goose": {
+      "Dgnic_": "1"
+    }
+  },
+  {
+    "id": "Lunamos",
+    "level": "100",
+    "goose": {
+      "Dgnic_": "1"
+    }
+  },
+  {
+    "id": "超氪金月饼",
+    "level": "101",
+    "goose": {
+      "Dgnic_": "1"
+    }
+  }
+]

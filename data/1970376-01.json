@@ -1,0 +1,71 @@
+[
+  {
+    "id": "",
+    "level": "1",
+    "goose": {
+      "youjishiwu": "-2",
+      "surf": "1",
+      "Hydra": "1",
+      "Ubb252": "-1",
+      "老沙鳄鱼": "-1"
+    }
+  },
+  {
+    "id": "不可避免",
+    "level": "11",
+    "goose": {
+      "BRRM": "1"
+    }
+  },
+  {
+    "id": "御风八极",
+    "level": "35",
+    "goose": {
+      "surf": "1",
+      "BRRM": "-1"
+    }
+  },
+  {
+    "id": "御风八极",
+    "level": "38",
+    "goose": {
+      "footmanpon": "-1"
+    }
+  },
+  {
+    "id": "Reimu853",
+    "level": "61",
+    "goose": {
+      "de_cbble_0": "1"
+    }
+  },
+  {
+    "id": "御风八极",
+    "level": "116",
+    "goose": {
+      "footmanpon": "-1"
+    }
+  },
+  {
+    "id": "wildarm",
+    "level": "127",
+    "goose": {
+      "Xenor": "1"
+    }
+  },
+  {
+    "id": "御风八极",
+    "level": "145",
+    "goose": {
+      "footmanpon": "-1"
+    }
+  },
+  {
+    "id": "御风八极",
+    "level": "150",
+    "goose": {
+      "footmanpon": "-1",
+      "Suljo": "-1"
+    }
+  }
+]

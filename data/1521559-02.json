@@ -1,0 +1,24 @@
+[
+  {
+    "id": "cosamza",
+    "level": "1922",
+    "goose": {
+      "ECly": "1"
+    }
+  },
+  {
+    "id": "幽灵部长助理",
+    "level": "2081",
+    "goose": {
+      "ECly": "1",
+      "downforce": "1"
+    }
+  },
+  {
+    "id": "rayforran",
+    "level": "2129",
+    "goose": {
+      "Akanecode": "1"
+    }
+  }
+]

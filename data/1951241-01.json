@@ -1,0 +1,24 @@
+[
+  {
+    "id": "皆月镜",
+    "level": "10",
+    "goose": {
+      "JonnyGreenwood": "1"
+    }
+  },
+  {
+    "id": "MonicaRuan",
+    "level": "12",
+    "goose": {
+      "JonnyGreenwood": "1"
+    }
+  },
+  {
+    "id": "Lunamos",
+    "level": "31",
+    "goose": {
+      "人手如云": "1",
+      "nsevit": "1"
+    }
+  }
+]

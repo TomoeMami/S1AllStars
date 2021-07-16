@@ -1,0 +1,45 @@
+[
+  {
+    "id": "qzlhzlj",
+    "level": "18",
+    "goose": {
+      "lacusforever": "2",
+      "YuKin": "-2"
+    }
+  },
+  {
+    "id": "YuKin",
+    "level": "87",
+    "goose": {
+      "qzlhzlj": "-2"
+    }
+  },
+  {
+    "id": "qzlhzlj",
+    "level": "88",
+    "goose": {
+      "YuKin": "-2"
+    }
+  },
+  {
+    "id": "YuKin",
+    "level": "90",
+    "goose": {
+      "qzlhzlj": "-2"
+    }
+  },
+  {
+    "id": "qzlhzlj",
+    "level": "101",
+    "goose": {
+      "YuKin": "-2"
+    }
+  },
+  {
+    "id": "qzlhzlj",
+    "level": "104",
+    "goose": {
+      "YuKin": "-2"
+    }
+  }
+]

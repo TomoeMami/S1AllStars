@@ -1,0 +1,24 @@
+[
+  {
+    "id": "奶奶扣",
+    "level": "30",
+    "goose": {
+      "magus": "1",
+      "Tengu": "1"
+    }
+  },
+  {
+    "id": "pabier",
+    "level": "49",
+    "goose": {
+      "哈金·罗兰": "2"
+    }
+  },
+  {
+    "id": "ulric",
+    "level": "95",
+    "goose": {
+      "Booorunestud": "1"
+    }
+  }
+]

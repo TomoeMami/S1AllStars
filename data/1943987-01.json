@@ -1,0 +1,33 @@
+[
+  {
+    "id": "",
+    "level": "1",
+    "goose": {
+      "无所不黑": "1",
+      "forrea": "1"
+    }
+  },
+  {
+    "id": "USC",
+    "level": "2",
+    "goose": {
+      "ucla": "1"
+    }
+  },
+  {
+    "id": "ucla",
+    "level": "73",
+    "goose": {
+      "mr.t": "1",
+      "ady272": "-1"
+    }
+  },
+  {
+    "id": "deadog",
+    "level": "120",
+    "goose": {
+      "Idea": "1",
+      "GATES1": "1"
+    }
+  }
+]

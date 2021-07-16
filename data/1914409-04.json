@@ -1,0 +1,82 @@
+[
+  {
+    "id": "soraku",
+    "level": "4798",
+    "goose": {
+      "stedckk": "1"
+    }
+  },
+  {
+    "id": "stedckk",
+    "level": "5195",
+    "goose": {
+      "mmbk": "1",
+      "DT.official": "1",
+      "Badwoman": "1",
+      "soraku": "1"
+    }
+  },
+  {
+    "id": "一仙",
+    "level": "5198",
+    "goose": {
+      "DT.official": "1",
+      "stedckk": "1",
+      "soraku": "1",
+      "Badwoman": "1"
+    }
+  },
+  {
+    "id": "stedckk",
+    "level": "5201",
+    "goose": {
+      "一仙": "1"
+    }
+  },
+  {
+    "id": "百鬼绫目",
+    "level": "5211",
+    "goose": {
+      "一仙": "1"
+    }
+  },
+  {
+    "id": "紫夏",
+    "level": "5329",
+    "goose": {
+      "collasong": "1",
+      "soraku": "1"
+    }
+  },
+  {
+    "id": "水城雪风_Z",
+    "level": "5606",
+    "goose": {
+      "八月琉璃": "1",
+      "mmbk": "1",
+      "stedckk": "1",
+      "soraku": "1"
+    }
+  },
+  {
+    "id": "tiro_finale",
+    "level": "5651",
+    "goose": {
+      "一仙": "1"
+    }
+  },
+  {
+    "id": "因为你不会",
+    "level": "5817",
+    "goose": {
+      "stedckk": "1"
+    }
+  },
+  {
+    "id": "星尘的杨桃精",
+    "level": "5940",
+    "goose": {
+      "stedckk": "1"
+    }
+  }
+]

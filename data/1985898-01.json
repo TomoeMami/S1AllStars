@@ -1,0 +1,65 @@
+[
+  {
+    "id": "gg326",
+    "level": "14",
+    "goose": {
+      "zakki": "1"
+    }
+  },
+  {
+    "id": "walawa",
+    "level": "19",
+    "goose": {
+      "东海尖头鳗": "-1"
+    }
+  },
+  {
+    "id": "walawa",
+    "level": "30",
+    "goose": {
+      "东海尖头鳗": "-1"
+    }
+  },
+  {
+    "id": "乌丸千岁",
+    "level": "32",
+    "goose": {
+      "huoguoshan23": "1",
+      "Dank_Memes": "1",
+      "turnyyy": "1",
+      "东海尖头鳗": "-1"
+    }
+  },
+  {
+    "id": "微冷",
+    "level": "35",
+    "goose": {
+      "huoguoshan23": "-1",
+      "turnyyy": "-1",
+      "reyes1004": "-1"
+    }
+  },
+  {
+    "id": "汤圆です",
+    "level": "38",
+    "goose": {
+      "yhw1871": "1"
+    }
+  },
+  {
+    "id": "东海尖头鳗",
+    "level": "99",
+    "goose": {
+      "walawa": "-1",
+      "chusan": "1",
+      "newfaceryo": "-3"
+    }
+  },
+  {
+    "id": "lipo",
+    "level": "115",
+    "goose": {
+      "walawa": "1"
+    }
+  }
+]

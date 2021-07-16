@@ -1,0 +1,30 @@
+[
+  {
+    "id": "mixtycomeon",
+    "level": "67",
+    "goose": {
+      "是风": "1"
+    }
+  },
+  {
+    "id": "NPCNPC",
+    "level": "91",
+    "goose": {
+      "fuochai": "2"
+    }
+  },
+  {
+    "id": "kokolo",
+    "level": "125",
+    "goose": {
+      "flyzzhj": "1"
+    }
+  },
+  {
+    "id": "armagemon",
+    "level": "209",
+    "goose": {
+      "傾慕桃子": "1"
+    }
+  }
+]

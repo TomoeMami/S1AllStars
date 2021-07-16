@@ -1,0 +1,31 @@
+[
+  {
+    "id": "johan·liebert",
+    "level": "5",
+    "goose": {
+      "lrx200276": "1"
+    }
+  },
+  {
+    "id": "peh",
+    "level": "18",
+    "goose": {
+      "nozomitech": "1"
+    }
+  },
+  {
+    "id": "wuzhou6058",
+    "level": "23",
+    "goose": {
+      "pzk": "1"
+    }
+  },
+  {
+    "id": "printer22",
+    "level": "27",
+    "goose": {
+      "nozomitech": "1",
+      "lrx200276": "1"
+    }
+  }
+]

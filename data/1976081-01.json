@@ -1,0 +1,34 @@
+[
+  {
+    "id": "XXXEnetity",
+    "level": "51",
+    "goose": {
+      "树枝孤鸟": "1",
+      "粉色猛男": "1",
+      "selain.meneth": "-1",
+      "黄金蔷薇": "1",
+      "viennafray": "1"
+    }
+  },
+  {
+    "id": "XXXEnetity",
+    "level": "105",
+    "goose": {
+      "黄金蔷薇": "1"
+    }
+  },
+  {
+    "id": "树枝孤鸟",
+    "level": "119",
+    "goose": {
+      "黄金蔷薇": "1"
+    }
+  },
+  {
+    "id": "武男",
+    "level": "132",
+    "goose": {
+      "zhangyin": "-1"
+    }
+  }
+]

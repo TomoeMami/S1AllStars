@@ -1,0 +1,39 @@
+[
+  {
+    "id": "水映苍狼",
+    "level": "28",
+    "goose": {
+      "潘问": "1"
+    }
+  },
+  {
+    "id": "水映苍狼",
+    "level": "30",
+    "goose": {
+      "潘问": "1",
+      "无敌大法师": "-1",
+      "梅德韦杰娃": "1"
+    }
+  },
+  {
+    "id": "一只优越Fa♂",
+    "level": "33",
+    "goose": {
+      "DeltaStriker": "1"
+    }
+  },
+  {
+    "id": "nuclearg",
+    "level": "61",
+    "goose": {
+      "banrendacha": "1"
+    }
+  },
+  {
+    "id": "banrendacha",
+    "level": "69",
+    "goose": {
+      "mahoro99": "-1"
+    }
+  }
+]

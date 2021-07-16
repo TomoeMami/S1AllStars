@@ -1,0 +1,48 @@
+[
+  {
+    "id": "",
+    "level": "1",
+    "goose": {
+      "alter_ego_": "1",
+      "DoomsDay": "-1"
+    }
+  },
+  {
+    "id": "老沙鳄鱼",
+    "level": "27",
+    "goose": {
+      "LamdaHT": "1",
+      "zero4166": "1",
+      "clover293": "-1",
+      "Patrick000321": "1",
+      "beer": "1",
+      "サリシノハラ": "-1"
+    }
+  },
+  {
+    "id": "TANA",
+    "level": "40",
+    "goose": {
+      "LamdaHT": "1",
+      "老沙鳄鱼": "1"
+    }
+  },
+  {
+    "id": "サリシノハラ",
+    "level": "55",
+    "goose": {
+      "LamdaHT": "-1",
+      "clover293": "1",
+      "Patrick000321": "-1",
+      "老沙鳄鱼": "-1"
+    }
+  },
+  {
+    "id": "サリシノハラ",
+    "level": "67",
+    "goose": {
+      "LamdaHT": "-1",
+      "Patrick000321": "-1"
+    }
+  }
+]

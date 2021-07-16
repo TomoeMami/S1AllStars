@@ -1,0 +1,30 @@
+[
+  {
+    "id": "hamartia",
+    "level": "17",
+    "goose": {
+      "spiritualis": "1"
+    }
+  },
+  {
+    "id": "绿冰",
+    "level": "46",
+    "goose": {
+      "恋叶梦境": "1"
+    }
+  },
+  {
+    "id": "spadepie",
+    "level": "157",
+    "goose": {
+      "强袭目田": "2"
+    }
+  },
+  {
+    "id": "江戶川柯南",
+    "level": "447",
+    "goose": {
+      "supergilaboy": "-2"
+    }
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "aiplus",
+    "level": "9",
+    "goose": {
+      "傅里叶变换": "1"
+    }
+  },
+  {
+    "id": "kina",
+    "level": "21",
+    "goose": {
+      "ironsea": "1"
+    }
+  },
+  {
+    "id": "航迹云",
+    "level": "37",
+    "goose": {
+      "Solid/Liquid": "-1"
+    }
+  },
+  {
+    "id": "祭酒",
+    "level": "105",
+    "goose": {
+      "jjyycy": "1"
+    }
+  },
+  {
+    "id": "christiny",
+    "level": "111",
+    "goose": {
+      "rmzxe": "1"
+    }
+  },
+  {
+    "id": "航迹云",
+    "level": "136",
+    "goose": {
+      "xjjgp01": "-2",
+      "祭酒": "-1",
+      "lley": "-2"
+    }
+  },
+  {
+    "id": "悬杪亭",
+    "level": "137",
+    "goose": {
+      "MAO_DREAMER": "1"
+    }
+  },
+  {
+    "id": "航迹云",
+    "level": "160",
+    "goose": {
+      "iceskey": "-2",
+      "nsevit": "-2",
+      "dyyyc": "-1"
+    }
+  },
+  {
+    "id": "依旧19",
+    "level": "170",
+    "goose": {
+      "Solid/Liquid": "1",
+      "大巴车司机": "1"
+    }
+  },
+  {
+    "id": "航迹云",
+    "level": "173",
+    "goose": {
+      "nsevit": "-2"
+    }
+  },
+  {
+    "id": "Solid/Liquid",
+    "level": "193",
+    "goose": {
+      "gkstill": "1"
+    }
+  },
+  {
+    "id": "绿色森林",
+    "level": "200",
+    "goose": {
+      "骈儿": "1",
+      "nonzuku": "-1",
+      "Deesky": "-1"
+    }
+  }
+]

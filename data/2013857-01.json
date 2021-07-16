@@ -1,0 +1,38 @@
+[
+  {
+    "id": "小拖",
+    "level": "7",
+    "goose": {
+      "mengjunren": "1"
+    }
+  },
+  {
+    "id": "19343917",
+    "level": "16",
+    "goose": {
+      "whitesnake00": "1",
+      "谢云流": "1"
+    }
+  },
+  {
+    "id": "zhenniuren",
+    "level": "83",
+    "goose": {
+      "duguangjie": "-2"
+    }
+  },
+  {
+    "id": "zhenniuren",
+    "level": "93",
+    "goose": {
+      "duguangjie": "-2"
+    }
+  },
+  {
+    "id": "zhenniuren",
+    "level": "99",
+    "goose": {
+      "duguangjie": "-2"
+    }
+  }
+]

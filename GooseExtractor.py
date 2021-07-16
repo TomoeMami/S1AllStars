@@ -48,7 +48,7 @@ if __name__ == "__main__":
             a = ''
             for line in lines:
                 a += line.strip()
-            b = a.split("-----")
+            b = a.split("*****")
             c = []
             for level in b:
                 if "查看全部评分" in level:
@@ -63,7 +63,7 @@ if __name__ == "__main__":
                     b = a.split("|| ")
                     gooselist = {}
                     for c in b:
-                        num = ''.join(re.findall(r"\|[^-]*(-?\d{1,2})\|", c))
+                        num = ''.join(re.findall(r"\|[^-]*(-?\d{1,3})\|", c))
                         gooser = ''.join(re.findall(r"^(?:|\s)?(.+)\|[-\s]", c))
                         if(gooser):
                             if(gooser[0] == '|'):
@@ -75,6 +75,8 @@ if __name__ == "__main__":
                 spath = ''.join(re.findall(r"\d{5,7}-\d{2,4}", filepath))
                 with open('./data/'+spath+'.json',"w",encoding='utf-8') as f:
                             f.write(json.dumps(res,indent=2,ensure_ascii=False))
+        with open ('test.txt','a',encoding='UTF-8') as f:
+            f.write(filepath)
         #     res.append(data)
         # print(res)
 

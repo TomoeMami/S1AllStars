@@ -1,0 +1,31 @@
+[
+  {
+    "id": "nosmokingsp",
+    "level": "5",
+    "goose": {
+      "tau_cross": "1"
+    }
+  },
+  {
+    "id": "Prushka",
+    "level": "30",
+    "goose": {
+      "舞野咲": "-1",
+      "q48425709": "-1"
+    }
+  },
+  {
+    "id": "joker8023",
+    "level": "33",
+    "goose": {
+      "7七麦": "1"
+    }
+  },
+  {
+    "id": "雷诺4000",
+    "level": "43",
+    "goose": {
+      "Prushka": "1"
+    }
+  }
+]

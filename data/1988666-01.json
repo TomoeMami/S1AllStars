@@ -1,0 +1,89 @@
+[
+  {
+    "id": "refiver",
+    "level": "11",
+    "goose": {
+      "帝普达柯饭特稀": "1"
+    }
+  },
+  {
+    "id": "raii",
+    "level": "19",
+    "goose": {
+      "维斯瓦军团": "1",
+      "refiver": "1"
+    }
+  },
+  {
+    "id": "refiver",
+    "level": "32",
+    "goose": {
+      "浅川雏羽": "1",
+      "drilleye": "1",
+      "ky怪": "-1",
+      "Alaaddin1013": "-2",
+      "amber1768": "1"
+    }
+  },
+  {
+    "id": "雪菜碧池",
+    "level": "58",
+    "goose": {
+      "feketerigowien": "-1",
+      "鱼肉丸子": "2",
+      "amber1768": "-1",
+      "berserker210": "-1"
+    }
+  },
+  {
+    "id": "Guildenstern",
+    "level": "64",
+    "goose": {
+      "Alaaddin1013": "2"
+    }
+  },
+  {
+    "id": "refiver",
+    "level": "78",
+    "goose": {
+      "vmon": "2"
+    }
+  },
+  {
+    "id": "荀子的梦",
+    "level": "84",
+    "goose": {
+      "Alaaddin1013": "-2"
+    }
+  },
+  {
+    "id": "refiver",
+    "level": "115",
+    "goose": {
+      "厄斯沃穆": "1",
+      "BigLittle1999": "1",
+      "Alaaddin1013": "-2"
+    }
+  },
+  {
+    "id": "屑猫猫",
+    "level": "118",
+    "goose": {
+      "渺小小": "1"
+    }
+  },
+  {
+    "id": "Chia",
+    "level": "127",
+    "goose": {
+      "Alaaddin1013": "2"
+    }
+  },
+  {
+    "id": "refiver",
+    "level": "156",
+    "goose": {
+      "modkingr": "1"
+    }
+  }
+]

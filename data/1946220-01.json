@@ -1,0 +1,82 @@
+[
+  {
+    "id": "人形玩偶",
+    "level": "24",
+    "goose": {
+      "KaneL": "1"
+    }
+  },
+  {
+    "id": "novem",
+    "level": "32",
+    "goose": {
+      "Arclight": "1"
+    }
+  },
+  {
+    "id": "Mr.Cheung",
+    "level": "58",
+    "goose": {
+      "waterflying": "1",
+      "科学铃科百合子": "1",
+      "ylns1314": "1",
+      "ppkno": "1",
+      "雷猴雷猴": "1",
+      "KaneL": "1"
+    }
+  },
+  {
+    "id": "Mr.Cheung",
+    "level": "62",
+    "goose": {
+      "ysys": "1",
+      "肥羊": "2",
+      "一剪平四狼": "1",
+      "科学铃科百合子": "1",
+      "frankyhnm": "1",
+      "werone": "1"
+    }
+  },
+  {
+    "id": "外挂全家脚气",
+    "level": "68",
+    "goose": {
+      "科学铃科百合子": "1",
+      "蓝德罗夫": "1",
+      "晚韶华": "1",
+      "muzzle": "2"
+    }
+  },
+  {
+    "id": "heisenberg",
+    "level": "94",
+    "goose": {
+      "reyes1004": "-1"
+    }
+  },
+  {
+    "id": "GoInDown",
+    "level": "95",
+    "goose": {
+      "Illidan": "1",
+      "reyes1004": "-1"
+    }
+  },
+  {
+    "id": "Saphir",
+    "level": "109",
+    "goose": {
+      "洛拉斯": "-1",
+      "ysys": "-1",
+      "鱼肉丸子": "-2"
+    }
+  },
+  {
+    "id": "鱼肉丸子",
+    "level": "110",
+    "goose": {
+      "洛拉斯": "1",
+      "Saphir": "-1"
+    }
+  }
+]

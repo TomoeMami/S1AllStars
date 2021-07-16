@@ -1,0 +1,23 @@
+[
+  {
+    "id": "LucienLachance",
+    "level": "148",
+    "goose": {
+      "起飞": "2"
+    }
+  },
+  {
+    "id": "Baccano",
+    "level": "152",
+    "goose": {
+      "greataxe_02": "-1"
+    }
+  },
+  {
+    "id": "kaflash",
+    "level": "156",
+    "goose": {
+      "hellgate22": "-1"
+    }
+  }
+]

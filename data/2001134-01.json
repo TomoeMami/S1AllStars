@@ -1,0 +1,35 @@
+[
+  {
+    "id": "",
+    "level": "1",
+    "goose": {
+      "muyefytte": "1",
+      "马甲号2": "1",
+      "nebulanoby": "-1"
+    }
+  },
+  {
+    "id": "无敌杀人王",
+    "level": "7",
+    "goose": {
+      "mengkane": "-1",
+      "deadog": "-1",
+      "蟹工船": "1",
+      "holyblood": "-1"
+    }
+  },
+  {
+    "id": "深海鱼男",
+    "level": "40",
+    "goose": {
+      "nebulanoby": "1"
+    }
+  },
+  {
+    "id": "tamathe",
+    "level": "88",
+    "goose": {
+      "deadog": "-1"
+    }
+  }
+]

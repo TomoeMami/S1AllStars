@@ -1,0 +1,31 @@
+[
+  {
+    "id": "ruio",
+    "level": "2064",
+    "goose": {
+      "hari_seldon": "1",
+      "灵魂收割机": "1"
+    }
+  },
+  {
+    "id": "thoutzan",
+    "level": "2066",
+    "goose": {
+      "灵魂收割机": "1"
+    }
+  },
+  {
+    "id": "ruio",
+    "level": "2232",
+    "goose": {
+      "hari_seldon": "1"
+    }
+  },
+  {
+    "id": "漆黑弥塞亚",
+    "level": "2286",
+    "goose": {
+      "hari_seldon": "1"
+    }
+  }
+]

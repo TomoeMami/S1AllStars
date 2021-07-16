@@ -1,0 +1,88 @@
+[
+  {
+    "id": "Kuroe",
+    "level": "1562",
+    "goose": {
+      "sdfzzha": "1"
+    }
+  },
+  {
+    "id": "jkol",
+    "level": "1696",
+    "goose": {
+      "Kuroe": "1"
+    }
+  },
+  {
+    "id": "两听可乐",
+    "level": "2128",
+    "goose": {
+      "Fakerの幻影": "1",
+      "jkol": "1",
+      "darkclouds": "1"
+    }
+  },
+  {
+    "id": "Enlazy",
+    "level": "2161",
+    "goose": {
+      "Rosefinch": "1",
+      "雷瑟迷雾子弹": "1",
+      "游客1": "1",
+      "jkol": "1",
+      "西瓜爆裂": "1",
+      "p562935569": "1",
+      "ayamaki": "1",
+      "AntiLinked": "1",
+      "InvisibleP": "1",
+      "darkclouds": "1",
+      "Fakerの幻影": "1",
+      "两听可乐": "1",
+      "GJRstone": "1",
+      "nihongkai": "1",
+      "baizhi": "1",
+      "NeTlk": "1",
+      "links8018": "1"
+    }
+  },
+  {
+    "id": "hyz3203",
+    "level": "2195",
+    "goose": {
+      "Kuroe": "1"
+    }
+  },
+  {
+    "id": "hyz3203",
+    "level": "2318",
+    "goose": {
+      "sdfzzha": "1"
+    }
+  },
+  {
+    "id": "Vichik",
+    "level": "2419",
+    "goose": {
+      "jkol": "1"
+    }
+  },
+  {
+    "id": "憧憬鲨",
+    "level": "2459",
+    "goose": {
+      "两听可乐": "1",
+      "yuiyui": "1",
+      "links8018": "1",
+      "Enlazy": "1",
+      "zhizhi3678": "1",
+      "jkol": "1"
+    }
+  },
+  {
+    "id": "plllllum",
+    "level": "2477",
+    "goose": {
+      "jkol": "1"
+    }
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "民工业",
+    "level": "3034",
+    "goose": {
+      "net13p": "1",
+      "sobelisk": "1",
+      "古明地藏": "1",
+      "烈火烹油": "1",
+      "zzf111": "1"
+    }
+  },
+  {
+    "id": "观自在",
+    "level": "3325",
+    "goose": {
+      "xmmc1800": "1"
+    }
+  },
+  {
+    "id": "谎称",
+    "level": "3413",
+    "goose": {
+      "yuyuko214": "1",
+      "人手如云": "1",
+      "intotherain9": "1",
+      "littlebuster": "2",
+      "youharugen": "1"
+    }
+  },
+  {
+    "id": "佐塚間桐",
+    "level": "3612",
+    "goose": {
+      "kong78": "1"
+    }
+  },
+  {
+    "id": "zzf111",
+    "level": "3920",
+    "goose": {
+      "民工业": "1"
+    }
+  },
+  {
+    "id": "春秋",
+    "level": "3972",
+    "goose": {
+      "秦方": "1"
+    }
+  },
+  {
+    "id": "iceprince10",
+    "level": "4057",
+    "goose": {
+      "tsukicn": "1"
+    }
+  },
+  {
+    "id": "VALKIRA",
+    "level": "4240",
+    "goose": {
+      "stygianlunar": "1",
+      "秦方": "1"
+    }
+  }
+]

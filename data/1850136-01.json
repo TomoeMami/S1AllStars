@@ -1,0 +1,51 @@
+[
+  {
+    "id": "startraveller",
+    "level": "8",
+    "goose": {
+      "at逆风": "1"
+    }
+  },
+  {
+    "id": "逃离学校",
+    "level": "64",
+    "goose": {
+      "酱稀饭": "1"
+    }
+  },
+  {
+    "id": "leolodge",
+    "level": "92",
+    "goose": {
+      "seedees3": "1"
+    }
+  },
+  {
+    "id": "月形翔",
+    "level": "582",
+    "goose": {
+      "shangbanyongde": "1"
+    }
+  },
+  {
+    "id": "farAway",
+    "level": "602",
+    "goose": {
+      "杨松": "2"
+    }
+  },
+  {
+    "id": "qiyu1234",
+    "level": "1265",
+    "goose": {
+      "OVTVO": "1"
+    }
+  },
+  {
+    "id": "sunkaifeng00",
+    "level": "1269",
+    "goose": {
+      "杨松": "2"
+    }
+  }
+]

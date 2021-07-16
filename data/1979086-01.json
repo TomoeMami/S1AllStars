@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ODOG",
+    "level": "64",
+    "goose": {
+      "迷路的蜗牛": "1",
+      "redivan": "2",
+      "无动于衷": "1"
+    }
+  },
+  {
+    "id": "shishkebab",
+    "level": "70",
+    "goose": {
+      "acgcon": "-1"
+    }
+  }
+]

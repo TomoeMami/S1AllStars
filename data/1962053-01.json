@@ -1,0 +1,45 @@
+[
+  {
+    "id": "小月亮李再含",
+    "level": "22",
+    "goose": {
+      "楠芽吹": "1"
+    }
+  },
+  {
+    "id": "petrouchka",
+    "level": "42",
+    "goose": {
+      "intotherain9": "2"
+    }
+  },
+  {
+    "id": "楠芽吹",
+    "level": "89",
+    "goose": {
+      "小月亮李再含": "1",
+      "flyzzhj": "1"
+    }
+  },
+  {
+    "id": "明空",
+    "level": "102",
+    "goose": {
+      "spiritualis": "-2"
+    }
+  },
+  {
+    "id": "ntrntr1",
+    "level": "106",
+    "goose": {
+      "没有那个必要": "1"
+    }
+  },
+  {
+    "id": "鹦鹉螺号捕鲸手",
+    "level": "129",
+    "goose": {
+      "spiritualis": "-2"
+    }
+  }
+]

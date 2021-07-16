@@ -1,0 +1,34 @@
+[
+  {
+    "id": "widder",
+    "level": "63",
+    "goose": {
+      "赚钱娶老婆": "1",
+      "kamarus": "-2",
+      "daquan": "1",
+      "camelia_vie": "1"
+    }
+  },
+  {
+    "id": "widder",
+    "level": "80",
+    "goose": {
+      "kamarus": "1"
+    }
+  },
+  {
+    "id": "theloved",
+    "level": "95",
+    "goose": {
+      "jasoncoop": "1",
+      "宗汝": "1"
+    }
+  },
+  {
+    "id": "上杉謙信",
+    "level": "141",
+    "goose": {
+      "daquan": "1"
+    }
+  }
+]

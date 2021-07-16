@@ -1,0 +1,45 @@
+[
+  {
+    "id": "新八",
+    "level": "5",
+    "goose": {
+      "beater": "1"
+    }
+  },
+  {
+    "id": "hshiki",
+    "level": "6",
+    "goose": {
+      "新八": "1"
+    }
+  },
+  {
+    "id": "今天不守尸",
+    "level": "8",
+    "goose": {
+      "Suljo": "1"
+    }
+  },
+  {
+    "id": "Lunamos",
+    "level": "47",
+    "goose": {
+      "传说中的天才": "1"
+    }
+  },
+  {
+    "id": "渺小小",
+    "level": "52",
+    "goose": {
+      "Suljo": "1"
+    }
+  },
+  {
+    "id": "supperbatman",
+    "level": "152",
+    "goose": {
+      "带带阿苏卡": "1",
+      "老沙鳄鱼": "-1"
+    }
+  }
+]

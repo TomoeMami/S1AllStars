@@ -1,0 +1,23 @@
+[
+  {
+    "id": "SpectatorA",
+    "level": "2",
+    "goose": {
+      "Centrum": "1"
+    }
+  },
+  {
+    "id": "天网",
+    "level": "14",
+    "goose": {
+      "傻白的牌子": "1"
+    }
+  },
+  {
+    "id": "傅里叶变换",
+    "level": "37",
+    "goose": {
+      "Stellar_Frost": "1"
+    }
+  }
+]

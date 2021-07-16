@@ -1,0 +1,44 @@
+[
+  {
+    "id": "恐怖利刃",
+    "level": "6",
+    "goose": {
+      "ゴロー": "1"
+    }
+  },
+  {
+    "id": "黑魔导始祖",
+    "level": "12",
+    "goose": {
+      "ゴロー": "1"
+    }
+  },
+  {
+    "id": "愤怒的母猪",
+    "level": "14",
+    "goose": {
+      "Tengu": "1"
+    }
+  },
+  {
+    "id": "nosmokingsp",
+    "level": "16",
+    "goose": {
+      "BunnyFisher": "1"
+    }
+  },
+  {
+    "id": "wlgdc",
+    "level": "22",
+    "goose": {
+      "Tengu": "1"
+    }
+  },
+  {
+    "id": "hello0607",
+    "level": "29",
+    "goose": {
+      "Kojimaru": "1"
+    }
+  }
+]

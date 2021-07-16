@@ -1,0 +1,32 @@
+[
+  {
+    "id": "",
+    "level": "1",
+    "goose": {
+      "枯树大贤者": "-2",
+      "13.": "-1"
+    }
+  },
+  {
+    "id": "Patlain",
+    "level": "7",
+    "goose": {
+      "苇原雪道": "1"
+    }
+  },
+  {
+    "id": "Liquid_Snake",
+    "level": "11",
+    "goose": {
+      "gunterpla": "-1"
+    }
+  },
+  {
+    "id": "天真无鞋",
+    "level": "21",
+    "goose": {
+      "gunterpla": "1",
+      "野兽后辈": "1"
+    }
+  }
+]

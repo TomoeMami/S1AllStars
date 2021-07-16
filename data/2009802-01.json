@@ -1,0 +1,60 @@
+[
+  {
+    "id": "nowaki",
+    "level": "3",
+    "goose": {
+      "狗狗狗狗狗": "1"
+    }
+  },
+  {
+    "id": "屑屑代沟尼亚",
+    "level": "4",
+    "goose": {
+      "昆西昆希昆": "1"
+    }
+  },
+  {
+    "id": "opersuper",
+    "level": "10",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "シナモンロール",
+    "level": "39",
+    "goose": {
+      "星の守": "1"
+    }
+  },
+  {
+    "id": "nulla03",
+    "level": "69",
+    "goose": {
+      "魔法使い2019": "1"
+    }
+  },
+  {
+    "id": "凛子也想要五个",
+    "level": "76",
+    "goose": {
+      "admentus": "1"
+    }
+  },
+  {
+    "id": "admentus",
+    "level": "84",
+    "goose": {
+      "nowaki": "-2"
+    }
+  },
+  {
+    "id": "狗狗狗狗狗",
+    "level": "114",
+    "goose": {
+      "stedckk": "1",
+      "Map-2": "1",
+      "nowaki": "-2"
+    }
+  }
+]

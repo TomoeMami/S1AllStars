@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ツキミ",
+    "level": "9",
+    "goose": {
+      "zmxlegend": "-2"
+    }
+  },
+  {
+    "id": "莉莉橙",
+    "level": "152",
+    "goose": {
+      "勉强": "1"
+    }
+  },
+  {
+    "id": "惣流明日香",
+    "level": "424",
+    "goose": {
+      "kiralzb": "1"
+    }
+  },
+  {
+    "id": "xiongxingyu",
+    "level": "1235",
+    "goose": {
+      "notmyproblem": "1"
+    }
+  },
+  {
+    "id": "kiralzb",
+    "level": "1334",
+    "goose": {
+      "notmyproblem": "1"
+    }
+  }
+]

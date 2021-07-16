@@ -1,0 +1,87 @@
+[
+  {
+    "id": "a12885084",
+    "level": "2066",
+    "goose": {
+      "病欠": "1",
+      "子夜微雪": "1"
+    }
+  },
+  {
+    "id": "Benetyrant",
+    "level": "2142",
+    "goose": {
+      "nebulanoby": "1"
+    }
+  },
+  {
+    "id": "青龙圣者",
+    "level": "2146",
+    "goose": {
+      "a12885084": "1"
+    }
+  },
+  {
+    "id": "stygianlunar",
+    "level": "2441",
+    "goose": {
+      "nebulanoby": "1"
+    }
+  },
+  {
+    "id": "海域生还者",
+    "level": "2479",
+    "goose": {
+      "nebulanoby": "1"
+    }
+  },
+  {
+    "id": "paradokso",
+    "level": "2523",
+    "goose": {
+      "魂淡放我出去": "1"
+    }
+  },
+  {
+    "id": "千恋万花",
+    "level": "2714",
+    "goose": {
+      "Freakyyu": "1"
+    }
+  },
+  {
+    "id": "Ronu",
+    "level": "2738",
+    "goose": {
+      "RainbowSealife": "1"
+    }
+  },
+  {
+    "id": "a12885084",
+    "level": "2741",
+    "goose": {
+      "RainbowSealife": "1"
+    }
+  },
+  {
+    "id": "becomeafish",
+    "level": "2742",
+    "goose": {
+      "RainbowSealife": "1"
+    }
+  },
+  {
+    "id": "旁路母线断路器",
+    "level": "2743",
+    "goose": {
+      "RainbowSealife": "1"
+    }
+  },
+  {
+    "id": "子夜微雪",
+    "level": "2744",
+    "goose": {
+      "RainbowSealife": "1"
+    }
+  }
+]

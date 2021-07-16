@@ -1,0 +1,37 @@
+[
+  {
+    "id": "Racyjackman",
+    "level": "42",
+    "goose": {
+      "yuruki": "1"
+    }
+  },
+  {
+    "id": "beanbeam",
+    "level": "52",
+    "goose": {
+      "丁兔": "1"
+    }
+  },
+  {
+    "id": "星降る森",
+    "level": "81",
+    "goose": {
+      "Austaras": "1"
+    }
+  },
+  {
+    "id": "sheshiro",
+    "level": "94",
+    "goose": {
+      "Racyjackman": "2"
+    }
+  },
+  {
+    "id": "qa517045589",
+    "level": "115",
+    "goose": {
+      "stick": "-1"
+    }
+  }
+]
