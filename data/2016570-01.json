@@ -1,0 +1,31 @@
+[
+  {
+    "id": "sangw",
+    "level": "/home/riko/S1PlainTextBackup/外野/2016570-01[南京禄口机场工作人员检出新冠阳性9人].md113",
+    "goose": {
+      "zephyrus99": "1"
+    }
+  },
+  {
+    "id": "椎名mahuyo",
+    "level": "/home/riko/S1PlainTextBackup/外野/2016570-01[南京禄口机场工作人员检出新冠阳性9人].md162",
+    "goose": {
+      "lnight": "1"
+    }
+  },
+  {
+    "id": "qsjs",
+    "level": "/home/riko/S1PlainTextBackup/外野/2016570-01[南京禄口机场工作人员检出新冠阳性9人].md185",
+    "goose": {
+      "椎名mahuyo": "1",
+      "rockzrq": "1"
+    }
+  },
+  {
+    "id": "levant",
+    "level": "/home/riko/S1PlainTextBackup/外野/2016570-01[南京禄口机场工作人员检出新冠阳性9人].md192",
+    "goose": {
+      "qsjs": "1"
+    }
+  }
+]

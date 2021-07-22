@@ -38,7 +38,7 @@ def getkwfile(flist, keyword):
     return res
 
 if __name__ == "__main__":
-    dirpath = '/home/riko/S1PlainTextArchive2021/'
+    dirpath = '/home/riko/S1PlainTextGeneral/'
     filepaths = []                                
     all_files_path(dirpath)
     filepath2 = getkwfile(filepaths, 'md')
@@ -57,7 +57,7 @@ if __name__ == "__main__":
             for post in c:
                 data={}
                 data['id'] = ''.join(re.findall(r"^####\s\s([^#]+)#", post))
-                data['level'] = ''.join(re.findall(r"#####\s(\d+)#", post))
+                data['level'] = str(filepath)+''.join(re.findall(r"#####\s(\d+)#", post))
                 goose = re.findall(r"\|----\|---\|---\|(.+)查看全部评分", post)
                 for a in goose:
                     b = a.split("|| ")
@@ -75,8 +75,9 @@ if __name__ == "__main__":
                 spath = ''.join(re.findall(r"\d{5,7}-\d{2,4}", filepath))
                 with open('./data/'+spath+'.json',"w",encoding='utf-8') as f:
                             f.write(json.dumps(res,indent=2,ensure_ascii=False))
-        with open ('test.txt','a',encoding='UTF-8') as f:
-            f.write(filepath)
+                print(filepath)
+        # with open ('test.txt','a',encoding='UTF-8') as f:
+        #     f.write(filepath)
         #     res.append(data)
         # print(res)
 

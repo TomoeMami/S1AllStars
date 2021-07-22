@@ -1,9 +1,24 @@
 [
   {
     "id": "yguygyu",
-    "level": "10",
+    "level": "/home/riko/S1PlainTextBackup/漫区专楼/1982993-01[21.07『白沙的水族馆 ／ 白い砂のアクアトープ』专楼 07.08放送].md10",
     "goose": {
       "Piano-Forest": "1"
+    }
+  },
+  {
+    "id": "nerugigannte",
+    "level": "/home/riko/S1PlainTextBackup/漫区专楼/1982993-01[21.07『白沙的水族馆 ／ 白い砂のアクアトープ』专楼 07.08放送].md417",
+    "goose": {
+      "pzk": "1"
+    }
+  },
+  {
+    "id": "RainbowSealife",
+    "level": "/home/riko/S1PlainTextBackup/漫区专楼/1982993-01[21.07『白沙的水族馆 ／ 白い砂のアクアトープ』专楼 07.08放送].md442",
+    "goose": {
+      "Goisdust": "1",
+      "plazum": "1"
     }
   }
 ]

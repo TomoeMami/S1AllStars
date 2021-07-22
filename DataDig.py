@@ -66,10 +66,10 @@ def MakeNodes():
             nodes.append(c)
         for goose in datadict[key]['goose']:
             width = abs(datadict[key]['goose'][goose])
-            if width > 2:
+            if width > 3:
                 slink = {}
-                slink['source'] = key
-                slink['target'] = goose
+                slink['source'] = goose
+                slink['target'] = key
                 slink['lineStyle'] = {}
                 slink['value'] = datadict[key]['goose'][goose]
                 slink['lineStyle']['width'] = abs(datadict[key]['goose'][goose])/50
@@ -89,7 +89,7 @@ if __name__ == "__main__":
 
     # Merge()
     
-    # FilData()
+    FilData()
 
     MakeNodes()
 

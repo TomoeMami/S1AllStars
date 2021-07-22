@@ -1,7 +1,7 @@
 [
   {
     "id": "涯涯",
-    "level": "1",
+    "level": "/home/riko/S1PlainTextBackup/漫区/2014013-01[【10周年】回转企鹅罐rewatch 第1站 命运的钟声响起].md1",
     "goose": {
       "番茄子": "2",
       "星野航": "1",
@@ -23,21 +23,21 @@
   },
   {
     "id": "日向枣",
-    "level": "5",
+    "level": "/home/riko/S1PlainTextBackup/漫区/2014013-01[【10周年】回转企鹅罐rewatch 第1站 命运的钟声响起].md5",
     "goose": {
       "涯涯": "2"
     }
   },
   {
     "id": "BarryAllen",
-    "level": "17",
+    "level": "/home/riko/S1PlainTextBackup/漫区/2014013-01[【10周年】回转企鹅罐rewatch 第1站 命运的钟声响起].md17",
     "goose": {
       "涯涯": "2"
     }
   },
   {
     "id": "涯涯",
-    "level": "68",
+    "level": "/home/riko/S1PlainTextBackup/漫区/2014013-01[【10周年】回转企鹅罐rewatch 第1站 命运的钟声响起].md68",
     "goose": {
       "龙之峰": "1",
       "akiji": "1",
@@ -49,9 +49,16 @@
   },
   {
     "id": "NEIN-REIN",
-    "level": "72",
+    "level": "/home/riko/S1PlainTextBackup/漫区/2014013-01[【10周年】回转企鹅罐rewatch 第1站 命运的钟声响起].md72",
     "goose": {
       "涯涯": "1"
+    }
+  },
+  {
+    "id": "涯涯",
+    "level": "/home/riko/S1PlainTextBackup/漫区/2014013-01[【10周年】回转企鹅罐rewatch 第1站 命运的钟声响起].md127",
+    "goose": {
+      "BarryAllen": "1"
     }
   }
 ]
