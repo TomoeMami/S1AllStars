@@ -7858,8 +7858,8 @@
     }
   },
   "与天争锋_LZ": {
-    "size": 106,
-    "abssize": 126,
+    "size": 114,
+    "abssize": 120,
     "goose": {
       "kirimori": 2,
       "skullgreymon": 2,
@@ -7889,7 +7889,7 @@
       "ColinWine": 1,
       "pissca": 1,
       "克罗夏": 1,
-      "arx-7": -6,
+      "arx-7": 2,
       "影時雨": 8,
       "民工业": 2,
       "ultraseven": 1,
@@ -7978,12 +7978,12 @@
     }
   },
   "ads147147": {
-    "size": 8,
-    "abssize": 22,
+    "size": 16,
+    "abssize": 16,
     "goose": {
       "aiooia": 1,
       "你听得到": 1,
-      "arx-7": -7,
+      "arx-7": 1,
       "华安9527": 1,
       "Jamaisvu": 1,
       "kthec": 1,
@@ -22191,11 +22191,11 @@
     }
   },
   "空月の梦": {
-    "size": -4,
-    "abssize": 10,
+    "size": 4,
+    "abssize": 4,
     "goose": {
       "hagane": 1,
-      "arx-7": -7,
+      "arx-7": 1,
       "wuzhino1": 1,
       "愉悦的麻婆": 1
     }
@@ -22708,8 +22708,8 @@
     }
   },
   "暗月杀人兔": {
-    "size": 19,
-    "abssize": 43,
+    "size": 27,
+    "abssize": 37,
     "goose": {
       "xing10086": 1,
       "rossokun": 1,
@@ -22738,7 +22738,7 @@
       "A1LI": 2,
       "Onelooker": 1,
       "春哥亲自": 0,
-      "arx-7": -7
+      "arx-7": 1
     }
   },
   "bxforlwx": {
@@ -31294,8 +31294,8 @@
     }
   },
   "Arccueid": {
-    "size": 106,
-    "abssize": 120,
+    "size": 114,
+    "abssize": 114,
     "goose": {
       "罐头卡": 1,
       "lokok": 1,
@@ -31335,7 +31335,7 @@
       "GeraltzRivii": 1,
       "aisakahammer": 1,
       "Sanguine": 2,
-      "arx-7": -7,
+      "arx-7": 1,
       "BigLittle1999": 2,
       "RUANHYC": 1,
       "ylns1314": 1,
@@ -41720,11 +41720,11 @@
     }
   },
   "白龙": {
-    "size": 27,
-    "abssize": 55,
+    "size": 35,
+    "abssize": 49,
     "goose": {
       "newtype9": 4,
-      "arx-7": -7,
+      "arx-7": 1,
       "元肉丸子": 1,
       "chaos5823": 1,
       "狮子君": 1,
@@ -60869,11 +60869,11 @@
     }
   },
   "bad_alloc": {
-    "size": 19,
-    "abssize": 33,
+    "size": 27,
+    "abssize": 27,
     "goose": {
       "bird-lay": 1,
-      "arx-7": -7,
+      "arx-7": 1,
       "DancingAndy": 1,
       "Tienx": 1,
       "bpqsos": 1,
@@ -62605,8 +62605,8 @@
     }
   },
   "鱼肉丸子": {
-    "size": 24,
-    "abssize": 46,
+    "size": 32,
+    "abssize": 40,
     "goose": {
       "孫光龍": 1,
       "茛菪": 1,
@@ -62618,7 +62618,7 @@
       "远坂镜子": 1,
       "bwsusaga": 1,
       "yuwe0714": 1,
-      "RPG-7": -7,
+      "RPG-7": 1,
       "炯Ⅺ": 1,
       "wpf1205": 1,
       "lDaive": 1,
@@ -80155,10 +80155,10 @@
     }
   },
   "少阳": {
-    "size": -56,
-    "abssize": 70,
+    "size": -50,
+    "abssize": 64,
     "goose": {
-      "arx-7": -7,
+      "arx-7": -1,
       "射惠曲轴": -1,
       "少年kafka": -2,
       "DLSDFY": -1,
@@ -117252,8 +117252,8 @@
     }
   },
   "你又开始了？": {
-    "size": 11,
-    "abssize": 35,
+    "size": 19,
+    "abssize": 29,
     "goose": {
       "强袭目田": 1,
       "lyyyyyy1": 1,
@@ -117262,7 +117262,7 @@
       "夏溪澪mio": 1,
       "C.W.Nimitz": 1,
       "StaticAnalysis": 1,
-      "arx-7": -7,
+      "arx-7": 1,
       "jimmytong": -1,
       "isaih": 1,
       "代号锤子": -1,
@@ -146035,10 +146035,10 @@
     }
   },
   "SergeGlenn": {
-    "size": -7,
-    "abssize": 11,
+    "size": 1,
+    "abssize": 5,
     "goose": {
-      "arx-7": -7,
+      "arx-7": 1,
       "闻道沐心": -1,
       "hellgate22": -1,
       "grantstage": 1,
@@ -150192,10 +150192,10 @@
     }
   },
   "藤井紫": {
-    "size": 9,
-    "abssize": 27,
+    "size": 17,
+    "abssize": 21,
     "goose": {
-      "arx-7": -7,
+      "arx-7": 1,
       "refiver": 2,
       "吃货红毛": 2,
       "酷乐": -2,
@@ -156096,8 +156096,8 @@
     }
   },
   "wbtsy": {
-    "size": 20,
-    "abssize": 34,
+    "size": 28,
+    "abssize": 28,
     "goose": {
       "Tnsbilws": 1,
       "tlozfan": 4,
@@ -156113,7 +156113,7 @@
       "mimighost": 1,
       "SICP": 1,
       "jiemo0925": 1,
-      "arx-7": -7,
+      "arx-7": 1,
       "frankhzf": 1,
       "spiritualis": 1,
       "老沙鳄鱼": 2,
@@ -160167,11 +160167,11 @@
     }
   },
   "Fuero": {
-    "size": -4,
-    "abssize": 14,
+    "size": 4,
+    "abssize": 8,
     "goose": {
       "eggplant": 1,
-      "arx-7": -7,
+      "arx-7": 1,
       "道德弟弟": -2,
       "eden0412": 1,
       "TBM107": 1,
@@ -166457,10 +166457,10 @@
     }
   },
   "ranapocket": {
-    "size": -9,
-    "abssize": 25,
+    "size": -1,
+    "abssize": 19,
     "goose": {
-      "arx-7": -7,
+      "arx-7": 1,
       "Sylpheed": 1,
       "luciferion": 1,
       "Tochika": 2,
@@ -175056,12 +175056,12 @@
     }
   },
   "bazingar": {
-    "size": -13,
-    "abssize": 25,
+    "size": -5,
+    "abssize": 19,
     "goose": {
       "jiaozhuo": 1,
       "amber1768": -3,
-      "arx-7": -7,
+      "arx-7": 1,
       "snake213": 1,
       "不鸟一辉": -2,
       "luwuyue": -1,
@@ -188439,15 +188439,15 @@
     }
   },
   "Ivent": {
-    "size": -1,
-    "abssize": 13,
+    "size": 7,
+    "abssize": 7,
     "goose": {
       "BigLittle1999": 1,
       "aktk": 1,
       "whzfjk": 1,
       "lypylf": 1,
       "rak1": 1,
-      "arx-7": -7,
+      "arx-7": 1,
       "tlozfan": 1
     }
   },
@@ -195952,10 +195952,10 @@
     }
   },
   "ロラン・ローラ": {
-    "size": -6,
-    "abssize": 8,
+    "size": 2,
+    "abssize": 2,
     "goose": {
-      "arx-7": -7,
+      "arx-7": 1,
       "Ceraldur": 1
     }
   },

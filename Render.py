@@ -36,5 +36,5 @@ c = (
         title_opts=opts.TitleOpts(title="S1-鹅宇宙",
         subtitle="详情参见 https://bbs.saraba1st.com/2b/thread-2016868-1-1.html"),
         )
-    .render("index.html")
+    .render("label.html")
 )
