@@ -1,0 +1,33 @@
+[
+  {
+    "id": "深渊魔王",
+    "level": "/home/riko/S1PlainTextArchive2021/外野新闻/2020/1960407-01[教育部：城市中小学校将安排农业生产劳动].md15",
+    "goose": {
+      "望寒": "-2"
+    }
+  },
+  {
+    "id": "smlszh",
+    "level": "/home/riko/S1PlainTextArchive2021/外野新闻/2020/1960407-01[教育部：城市中小学校将安排农业生产劳动].md22",
+    "goose": {
+      "batrachium": "-1",
+      "望寒": "-2",
+      "МаксФёд": "-1"
+    }
+  },
+  {
+    "id": "邬德强",
+    "level": "/home/riko/S1PlainTextArchive2021/外野新闻/2020/1960407-01[教育部：城市中小学校将安排农业生产劳动].md35",
+    "goose": {
+      "東京地方検察庁": "1"
+    }
+  },
+  {
+    "id": "eyeego",
+    "level": "/home/riko/S1PlainTextArchive2021/外野新闻/2020/1960407-01[教育部：城市中小学校将安排农业生产劳动].md47",
+    "goose": {
+      "adobecc": "-1",
+      "望寒": "-2"
+    }
+  }
+]

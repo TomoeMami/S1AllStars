@@ -1,0 +1,23 @@
+[
+  {
+    "id": "東京地方検察庁",
+    "level": "/home/riko/S1PlainTextArchive2021/外野讨论（巨魔）/1991491-01[为什么日语那么喜欢用片假名].md19",
+    "goose": {
+      "雁落": "1"
+    }
+  },
+  {
+    "id": "socinius",
+    "level": "/home/riko/S1PlainTextArchive2021/外野讨论（巨魔）/1991491-01[为什么日语那么喜欢用片假名].md83",
+    "goose": {
+      "SwitimeKanga": "-1"
+    }
+  },
+  {
+    "id": "SwitimeKanga",
+    "level": "/home/riko/S1PlainTextArchive2021/外野讨论（巨魔）/1991491-01[为什么日语那么喜欢用片假名].md96",
+    "goose": {
+      "socinius": "-2"
+    }
+  }
+]

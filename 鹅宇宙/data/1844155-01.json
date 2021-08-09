@@ -1,0 +1,45 @@
+[
+  {
+    "id": "ssnake",
+    "level": "/home/riko/S1PlainTextArchive2021/漫区专楼/2020/1844155-01[19.10『巴比伦／バビロン』专楼 野崎まど原作].md454",
+    "goose": {
+      "astrayveller": "1"
+    }
+  },
+  {
+    "id": "病欠",
+    "level": "/home/riko/S1PlainTextArchive2021/漫区专楼/2020/1844155-01[19.10『巴比伦／バビロン』专楼 野崎まど原作].md458",
+    "goose": {
+      "ssnake": "1",
+      "manesz": "1"
+    }
+  },
+  {
+    "id": "ssnake",
+    "level": "/home/riko/S1PlainTextArchive2021/漫区专楼/2020/1844155-01[19.10『巴比伦／バビロン』专楼 野崎まど原作].md460",
+    "goose": {
+      "病欠": "1"
+    }
+  },
+  {
+    "id": "傲娇的章鱼",
+    "level": "/home/riko/S1PlainTextArchive2021/漫区专楼/2020/1844155-01[19.10『巴比伦／バビロン』专楼 野崎まど原作].md530",
+    "goose": {
+      "南非大金钻": "1"
+    }
+  },
+  {
+    "id": "الطائر",
+    "level": "/home/riko/S1PlainTextArchive2021/漫区专楼/2020/1844155-01[19.10『巴比伦／バビロン』专楼 野崎まど原作].md549",
+    "goose": {
+      "ssnake": "1"
+    }
+  },
+  {
+    "id": "ssnake",
+    "level": "/home/riko/S1PlainTextArchive2021/漫区专楼/2020/1844155-01[19.10『巴比伦／バビロン』专楼 野崎まど原作].md602",
+    "goose": {
+      "莫里斯": "1"
+    }
+  }
+]

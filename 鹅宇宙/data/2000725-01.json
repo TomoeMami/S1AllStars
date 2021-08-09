@@ -1,0 +1,33 @@
+[
+  {
+    "id": "nice女武神",
+    "level": "/home/riko/S1PlainTextArchive2021/外野讨论（巨魔）/2000725-01[吴语，危].md32",
+    "goose": {
+      "石傅": "1"
+    }
+  },
+  {
+    "id": "raxodus",
+    "level": "/home/riko/S1PlainTextArchive2021/外野讨论（巨魔）/2000725-01[吴语，危].md38",
+    "goose": {
+      "老纪": "1",
+      "中野六小龄童": "1"
+    }
+  },
+  {
+    "id": "linerboy",
+    "level": "/home/riko/S1PlainTextArchive2021/外野讨论（巨魔）/2000725-01[吴语，危].md55",
+    "goose": {
+      "老纪": "-1",
+      "石傅": "1"
+    }
+  },
+  {
+    "id": "不见不散",
+    "level": "/home/riko/S1PlainTextArchive2021/外野讨论（巨魔）/2000725-01[吴语，危].md58",
+    "goose": {
+      "noneeddeath": "-1",
+      "石傅": "1"
+    }
+  }
+]
